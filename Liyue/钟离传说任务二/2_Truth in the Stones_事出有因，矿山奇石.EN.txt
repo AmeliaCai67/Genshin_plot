@@ -1,0 +1,125 @@
+Truth in the Stones
+You arrive at the mine,the scene of the incident,and begin your investigation.A series of clues makes clear that there is nothing ordinary about this disappearance. What is the connection between the mysterious person behind this incident and the missing miners? Where did the missing miners disappear to? You have to know the truth.
+◆Head to the mining site that Uncle Dai mentioned
+Paimon: Whoa, this mine is huge...
+Uncle Dai: This is where the incident occurred.
+Uncle Dai: Six days ago, a group of us left the site to attend to other matters. When we returned, the four men we'd left behind had vanished. 
+Uncle Dai:I led a team around the entire mine but found no trace.That's when I decided to enlist help.
+Zhongli: So four miners have disappeared.
+Uncle Dai: Yes. There were ten of us.We lost Long, Bold Cen, Brave Cen, and Mao.I worked with all of them.
+Zhongli: Workers in this trade are usually young men in the prime of their lives. Could it be that the four of them left for another mine?
+Uncle Dai: Unlikely. There's no other lodging for miles around, and we didn't pass any other mines on the way over.
+Kun Jun: Huh...such a huge mine.Did you really manage to explore every corner?
+Uncle Dai:Underground, overground...we left no stone unturned.We tried everything short of digging further into the earth itself.How could four sturdy young men just vanish into the bedrock?
+Zhongli:We'll need to explore the site ourselves before extracting any conclusions.
+Uncle Dai: Very well,I'll wait here,please proceed wherever you'd like.If you come across any clues,let me know straight away. 
+◆ Look for clues
+Paimon: Over here! What's this?
+Paimon: A pile of shirts, some trousers...
+Zhongli: A few everyday items, they must belong to Uncle Dai and his men. 
+Paimon: One, two, three, four...
+Paimon: Huh...that seems right.Ten shirts,ten pairs of trousers. 
+Paimon: These must be spares,right? Look, Uncle Dai's clothes are 
+Zhongli: The four of them have been gone for six days without a change of clothes.
+Paimon: There's also a few handkerchiefs and some soap lying around...Oh, and some tool belts.
+Zhongli: Items for washing one's face before the dawn shift....mining equipment...
+Paimon: So... they didn't take any supplies... 
+Zhongli: Hmm, correct.
+旅行者: Maybe they didn't need them?
+Zhongli: Improbable.
+Zhongli: There are four pickaxes missng.It seems likely they left with the tools of their trade.
+Zhongli: They had time to take their tools,but not their everyday items?Curious.
+Paimon: Huh... why would someone set off with their tools, but leave their luggage behind?
+Zhongli:One:They were working close by and didn't need to move their personal effects. But seeing as they've yet to return, this seems an unlikely hypothesis.
+Zhongli: Or, two: They were forced to leave and had no time to think about their supplies. 
+Paimon: Oh...!
+旅行者: Do you think....someone kidnapped them?
+Zhongli:It's certainly a possibility.We'll need more clues before any further inference can be made.
+Paimon: If they didn't leave, maybe they were made to leave...Let's make a note and let Uncle Dai know. 
+◆Look for more clues
+Paimon: Kun Jun, what do you have there?
+Kun Jun: Oh, right on time. 
+Zhongli: Did you find anything?
+Kun Jun: There's a chunk of ore here,perhaps there are clues within. 
+Paimon: Ore? What does it have to do with the disappearance?
+Kun Jun: Let's find out.I'll give it a try.A moment please. 
+Kun Jun: ...Okay... 
+Zhongli:...
+Paimon: Uh... Looks like he's concentrating really hard. What's he up to?
+Kun Jun:I see... four men... following someone out of the mine...it looks like a child.
+Paimon: A child? What's a child doing in a mine!?
+Kun Jun: I'm not sure...
+Paimon: Also, how did you "see" anything exactly?
+Kun Jun: Oh! I don't mean 'see' in the traditional sense...I—I would appreciate it if what I'm about to tell you remained a secret.It's a little odd...I've never dared to tell anyone before. 
+Kun Jun: I can... perceive the memories of ore. 
+Paimon: Huh-!?
+Zhongli:"Perceive?"So there's no...conjecture at work?
+Paimon: You mean you can put your hand on a rock and-boom! It just happens?
+Kun Jun: I've always sensed that ore contains 'memories." Sometimes it records events that occur in the surrounding area. All I have to do is touch one and focus my attention,and the memories come to me.
+Paimon: Amazing! So you can find out everything that ever happened there!
+Kun Jun: It depends on the ore. Some ores have astounding memories. Others, like Iron Ore and White Iron Ore aren't up to much.Their memories are hazy.
+Kun Jun: Cor Lapis and crystal memories are much stronger. They record more events and in greater detail.
+Zhongli: Stone-seeing... fascinating. Arare ability indeed.It was prudent of Uncle Dai to recruit you, Mr. Kun Jun. 
+Kun Jun: Haha,I'm glad I can be of assistance.
+Kun Jun: Based on what I saw,I believe they followed this path. 
+Zhongli: This will take us north, away from the mine.
+Paimon: North...another clue for Uncle Dai! Let's make a note of it. 
+◆Look for more clues
+Zhongli: Excuse me sir, are you one of the workers here?
+Bravo: Ah! Yes,yes! You must be here about the disappearance.Please find them if you can!
+Bravo:I don't know what happened. The weather was gloomy that day, the foreman left with a few men.
+Bravo: I stayed behind with the other four.After a while I decided to take a break...just to catch my breath!
+Bravo: I ended up falling asleep in the shelter inside. When I woke up, there was no sight of them!I'd only just been speaking with them and suddenly... they'd vanished...
+Bravo: Maybe... maybe I'm next...
+Zhongli: So the men that were out working disappeared,with the only one left to tell the tale having been asleep in a shelter. 
+Zhongli: Perhaps an accident occurred on-site. 
+Paimon: Oh... What a scary thought...
+Paimon: An on-site accident...We should note that down too. 
+◆Report the outcome of your investigation to Uncle Dai
+Uncle Dai: You're back! How are the investigations going?
+Zhongli: We found three clues in the vicinity.
+Zhongli:First,there are four missing pickaxes,yet everyday items are still in their place.This suggests that your men didn't leave of their own accord, but were forced to.
+Uncle Dai:Forced to!? But...who would kidnap miners?
+Zhongli:Who, indeed. Second, there were five workers at the mine.One of them left the site to take respite. When he awoke, his colleagues had disappeared without a trace.
+Zhongli: Those who kept working all disappeared. The one who left early emerged safe and sound. It would appear that the incident occurred on-site. 
+Uncle Dai: Now that you mention it,I recall Bravo saying that he took a break.
+Uncle Dai: Could someone have entered the site and simply walked away with them!?
+Zhongli: This leads me to my third point. Mr. Kun Jun here made good use of his...expert techniques... to arrive at a conclusion. It was a child that took your men away.
+Uncle Dai: A child!? But there are no settlements here for miles around!There's no way a child would have made it over to the mine!
+Paimon: Unlikely as it sounds, that's our conclusion. Your men were following a child.
+Uncle Dai: Where did they go?
+Zhongli: We believe that they followed the road north,away from the mine and toward the ruins.
+Uncle Dai: North! Right, I'll rally my men and head in pursuit. 
+旅行者: Do you need help?
+Uncle Dai: You've been invaluable to the investigation, but leave the legwork to us.If we set off now and make haste, we might be able to catch 
+Zhongli: Not so fast. The incident occurred six days ago. Even if they set out on foot,they will have covered a lot of ground by now.
+Uncle Dai: *sigh* You're right...New plan.I'll lead my search party over to the settlements further out and make some inquiries.
+Uncle Dai: There are only a few settlements around here with lodging for the night. Well go investigate and see if we can come up with anything 
+Uncle Dai: In the meantime you could keep looking for clues.If we don't see each other,let's reconvene at Wangshu Inn tomorrow evening 
+Zhongli: Agreed.
+Uncle Dai: Alright, me and my men will get going!
+Paimon:So... they're gonna talk to the people over at the settlements,while we keep investigating here... 
+Zhongli: Correct.
+Paimon: But... there aren't any more clues at the mine...Shouldn't we go north？
+Zhongli: Wait...I believe we're missing someone. 
+Paimon： Huh？
+Paimon: Oh yeah, where's Kun Jun? Paimon bets he's still investigating. Let's go find him!
+◆Find Kun Jun
+Paimon:KunJun!What are you searching for? We're all out of clues! Let's get going!
+Kun Jun: Ah, apologies, I'm conducting a quick search for my own benefit. I'm looking for a precious stone known as Dragonfall. 
+Zhongli: Dragonfall?
+旅行者: Never heard of it.
+Zhongli: Dragonfall is often used in forging. What use do you have for it?
+Kun Jun: I...I don't know.
+Kun Jun:I-I'm sorry,I don't recall why I'm seeking it...I've been feeling very...absent lately. Name and address aside,I'm having trouble remembering things.
+Kun Jun: In fact,I've been feeling extremely....anxious...as if there's something I've forgotten to finish.It's...an unpleasant sensation.
+Paimon: Oh, Paimon knows that feeling! When you know you've forgotten something but you can't remember exactly what it is.
+Kun Jun: Ugh…I don't even know where to start with it,I've been.. aimlessly wandering. That day at the market,I overheard a conversation while I was buying something. They mentioned Dragonfall.
+Kun Jun: It sounded so familiar to me,as if whatever it was I had to do was linked to that stone...So I decided to look for some.
+Kun Jun: Perhaps if I can retrieve some,I'll remember what it is I have to 
+Zhongli:I see...If I am able to during our endeavour, I will help you look for this stone.
+Kun Jun: Really? Oh, thank you Mr. Zhongli! You're too kind!
+Zhongli: Think nothing of it. 
+Paimon: Shouldn't we get going?
+Zhongli: Heading north from The Chasm, well reach Lingju Pass. If this indeed the path they chose,there will be traces. 
+Paimon:Great! Let's have a look!

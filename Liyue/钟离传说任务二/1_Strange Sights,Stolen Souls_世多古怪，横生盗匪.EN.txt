@@ -1,0 +1,95 @@
+Strange Sights,Stolen Souls
+Katheryne of the Adventurers' Guild in Liyue Harbor has a new commission for you. You and Paimon decide to find out what it's all about.
+◆Go to the Liyue Adventurers' Guild and talk to Katheryne
+Paimon: Hi Katheryne,it's us! Any new commissions?
+Katheryne: As a matter of fact, there's one that looks perfect for you two. 
+Katheryne: Uncle Dai is one of theforemen at Huishan Hall over in Liyue Harbor. He's hoping the Adventurers' Guild can spare some manpower. 
+Paimon: What is it we have to do exactly?
+Katheryne:I believe you'll be looking for workers.
+Paimon: Ooh, looking for people? Awesome, we're good at that!
+Katheryne:I have no reason to doubt your abilities.
+Katheryne:I'm sure the details can be worked out facet of ace.If you're willing to accept this commission,head over to the dock and talk to Uncle Dai.
+◆ Head to the dock and find the foreman, Uncle Dai
+Paimon: Hey! Are you Uncle Dai?
+Uncle Dai: I am indeed.
+Uncle Dai: Ahh, now then, you must be the adventurers assigned by the Guild.
+Paimon: Huh? How could you tell!?
+Uncle Dai:By the clothes on your back and the look on your face. Experienced adventurers at that,I'll wager.
+Uncle Dai: Hahaha. In this trade, you need a sharp eye for people,not just rocks. Uncle Dai can see what you're made of from a long way off. 
+Uncle Dai: Alright,my assistant should be arriving soon so let's just wait here a moment.
+Paimon: Whoa whoa, that's why we're here! Now there's someone else taking a cut?
+Uncle Dai: Well, to tell you the truth,this is a very difficult matter.Too much for adventurers alone to handle,I fear... 
+Paimon: Hmph! So there is someone else!
+Paimon: Do you think we're not up to the job?
+旅行者: Steady, Paimon...
+Uncle Dai:It just occurred to me that you don't have all the facts.The incident in question happened in a mine,and it's a little out of the ordinary, to say the least. Mines are dangerous places,as I'm sure you're aware. As such,I've enlisted an industry expert to cover all contingencies.
+Uncle Dai: Last time I checked, adventurers weren't experts in ore appraisal or geological analysis. With a professional by your side,everything should run smoothly.
+Uncle Dai: Besides, this guy is the best in his field. No matter the rock, he'll tell you its value to the nearest Mora at a glance.
+Uncle Dai:I'd go as far to say that there's not a soul in Teyvat that knows rocks better than him.I'd be a fool to not enlist an expert of his caliber!
+Paimon: You're a fool if you think you found Teyvat's number one rock
+◆Look for Zhongli
+Iron Tongue Tian: In our last tale, Rex Lapis... 
+Paimon:Zhongli! There you are!
+Zhongli:Oh!
+Zhongli: Here for a few tales?I didn't know you two were connoisseurs. 
+Paimon: Oh, no no! We're here for you! Um... do you have time?
+Zhongli:Ah...something I'm rarely short of. 
+旅行者: We've accepted a commission...
+Paimon: We need someone who understands geology and ore. 
+Zhongli: Hmm...someone who understands geology and ore... 
+Paimon: Ugh...Take a look around! Is there anyone in Teyvat more qualified？
+Zhongli:But I should inform you that despite my expertise...I cannot necessarily claim to be a leading authority.
+Zhongli:We are at all times adrift in a sea of learning -new knowledge should be welcomed with open arms.Still, I imagine I will be of help to you in this endeavor.If we do encounter an expert,I look forward to broadening my own understandings.
+Paimon: Ugh…stop being so modest,Zhongli. 
+Paimon: Well, we got him! Let's head back to Uncle Dai!
+◆Return to the dock and talk to Uncle Dai
+Paimon: Uncle Dai! We're back!
+Uncle Dai: Oh! And this must be the friend you spoke of?
+Paimon: Yup! Paimon doesn't know who your rock expert is, but he's got nothing on our guy!
+Zhongli:Haha! let's not get a head of ourselves.Still,I do have a claim to some experience in this field.
+Uncle Dai: Uh-huh, so you say. Wait till my guy gets here,then we'll see. 
+Uncle Dai:It's no use me singing his praises.You'll have to see for yourselves.
+Kun Jun: Uh... is this the place?
+Uncle Dai: Aha! Speak of the devil! Allow me to introduce my assistant,Kun Jun.
+Uncle Dai: Young Kun, these are two adventurers assigned to us. And as for this gentleman... 
+Kun Jun： Hm...？
+Zhongli:...
+旅行者: This is Zhongli, a consultant from the funeral parlor.
+Uncle Dai: Wangsheng Funeral Parlor's consultant... Mr.Zhongli!I've heard about you. They say you're a man of great knowledge and many talents.I had no idea I'd be meeting you in person today.
+Kun Jun: I...I'm sure I recognize you... Have we met at the parlor? Wait, I've never been to the parlor...
+Paimon: Uncle Dai, aren't you going to test them?
+旅行者: So that's what you were planning. 
+Uncle Dai: Huh? I...I wouldn't know where to start...
+Paimon: Then they can figure out a way to test each other!If Zhongli wins, he's the assistant.If Zhongli loses,uh...N-Never mind,Zhongli won't lose!
+Kun Jun: A contest? Why, it would be my pleasure!
+Zhongli: I admire your enthusiasm, good sir.
+Kun Jun: Haha! I must say,you certainly have the look of an industry expert about you. It'll be interesting to see which one of us wins. 
+Paimon: Stop talking the talk and start walking the walk!
+Kun Jun: I'm just saying it like I see it,haha...Which is incidentally the only skill I have worth talking about.
+Zhongli:So you're an appraiser,Mr.Kun Jun?
+Kun Jun: Well, no... actually I've already forgotten what I'm in Liyue Harbor for...I was standing by the side of the road one day when Uncle Dai called me over.
+Kun Jun: He saw me holding a rock and asked me a few questions. He seemed incredibly excited, even followed me for a while. We arranged to 
+Paimon: Huh? How could you forget something like that?
+Uncle Dai:I saw him on my way over to Liyue Harbor,poring over rocks and muttering to himself. He looked to be very familiar with them.
+Uncle Dai:I asked him a few questions out of curiosity. To my surprise, he knew more than me,an old mining foreman!In any case,he didn't have any pressing matters,and agreed to help me. 
+Paimon:So...do you have a poor memory?
+Kun Jun: Not exactly...Anyway,if it'srocks you need help with,I can most certainly lend a hand.
+Kun Jun: Mr.Zhongli,what do you make of this rock?
+Zhongli: Hmm...
+Zhongli: A glossy exterior, with a fissure that could only have been left in the wake of a volcanic eruption.If Im not mistaken,this is a rough gem from another nation. 
+Kun Jun: Ah... a keen eye!
+Zhongli: It's no ordinary rough gem.Fragile surface layer,black veining... My intuition tells me that there's high-quality crystal are inside.
+Kun Jun: Remarkable. This rock does indeed hail from the vicinity of a volcano.I came across it in a marketand snapped it straight up. The seller thought it was some leftover industrial remnant. They had no inkling of the treasure that lay within.
+旅行者:Isn't Crystal Ore found everywhere?
+Kun Jun:Purity and geological rarity alone aren't enough to make a treasure.Some of the most precious crystals contain deposits of water or 
+Kun Jun:In the moment of its formation,the crystal hidden within this stone shell captured a pocket of water.For water to be hidden in its depths, Like a moon concealed within a mountain,reflecting shafts of daylight that make it through...Now that's a rare treasure.
+Paimon: Such a detailed description,almost like he saw it with his own two eyes...
+Paimon: Say…you're not trying to hoodwink us are you? After all, we haven't even seen what's inside yet!
+Zhongli: Everything he said is true.
+Zhongli: Most crystals are born in high-temperature environments. Heat and water aren't natural bed fellows of course,which is why crystals with water deposits are so sought-after. Moreover, this particular crystal
+Paimon: Well if Zhongli says so, it must be true...
+Kun Jun:I've yet to encounter anyone with a judgment as shrewd as yours, Mr.Zhongli.How did you know exactly what lay within?
+Zhongli:I've seen many such stones in my time,I recognized it immediately. I hope you didn't mind me flaunting my experience, Mr. Kun Jun?
+Kun Jun: Of course not!I feel I've met a kindred spirit here today.I hope you will accept my friendship.
+Kun Jun: Uncle Dai,it would be a mistake for Mr.Zhongli not to join us!Trust me when I say that his level of expertise is unrivaled in the trade.You won't come across another of his caliber in your lifetime.
+Uncle Dai: Very well there is strength in numbers after all! Everyone, follow me to The Chasm. There are men counting on you to find them.

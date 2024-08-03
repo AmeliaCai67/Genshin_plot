@@ -1,0 +1,146 @@
+Shifting Earth and Lost Threads Come to Light
+The evidence at the mining site suggests that the miners followed the road north. You follow the trail, gradually closing in on them.
+◆Head to Lingju Pass to investigate
+◆Look for more clues in the area
+Paimon: Hey! Footprints!
+Zhongli: It would appear that they made their way through Lingju Pass and kept moving.
+Paimon: If we follow their footprints, we should be able to find where they went!
+◆Follow the footprints
+Paimon: Oh no! The footprints end here!
+Zhongli: We should inquire with anyone nearby. If the miners came through here, they may well have seen them.
+◆Ask people nearby for information
+Paimon: Hi there, have you seen anyone dressed like a miner around here?
+Yonggui: A miner? I'm afraid not.
+Paimon: *sigh* Let's try someone else.
+◆Ask people nearby for information
+Paimon: Hello! Have you seen any miners nearby? About this tall - four of them?
+Wei: Stop bothering me! Can't you see I'm cloud-watching?
+Paimon: Geez! A little grumpy, aren't we?
+Paimon: Whatever, let's go ask someone else.
+◆Ask people nearby for information
+Paimon: Hey there, seen any miners?
+Ling: ...lt must have been about four or five days ago. There were a few men who came through here carrying baskets and picks... I guess that could have been them?
+Paimon: Yeah! That's them !
+Zhongli: Four or five days ago? lt appears that they were moving slower than we'd anticipated. Traversing the geography of Lingju Pass must have held them up.
+Ling: It was so strange! Four big guys with lifeless expressions... It was like they were in some sort of trance! And there was a child staggering in front of them...
+Zhongli: Huh, this child... Did you see what they look like?
+Ling: I caught a glimpse... blue hair, short. I think... I think it was a girl! She wasn't smiling, in fact she looked very serious.
+Zhongli: And they took this road?
+Ling: Yes, they followed it straight from here.
+Paimon: Let's go after them!
+◆Follow the road and keep up the pursuit
+Paimon: More footprints...*gasp* There's a person over there!
+???: Help! Please, save me!
+Paimon: Is that one of the people we're looking for? Oh! Rescue first, ask questions later!
+◆Save the ambushed scholar
+◆Talk to the scholar
+Wanyu: Those monsters were so aggressive - they must have noticed me walking through! Before I knew it they were all over me... Thank you all forsaving me.
+Wanyu: My name is Wanyu, I belong to Liyue's Shenglu Hall. I head up ourhuman culture and civilization research.
+Paimon: Huh? You sure you're not... a miner?
+Wanyu: A miner?
+Paimon: Yeah. We're looking for a group of four strong fellas carrying mining equipment.
+Wanyu: I... I think I saw those people.
+Paimon: Really!?
+Wanyu: Yes. I set off from Nantianmen the day before yesterday headingfor Lingju Pass. About halfway there I came across some people - a fewmen and a child.
+旅行者: Can you be a bit more specific?
+Wanyu: I was in a hurry, I didn't get a good look, I'm afraid I'm not even sure what they looked like... apologies.
+Zhongli: I think that's all we needed to hear. Thank you.
+Wanyu: I hope it's useful to you!
+Wanyu: I'd better get going, there's a conference I need to attend. Again,thank you all for your help.
+Paimon: According to this scholar, the miners were heading for Nantianmen.
+Kun Jun: Can we be absolutely sure that it was the men that we're looking for?
+Paimon: A child with a group of adults! Sounds pretty close to Paimon!
+旅行者: It could easily have been a different group
+Paimon: Uh... but...
+Kun Jun: Hey, perhaps that rock over there can tell us more !
+Paimon: Aha! Paimon nearly forgot about our secret weapon!
+Kun Jun: It looks promising, I'll do my best.
+Kun Jun: Hmm...
+Kun Jun: ...
+Kun Jun: It's the same group alright. They followed this road.
+Zhongli: Haha, Mr. Kun Jun, your stone-seeing is something I won't forget in a hurry.
+Kun Jun: I suppose it is an asset, though I rarely find a use for it. But praise from Mr. Zhongli is high praise indeed.
+Paimon: It's a good thing we brought our "Kun Jun compass" along! We would've lost all sense of direction a long time ago.
+Kun Jun: Hahaha, you think so? I guess it's been a worthwhile trip then.
+Kun Jun: It feels like... like we're cracking a criminal case. It's a lot of fun.
+Zhongli: Be that as it may, we would do well to keep our guards high.
+Zhongli: Four fully-grown men in a trance-like state... walking ceaselessly day and night... over hills and mountains... led by a child... This is noordinary incident.
+Kun Jun: Oh! You're quite right, Mr. Zhongli. We should have our wits aboutus.
+Zhongli: That's not all. Our scholar was attacked by Geovishap Hatchlings, but the level of aggression they exhibited was... unusual.
+Zhongli: We have encountered many clues along the way. So far they've pointed us in the right direction.
+Zhongli: Hmm, the miners headed in the direction of Nantianmen the daybefore yesterday. From here they would have had to navigate a perilousmountain road. If their destination is indeed Nantianmen, we should be ableto catch up with them.
+Paimon: Great! No time to lose !
+Zhongli: I left a mark in the vicinity just now. If Uncle Dai does passthrough here, it should guide him to us.
+Paimon: Clever thinking! A classic Zhongli move.
+Head to Nantianmen and look for clues
+Paimon:
+Kun Jun: There's a basket lying here too... This must be one of the miners.
+Paimon: Hey! Hello? Can you hear us?
+Zhongli: Judging by his appearance, he must have collapsed from exhaustion.
+Paimon: Should we wake him up?
+Miner: I can... I can still dig...
+Paimon: *gasp* Sounds like he's whispering something...
+旅行者: He looks like he's struggling...
+Zhongli: It seems that he thinks he still has work to do. Something's notright.
+Zhongli: There's a camp nearby. We should take him there and monitor hiscondition before deciding our next move.
+Take the miner to a nearby camp to rest
+Zhongli: ...
+Paimon: How is he? H-He won't die, right?
+Zhongli: He's worked himself into a stupor. Thankfully, he's not in serious danger.
+旅行者: How.did he get so exhausted?
+Paimon: Paimon heard him talking about digging for something. Did he dighimself into this state?
+Zhongli: It's certainly a possibility.
+旅行者: Strange...
+Kun Jun: Hm? It looks like there's something in his pocket...
+Kun Jun: Are these... ore fragments?
+Kun Jun: ...
+Kun Jun: I just witnessed the memories within these ore fragments. This person brought these fragments out of the mine. He's one of the four thatwe're searching for.
+Zhongli: How he came to be here is what we need to understand.
+Paimon: So he was kidnapped, and then... abandoned here...
+Paimon: But if they didn't need him, why bring him all the way out here?
+Zhongli: Unless something happened... something that led him to fall behind.
+Paimon: Ugh...
+Paimon: Paimon's had enough! This is too mysterious!
+Kun Jun: Oh! Wait a moment! Seeing these fragments has jogged my memory I have something for you.
+Paimon: What is it? Ooh! Is it a present?
+Zhongli: Something... for us?
+Kun Jun: As I mentioned, before I met Uncle Dai I was in a daze. Aftersetting out with you on this case, it feels like a fog is lifting.
+Kun Jun: I was so happy when Uncle Dai enlisted you to help. I would neverhave managed to track down these clues by myself.
+Kun Jun: These are some crystals that I bought from the market. Not any oldcrystals mind you - this purity is extraordinarily rare! One for each ofyou. A memory, if you will.
+Paimon: It's beautiful... Oh -- and the colors change as you turn it! It's like adifferent crystal from each angle.
+旅行者: Looks expensive...
+Kun Jun: But of course, take it.
+Kun Jun: And this one is for Mr. Zhongli.
+Zhongli: ...
+Kun Jun: Huh? ls something wrong? Not to your liking?
+Zhongli: On the contrary... I just hadn't anticipated receiving a gift duringthe current circumstances.
+Zhongli: But, thank you. I will take good care of it.
+Kun Jun: I'm pleased you like them. It's nice to be able to give a gift thatothers can appreciate.
+Kun Jun: Oh! I see more rocks over there, You should all get some rest, I'mgoing to walk awhile - perhaps there are more memories to uncover.
+Paimon: You sure like rocks, huh Kun Jun...
+Kun Jun: Ores are the crystals of the earth, the sediment of time itself. I feel at peace among them.
+Kun Jun: Get some rest, and call me when you're ready to set off. I won't befar.
+旅行者: He'll be okay on his own, right?
+Zhongli: Rest easy, I surveyed the area. There's no danger here.
+Zhongli: Oh, however, there is something I wanted to discuss with you.
+Paimon: Huh? What's with the seriousness all of a sudden?
+Zhongli: Traveler... Does Dragonfall mean anything to you?
+旅行者: No.
+Paimon: You mean the ore that Kun Jun's looking for? What's so specialabout it?
+Zhongli: Dragonfall is an incredibly rare ore used in forging. The majorityof regular crystals are formed in high-temperature environments.Dragonfall, on the other hand, is formed as a product of elemental
+Paimon: Elemental reactions can produce material objects?
+Zhongli: Indeed they can. However, only a minority can survive for long periods of time.
+Zhongli: Dragonfall first emerged in the midst of a great battle, thousandsof years ago. Powerful clashes of elemental energy gave birth to elementalcrystals. When the fighting ceased, these geological remnants weremiraculously preserved.
+Paimon: Cooool...
+Zhongli: And yet they are crystal creations all the same, few and farbetween, relatively unknown. A few hundred years ago, they were virtuallymined into obscurity.
+Zhongli: Why is it then, that a citizen of Liyue now wishes to strike uponore that has long since vanished from the earth?
+Paimon: Yeah! If he knows of its existence, surely he knows all of it'salready been mined?
+Paimon: Weird... Paimon doesn't get it...
+Zhongli: There are those in the mining trade who retain a keen interest inDragonfall. But for someone like Mr. Kun Jun... whose motivations forseeking it are unclear even unto himself... it's practically unheard-of
+旅行者: Perhaps he has ulterior motives.
+Paimon: Ulterior motives... *gasp* Is he a villain!?
+Zhongli: A conclusion that is presently impossible to reach. We mustwatch... and wait.
+Zhongli: Don't forget, rescuing those miners is the primary objective. As foranything else... Sooner or later the tide will reveal the lie of the land.
+Zhongli: We're drawing closer to our goal. I believe we should continue tofollow this road through. Now that we've found one, the others won't be far away.
+Zhongli: When you're well-rested, call Mr, Kun lun over to us. We still havemore investigation ahead.
+Zhongli: We should ensure this miner is settled here at the camp. Once we've brought this matter to a close, we can return and attend to him. Isuggest we leave a note for Uncle Dai. If he does find the camp he'll know what to do.

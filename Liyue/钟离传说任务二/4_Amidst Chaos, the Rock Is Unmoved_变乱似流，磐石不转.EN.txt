@@ -1,0 +1,232 @@
+Amidst Chaos, the Rock Is Unmoved
+Finally, you reach Nantianmen. A curious ancient tree has quietly stood here throughout the ages, bearing witness to all that has come to pass. To rescue the miners and solve this puzzle once and for all, you proceed to the ancient site that holds all the answers...
+◆Rendezvous with Kun Jun
+Paimon: Kun Jun! We need to get going!
+Kun Jun: No problem! I'm done here.
+Zhongli: Any results, Mr. Kun Jun?
+Kun Jun: There are many beautiful rocks here, but nothing out of the ordinary. I couldn't find any clues.
+Kun Jun: Then again, the memories of ore can shift with the passage of time and the changing of the environment.
+旅行者: Is there a pattern to it?
+Kun Jun: Hmm, difficult to say... I feel that ore memories tend to be from the recent past.
+Paimon: So there's never any ancient memories?
+Kun Jun: Rocks endure, but as eons pass their memories are erased. Those memories that survive are rooted in powerful emotion or thought.
+Paimon: That makes sense - it is the same for people!
+Kun Jun: Indeed... Let's keep going
+◆Head to the ancient tree and investigate
+Kun Jun: Wow, such an immense tree!
+Paimon: And there's so many mysterious-looking crystals up there too...
+Zhongli: This ancient tree...
+Zhongli: Let's conduct separate investigations. I'll take that area, perhaps you could survey this section.
+旅行者: Sure.
+Zhongli: Alright then.
+Paimon: Kun Jun, can you see anything worth investigating?
+Kun Jun: Well... there is this stone tablet here.
+Paimon: Doesn't seem very interesting... Paimon's gonna look over there.
+Kun Jun: Huh? It's worth a try, surely. Let me see...
+Kun Jun: ...
+Kun Jun: ...!
+Kun Jun: (This is...)
+Paimon: Hey! What's wrong?
+Kun Jun: ...Just a bit light-headed... It's passed, nothing to worry about.
+旅行者: Did you see anything?
+Kun Jun: Not... hmm... not yet...
+Paimon: *sigh* Whatever, Paimon's going to investigate over there. Why don't you climb the tree and have a look, 旅行者?
+旅行者: You're sure there'll be clues in the tree?
+Paimon: lf you don't try you don't know! Anyway, you'll be able to get a good look at our surroundings from up there!
+Kun Jun: ...
+Kun Jun: Oh! Uh... you think so?
+Paimon: When has Paimon ever come up with a bad idea, hmm?
+Paimon: Wait a minute... Paimon can fly! *sigh* Alright, Paimon will go, you wait here, Paimon will
+Zhongli: All of you, come here.
+Paimon: Huh? Zhongli's voice came from... behind the tree. Did he find another clue?
+Paimon: Quick, let's go see! Maybe he found another miner!
+◆Find Zhongli
+Zhongli: This has been newly dug. It would appear our answer is up ahead.
+Paimon: Is that a voice coming from the tunnel? Eek! Someone else go first!
+Zhongli: Compose yourselves. I will lead us in.
+Kun Jun: ...
+Zhongli: There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly. 
+◆After preparing, enter the tunnel
+The missing miners doggedly dig away inside the tunnel, at the end of which an ancient seal starts to come into view. The miners seem to have been somehow seduced into tunneling here... Just when you start to realize something is amiss, the miners and the rumored blue-haired child suddenly attack you. Chaos ensues, the ground begins to tremble, an aggressive wind begins to blow, and you are all sucked through the sealed door...
+Defeat Azhdaha
+On the other side of the door, you are greeted by the daunting sight of anenormous dragon - the cause of all the strange events that have occurredHaving torn away the seal, he now proceeds to vent his fury upon you...
+Learn the truth of the situation
+Jiu: Morax! A thousand years after you sealed me underground... you return for the second time...
+Zhongli: ...
+Zhongli: You should call it by its name, Azhdaha... fate.
+Jiu: Fate?
+Jiu: Fate!!! Hahahaha!
+Jiu: So here lies the wisdom of the gods? Destroy all deemed redundant, enlist tyrants to ravage the wilderness!
+???: No. You have forgotten.
+Paimon: ...That... that voice...
+Zhongli: Azhdaha...
+Paimon: Huh? Kun Jun!?
+Kun Jun: Morax. It's been a while
+Jiu: Y-You're...
+Kun Jun?: Azhdaha... the very same.
+Zhongli: During the battle... you embued us with your power...
+Kun Jun?: Haha... yes. It was all I could manage.
+旅行者: Then... which one is the real Azhdaha?
+Kun Jun?: Forgive me for concealing the truth, Traveler. There were things that only became clear to me upon reaching this tree.
+Kun Jun?: Allow me to elaborate. I am not Azhdaha the whole... but afragment.
+Kun Jun?: Heaven and earth, yin and yang, opposing forces... You can consider the existence of me and the Azhdaha you see there, to be are flection of such polarities. "We" are a schism of the will... the will of Azhdaha.
+Paimon: So... so there are two Azhdahas!?
+Jiu: No! It can't be! That's impossible...!
+Kun Jun: When the seal loosened, your power manifested in this world as a child. With this new identity, you were able to vent about the forces that suppressed you... but would anyone listen... would they even care?
+Kun Jun: That's when it occurred to you. The loosening of the seal constituted an opportunity to strike back. Kidnapping the miners was all in aid of digging to the entrance to the seal itself. Your plan was to launch an attack on both ends. From outside... and within. Thereby fully destroying the seal.
+Jiu: The audacity! Are you insane!? If you truly are a part of me, how is it you find yourself standing on the side of the betrayer!?
+Kun Jun: I was another power awakened with the loosening of the seal. Too weak to reincarnate, but strong enough to possess a human body.
+Kun Jun: I was barely conscious... I couldn't remember who I was. Only the past would elicit a reaction from me... But my aim was clear: Find Morax... and aid him in stopping you.
+Zhongli: I had sensed that something was amiss when you mentioned Dragonfall. Had your power been but a little stronger, I would've recognized you.
+Kun Jun: Don't blame yourself, I have changed beyond all recognition. Only when I touched the stone tablet... did I truly remember.
+Kun Jun: It's been so long. A secret beyond all comprehension, of youthful humanity and ancient dragon-kind... Morax, do you want to tell the tale?
+Zhongli: There would be no harm in it. The decision is yours.
+Kun Jun: Haha, you haven't changed. Then allow me.
+Kun Jun: Azhdaha was once a friend and ally of the Geo Archon, Morax, with a life span far exceeding that of mankind. However, that which is derived of the earth is no more or less than the earth itself...
+Kun Jun: The memories of. rocks do not last long. Those memories that survive are rooted in powerful emotion. But as time passes, so these memories fade into obscurity. Erosion is the world's greatest destroyer of memories.
+旅行者: Erosion...?
+Kun Jun: Erosion ground Azhdaha's consciousness into oblivion. Slowly, he forgot the face of his old friend, and his memories of defending Liyue Harbor disintegrated.
+Kun Jun: Azhdaha, now incomplete, became irascible... aggressive.
+Jiu: What would you expect!? It was humanity that attacked the Ley Lines that sustained me!
+Kun Jun: This much is true. Which is why "you" attacked The Chasm... why you" waged war against Morax.
+Kun Jun: In the beginning, in order to open up new territory and increase production, the citizens of Liyue came to the mountains to mine. Over exploitation caused the Ley Lines to quake, which brought untold suffering to "us".
+Kun Jun: Erosion made "us" even more savage. No matter how we struggled. we lost the ability to coexist with humanity... we lost all reason.
+Kun Jun: Morax shared with us some of his power, to prevent further erosion. But... it was futile. Everything returns to dust. lt is the natural order, an unstoppable force. 
+Kun Jun: And so. "we" became "you." And from your will... "i" emerged.
+Jiu: ...
+Kun Jun: I am your final contract. Witness the promise between Azhdaha and Morax. You can hate me... but you cannot deny me.
+Jiu: No... no...
+Kun Jun: I am the remnants of Azhdaha's benevolence, the echo of a contract set in stone. I harbor a willingness to go further, a willingness to coexist peacefully with mankind.
+Jiu: No, no! It is l, Azhdaha, forged of elemental crystal, bearer of the weight and memories of the earth, older than the mountains and the oceans that decides! I will not swear allegiance to this insect!
+Kun Jun: Morax is not an insect.
+Jiu: A lord over insects is nothing but an insect in turn!
+Kun Jun: You forgot yourself. Nobody held Morax in higher regard than you or l.
+Kun Jun: That which you have forgotten, I hold here in my heart. If you are the memory of the earth... then I am the memory of coexistence... of coexistence with humanity.
+Kun Jun: All powers under heaven, rise and fall of land and sea...
+Jiu: ...A star appears within the wild... a sun ascends as bright as... jade...
+Zhongli: ....
+Jiu: Strange... What... what is this feeling? And all this...
+Kun Jun: You are spent, and I will soon disappear. Before I do, heed these words.
+Kun Jun: In the wilderness, snow falls on a spring day. In an instant it will melt. Even where it is fleeting and leaves no trace. Even where it will never fall again...
+Jiu: No, that isn't true! I don't accept this as fate!
+Kun Jun: Perhaps it isn't. But it remains... an inevitable misfortune.
+Jiu: Mor... ax...
+Paimon: The little girl vanished...
+旅行者: Sealed away?
+Zhongli: Are you satisfied, Azhdaha?
+Kun Jun: I had to make amends. Satisfaction had no part in it.
+Kun Jun: So, Morax... you call yourself Zhongli these days?
+Zhongli: I do.
+Kun Jun: Well, I'm afraid old habits die hard. To me, you're Morax.
+Zhongli: As you please.
+Kun Jun: I never did forget your gift of sight.
+Zhongli: I hardly lifted a finger. Think nothing of it.
+Kun Jun: And yet you could see. You wouldn't know the yearning of a blind dragon, searching for the sun. A pair of eyes, from Morax to Azhdaha. This...I will remember this.
+Kun Jun: ...
+Zhongli: Your power is nearly spent
+Kun Jun: ...Perceptive as always, my friend.
+Zhongli: Shall we get going, you and I?
+Kun Jun: Surely the pressing matter is still that of the miners trapped outside the seal?
+Zhongli: Indeed. Hence the need to get going, to fix the damage left in your wake.
+Kun Jun: Ha... straight down to business, as always. Let's go.
+◆Return to the ancient tree
+Uncle Dai: So there you are! My men and I found your clues and followed them straight here.
+Uncle Dai: We found Mao in a tent at the campsite unconscious! It seem she'll be okay. Sadly, we found no trace of the other three...
+Uncle Dai: Huh? Young Kun, wh-what is...?
+Kun Jun: Nothing, pay it no mind. Those three miners are over in that cave there.
+Uncle Dai: Cave? What happened!?
+Zhongli: They're exhausted, but not in danger. Don't worry.
+Uncle Dai: R-Right, well... Thank you, all of you! I better go and see how they're doing.
+Kun Jun: So you're taking them back to Liyue Harbor?
+Uncle Dai: That's right!
+Kun Jun: Can I come with you?
+Uncle Dai: No problem! You rescued my men. I'll be happy to assist all of you in any way I can. I'll be back soon, I need to assess their condition.
+Paimon: Kun Jun... Oh, uh... we should be calling you Azhdaha... You're coming back to Liyue Harbor too, right?
+Kun Jun: Not I, merely this body.
+Kun Jun: Once I'm gone, the true owner will accompany the miners back to Liyue. Kun Jun hails from a family of famous artisans - he too will be famous in time. It would be a shame for someone of his talent to go missing.
+Zhongli: You always did have a great admiration for blacksmiths.
+Kun Jun: Curious how swords and daggers are blind, yet their creators see so much. Perhaps empathy is mankind's proudest achievement after all?
+Zhongli: Azhdaha. I am no longer the Geo Archon.
+Kun Jun: ...I can sense it.
+Zhongli: Today I am just an ordinary citizen of Liyue.
+Kun Jun: Even you met such a fate... Let's get the difficult part out of the way. I cannot guarantee that I won't be awoken a second time.
+Zhongli: No matter. If that day comes to pass, Liyue must prepare itself to face you.
+Kun Jun: And how will Liyue fare without Rex Lapis?
+Zhongli: Even without a god above, this remains a nation of men. I was once their god, I ought to be here to witness their rise and fall.
+Kun Jun: All life is shaped and then ground away by the endless flow of time. You were always the strongest among us, yet it would seem that evenyou have been eroded...
+Kun Jun: That's unimportant... fate is ordained by heaven. Even if our mission had already concluded, it would be cowardly not to strike out onthe road of departure.
+Kun Jun: You may live forever, doomed to a lonely existence... yet even thisis temporary. When you reach the end of time, those people, those past and future relationships predetermined by fate... They will be waiting for you.
+Zhongli: I do not pretend to match your rhetoric when it comes to the subject of a life long-lived. I fear that the life of an elemental being is longer than any in this world.
+Kun Jun: Were it not so, you would have killed me long ago, and would not be having to face me again now.
+Zhongli: You've brought a smile to my face. When all is said and done, are union between old friends is an auspicious occasion.
+Kun Jun: That day in The Chasm? Did you hesitate?
+Zhongli: A heart of stone is a heart nonetheless. But I am the God of Contracts, and was, for a time, a god of the people of Liyue.
+Kun Jun: You chose justice, but did not forsake your kindness. You came tome not as an assassin, and so I was willingly sealed away.
+Zhongli: The movements of the Earth Dragon can tremble the earth and shake the heavens. With your abilities, even at my full strength, I struggled to confront you, let alone seal you away.
+Kun Jun: Hence "my" inception.
+Kun Jun: Do not forget that I was there with Liyue's founder. The face may have changed, but the content of the contract remains intact.
+Kun Jun: Old friend, God of Contracts. I hereby honor our agreement.
+Zhongli: ...
+Zhongli: Thank you, Azhdaha.
+Kun Jun: My life is nigh on eternal. I will go on with the infinite flow of time. And you, Morax... You too will live for many a day to come.
+Kun Jun: ...
+Zhongli: You're leaving?
+Kun Jun: If it is fated, Morax... we will meet again
+A ray of light flies from Kun Jun's body, and just like that, Azhdaha is gone...
+Paimon: Huh!?
+旅行者: So is this...
+旅行者: ...the real Kun Jun?
+Zhongli: Yes. Don't be alarmed, he's only asleep.
+Paimon: Whoa... that was so weird. It was like he... suddenly became another person.
+Zhongli: In fact... we have yet to meet the real Kun Jun.
+旅行者: But what about Azhdaha...
+旅行者: He was a great friend of yours.
+Zhongli: He was.
+Zhongli: Centuries may have passed since then... but events from a thousand years ago... remain crystal clear in my mind.
+You listen to the story of how Zhongli - while he yet walked the earth as Morax - discovered the elemental being Azhdaha and gave him eyes. This giant dragon signed a contract with Morax and accompanied him on many campaigns throughout the land, leaving many legends behind.
+◆Talk to Zhongli
+Zhongli: A thousand years ago, Azhdaha attacked The Chasm. I tried toobstruct him, fighting him tooth and nail down the length and breadth of themine. Finally, I brought him down, and sealed him underground.
+Zhongli: During that battle, Dragonfall was born. Azhdaha could sense the stone. Subconsciously, he wanted to use it to find me.
+Zhongli: Despite being the victor, I could not claim to be stronger than he. And in his heart, he still retained an ounce of good will towards me...towards Liyue... towards life above ground.
+Zhongli: He was willing to be sealed away. But as the erosion set in... he forgot.
+旅行者: The power of erosion is... scary.
+Zhongli: Even I cannot avoid it. But there is something I understand better than most: When the door opens, it is time to leave.
+Zhongli: The greater the power, the greater the danger erosion may bring about. The millennia may come and go, but even a stone may tire.
+旅行者: Is that why you chose to leave...?
+Zhongli: Personally sealing away an old friend... this is just one form of erosion I have endured.
+Zhongli: People abandon and surrender the things they love to pursue the right path. Perhaps this is the erosion imposed on me by the Heavenly Principles.
+Zhongli: But I was a god of mankind. My identity may change, but my eyes will bear witness to the history of humanity.
+Paimon: You still care a lot about Liyue...
+Zhongli: Call it... part of my duty.
+Zhongli: I must thank you both.
+Paimon: No worries!
+旅行者: Hold on.
+旅行者: I want to ask you something.
+Zhongli: Oh? About what?
+旅行者: About my brother.
+Paimon: Oh yeah! Paimon nearly forgot!
+Paimon: So, not long ago we met a guy called Dain.
+Paimon: He told us about Khaenri'ah and the punishment of the gods... That's when we realized that those events... were connected to the person we're searching for. 
+旅行者: My sibling.
+Paimon: Zhongli, you're a god. You've lived through thousands of years of history. Surely you experienced the incident.
+Zhongli: ...
+Zhongli: ......
+Zhongli: I cannot say.
+Paimon: Why!?
+旅行者: ...
+Paimon: You can't even give us a thread of information? This is so important to us !
+Zhongli: I understand, but I must apologize. This is my contract.
+Paimon: You mean, another past grievance? Like the incident with Azhdaha? Too painful to talk about?
+Zhongli: It was signed before it all began. I have always honored the contract... and kept my silence.
+Paimon: ...How can you be like that...!?
+Zhongli: You two are friends to me. I can assure it brings me no pleasure to disappoint you. But as the God of Contracts, I cannot go back on my word.
+旅行者: Well, it's not out of character.
+Paimon: Would you be ready to find out?
+旅行者: Perhaps.
+Zhongli: It appears your understanding of this world continues to grow.
+Zhongli: There are many events of ages past... many secrets that lie hidden...
+Zhongli: They have been eroded by time, forgotten by the people... abandoned.
+Zhongli: But you are capable of finding them and bringing them into the light.
+Zhongli: Those who come to witness... will witness. Those who are born to remember... will remember.
+Zhongli: If you take the same road as that person, there may be more difficulties ahead. But as long as you firmly believe that you are on the right path... everything has meaning.
+
