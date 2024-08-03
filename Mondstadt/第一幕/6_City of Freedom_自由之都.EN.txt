@@ -1,0 +1,33 @@
+City of Freedom
+With your help, the problem was resolved quickly. Ledby Amber, you reach the city of freedom – Mondstadt
+Talk to Amber
+Amber: Let me officially introduce the city of wind, dandelions, and freedom -
+Amber: Travelers under the protection of the Knights of Favonius - Welcome to Mondstadt
+Paimon: Finally, no more having to camp outdoors:
+Paimon: But... the city folk don't look too cheery.
+Amber: Everyone's been put out of place by Stormterror recently.
+Amber: But everything will turn out fine as long as Jean's with us !
+Paimon: Jean?
+Amber: Acting Grand Master of the Knights of Favonius  Jean, Defender of Mondstadt.
+Amber: With lean on our side, surely even the vicious Stormterror will be no match for us.
+旅行者: (Sounds like someone pretty impressive...)
+Amber: Before I take you guys to the Knightsof Favonius Headquarters, I have a present for you, 旅行者.
+Amber: It's a reward for helping me clear out that hilichurl camp.
+Paimon: He-Hey! Why doesn't Paimon get are ward?
+Amber: Ahh... Because this reward is useless to you, Paimon.
+Amber: But I'll treat you to a traditional Mondstadt delicacy - Sticky Honey Roast.
+Paimon: Sticky Honey Roast!
+Amber: Come with me, we'll head to the city's ahh... high ground.
+Go to the location designated by Amber
+Amber: This used to be a bustling street... But with so many Stormterror attacks recently, the usual crowds are nowhere to be seen.
+Amber: Except for the local tavern near the city wall over there. They haven't been affected. If anything, their business is better than ever.
+Talk to Amber
+Amber: So, the present I want to give you is...
+Amber: A Wind Glider!
+Amber: Outriders use them to ride the wind, and the people of Mondstadt love using them too.
+Amber: I brought you here to give it to you so you can experience it right away!
+Paimon: Oh, you're really excited about these wind gliders, huh!.
+Amber: Well that's because the wind is the heart and soul of Mondstadt!
+Amber: Alrighty then, enough talk! Let's give it a whirl!
+Amber: It's easy to use, but you still need to pay attention to my instructions.
+Meet Amber at the fountain plaza

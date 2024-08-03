@@ -1,0 +1,37 @@
+Crash Course
+Kaeya will accompany you to explore the Temple of the Wolf.
+Meet Kaeya at the temple
+Talk to Kaeya
+Kaeya: You've arrived.
+Kaeya: Come closer. Can you smell that?
+旅行者: ...I can't smell anything.
+Kaeya: Something must have happened in the temple.
+Kaeya: I imagine there will be slimes. hilichurls, and... whatever is giving Stormterror extra power.
+Kaeya: Oh yes, it is going to be lively in there indeed!
+旅行者: Will it be dangerous?
+Kaeya: As bustling as it may be - no, I can't imagine it will be dangerous at all.
+Kaeya: It's a pity that the Temple of the Wolf has been disturbed by such an atrocity.
+Kaeya: Let's head in, 旅行者.
+Kaeya: No one makes offerings to The Four Winds anymore, yet the old winds never vanish...
+Kaeya: We need to clear out the temples, for The Four Winds.
+Enter the temple
+Talk to Kaeya
+Kaeya: Let me show you how the Knights of Favonius conquer our adversaries!
+Explore the temple's depths
+Kaeya: Traveler... Unless I'm mistaken, you don't seem to have a Vision.
+Kaeya: So how exactly is it that you're able to channel elemental energy?
+Paimon: It was a very strange occurrence
+Kaeya: Speaking of, did you know?
+Kaeya: Stormterror was once one of The Four Winds.
+Kaeya: I'm not aware of the exact details. If you're interested, you can ask the Acting Grand Master about it.
+Destroy Stormterror's crystal in the Temple of the Wolf
+Kaeya: Bravo! What a performance!
+Kaeya: You are, to my surprise, a well-trained knight.
+Kaeya: The battles you just fought were sights to behold.
+旅行者: Thanks, that's nice of you to say...
+Kaeya: Haha, I see you already have the knightly virtue of modesty.
+Kaeya: Stories of your heroic deeds to save Mondstadt from destruction shall be known throughout the City of Freedom, well into the future.
+Kaeya: Please do visit me at our headquarters when you have the time.
+Kaeya: I also know a lovely tavern, if that's more your thing.
+Leave the temple
+Destroy Stormterror's crystal in the Temple of the Wolf

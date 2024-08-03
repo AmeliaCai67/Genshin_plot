@@ -1,0 +1,56 @@
+Sparks Amongst the Pages
+Lisa is in charge of clearing the Temple of the Lion alongside you.
+Meet Lisa at the temple
+Talk to Lisa
+Lisa: Hey cutie
+Lisa: You're going to help me out too? How kind of you.
+Lisa: Don't hesitate to come to me if you need anything.
+旅行者: What kind of things does a librarian do?
+Lisa: Good question.
+Lisa: Basically, things other than that which require brawn... or brains.
+Paimon: So... what does that leave?
+Enter the temple
+Talk to Lisa
+Lisa: I guess I could give this a go
+Explore the temple's depths
+Lisa: Oh, you want to know about this gem?
+Lisa: You're kidding... You're seriously asking? This is a Vision.
+Lisa: It's used by the chosen to draw one elemental powers.
+Lisa: In terms of mysticism, I suppose you could call it a "magical lightning rod."
+Lisa: What... You've never seen a Vision? Just where exactly are you from...?
+Lisa: Are you a hilichurl with some level of reasonable intelligence?
+Lisa: No, I doubt it. After all, hilichurls aren't exactly known for their smarts.
+Lisa: And you, you'd more or less qualify to be a magister's apprentice.
+Destroy Stormterror's crystal in the Temple of the Lion
+Lisa: Dragon of the East, Lion of the South Wolf of the North, Falcon of the West...
+Lisa: They are the Four Winds of Mondstadt affiliated with Barbatos, the God of Anemo.
+Lisa: The Dragon of the East, Stormterror- its real name, is Dvalin.
+Lisa: Though most in Mondstadt seem to have forgotten that in all this "Stormterr or business.
+Lisa: So now you know why Dvalin is only able to channel three of the Four Winds' power.
+Lisa: Because it has been consuming itself from the beginning.
+旅行者: Why?
+Lisa: Because of hatred, I presume.
+Paimon: Hatred...?
+Lisa: Hatred for Mondstadt.
+Lisa: Hatred drove it to become something more powerful than the wind itself – to become Stormterror.
+Paimon: But why would one of The Four Winds...
+Paimon: Hate the city it was supposed to protect?
+Lisa: ...
+Lisa: As a child of Mondstadt, it's something that's really hard to say aloud.
+Lisa: Here, take this. It's a very old story from more than a century ago.
+Leave the temple
+Paimon: Phew, it's finally done.
+Paimon: Well, all that "ley flow" and "elemental lines" stuff Lisa was going on about should hopefully be back to normal.
+Paimon: Wanna go back and see how the Knights are doing?
+Paimon: But if you got anything more interesting to do, Paimon can come too!
+Paimon: Like... going on a shopping spree... or checking out the Statue of The Seven again.
+Paimon: At the temples of The Four Winds, we found something like... solidified wind, didn't we?
+Paimon: In Mondstadt, people call them Anemoculi."
+Paimon: They're called this because they can be fitted into the statue's eyes.
+Paimon: Some fairy tales say the statues' eyes originally had gems that were taken by swallows.
+Paimon: But Anemoculi never had a physic a form from the start.
+Paimon: People with Visions collect them to offer to the statues in exchange for blessings
+Paimon: Unlike others with powers, you don't have a Vision. But then the rules of this world don't apply to you anyway so...
+Paimon: We can go see what happens right now, if you wanna try!
+Paimon: The statue in Windrise should be the closest one.
+Paimon: Paimon can't wait to see what the gods do to you!

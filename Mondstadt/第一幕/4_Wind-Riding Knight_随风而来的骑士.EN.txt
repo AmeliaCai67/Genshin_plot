@@ -1,0 +1,36 @@
+Wind-Riding Knight
+On the path to Mondstadt, you inadvertently eavesdropped on a meeting between a huge dragon and a mysterious figure. As you proceeded with various doubts in mind, a perky young girl showed up to block your path.
+Keep heading towards Mondstadt
+Talk to the perky girl
+???: May the Anemo God protect you,
+Amber: I am Amber, Outrider for the Knights of Favonius.
+Amber: You don't look like citizens of Mondstadt. Explain yourselves!
+Paimon: We're not looking for trouble.
+Amber: That's what all the troublemakers say
+旅行者: Hello, I'm 旅行者.
+Amber: ...Doesn't sound like a local name to me
+Amber: And this... mascot, what's the deal with it?
+旅行者: We're friends.
+Paimon: We've only been traveling partners for two months, but...
+Paimon: We've already become the very best of friends!
+Amber: So to sum it up, you're traveling partners, right?
+Amber: Well look, there's been a large dragon sighted around Mondstadt recently. Best you get inside the city as soon as possible.
+Amber: It's not far from here, I'll escort you there.
+Paimon: Oh? Aren't you out here for some other reason?
+Amber: I am. But not to worry, I can keep you both safe while doing that too.
+Amber: Besides... I'm still not sure if I can trust you two just yet!
+旅行者: Why so suspicious?
+Amber: Oh, ahh... I'm sorry. Probably not something I should say as a knight.
+Amber: I give you my apologies, uh... strange yet... respectable travelers.
+Paimon: That sounded so fake!
+Amber: Do you have something against the type of language usage prescribed by the Knights of Favonius Handbook!?
+Use Amber to defeat the airborne slimes
+Go to the location designated by Amber
+Amber: So, suspicious travelers, what are you doing in Mondstadt?
+Paimon: 旅行者 got separated from her brother during a really, really long journey.
+Paimon: Paimon is her travel buddy, helping her to find her brother.
+Amber: Oh, looking for your family... Huh.
+Amber: Ah...
+Amber: Okay! Let me finish my other stuff first, and then I can help you put up posters around the city...
+Paimon: What exactly is it you need to finish doing first?
+Amber: It's simple. You'll understand in a bit.

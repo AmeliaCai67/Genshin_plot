@@ -1,0 +1,22 @@
+Dragon Storm
+The usually peaceful Mondstadt was suddenly assailed by a dragon. This is the Stormterror that Amber spoke of, and was the gigantic creature that you encountered in the forest earlier.
+Fend off Stormterror
+Amber: Stormterror... is attacking Mondstadt itself!
+Amber: Kaeya, 旅行者, you've come at the right time. We must...
+Kaeya: Hold on, Amber. Are you perhaps forgetting to introduce us?
+Amber: Oh... right. This is Kaeya, our Cavalry Captain.
+Amber: These two are travelers from a far 旅行者 and Paimon.
+Kaeya: (From afar? Is that all we know of them?)
+Amber: Long story short...
+Amber tells Kaeya the whole story...
+Kaeya: I see. Welcome to Mondstadt – though you haven't arrived at the best of times, I'm afraid.
+Kaeya: I understand the anguish of being separated from family.
+Kaeya: I'm not really sure why you're looking for the Anemo God...
+Kaeya: But everyone has their secrets, right?
+Kaeya: Haha, relax! I won't press you for more
+Kaeya: First and foremost, on behalf of the Knights of Favonius, I would like to extend our thanks to you for your help just now.
+旅行者: Well, we couldn't just leave the situation to fester.
+Kaeya: Your fight to defend the city against the dragon just now was witnessed by no small number of citizens.
+Kaeya: The Acting Grand Master of the Knightsof Favonius is also very interested in meeting you, and formally invites you both to our headquarters.
+Go to the Knights of Favonius Headquarters
+Paimon: This seems to be the Knights of Favonius Headquarters. Let's head in.

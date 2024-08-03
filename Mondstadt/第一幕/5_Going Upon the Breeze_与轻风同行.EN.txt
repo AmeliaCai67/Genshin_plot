@@ -1,0 +1,23 @@
+Going Upon the Breeze
+The girl's name is Amber, and her duty as an Outriders to escort you to Mondstadt. However she has another task to attend to first, which is to clean out the hilichurls that have been wandering around outside the city.
+Defeat the nearby hilichurls
+Paimon: Ah! A hilichurl!
+Amber: Quick! Get it!
+Clear out the nearby hilichurl camp
+Amber: These monsters have been getting too close to the city recently.
+Amber: My task this time is to clear out their camp.
+Talk to Amber
+Amber: Heh, nothing to it.
+Amber: Though I've gotta say, you surprised mea little with your moves there...
+Amber: Thanks for the backup. How'd it feel?
+ÂÃÐÐÕß: Barely broke a sweat.
+Paimon: Now that you mention it. how is it the hilichurls ended up here? 
+Paimon: These creatures don't seem like the type to set up camp so close to cities like this.
+Amber: Exactly. Its more normal for them to be much further out in the wilderness.
+Amber: But because the dragon - Stormterror has been around a lot more recently, our orchards have been destroyed and the local market has been affected as well.
+Amber: When the storms hit, we usually end up with at least a few iniuries, so the Knights of Favonius have been tied up doing the best the can to defend the area.
+Paimon: So these annoying creatures have been getting closer and closer to the city?
+Amber: Exactly. That said, clearing this camp helped make the area a little bit safer.
+Amber: Come with me! A responsible knight must make sure to see you to the city safely
+Keep heading towards Mondstadt
+

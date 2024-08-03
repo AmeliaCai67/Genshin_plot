@@ -1,0 +1,18 @@
+Bird's Eye View
+You begin your journey in Starfell Valley, exploring the land and seeing its sights together with Paimon.
+? Follow the path
+? Go to Paimon
+? Talk to Paimon
+Paimon: Oh wowwwww!
+Paimon: That's a Statue of The Seven!
+Paimon: There are a few of these statues scattered across the land to show The Seven's protection over the world.
+Paimon: Among the seven gods, this god controls the wind.
+Paimon: Paimon's not sure whether the god you're looking for is the Anemo God, but...
+Paimon: Paimon'll take you to the Anemo God's place first, and there's a reason why~
+? Follow Paimon
+Paimon: As we all know, poetry and language flow like the wind...
+Paimon: There'll definitely be someone there who knows about your brother. At least, that's what Paimon thinks!
+Paimon: Whether the gods actually answer you is a different story. You never know unless you try.
+Paimon: So, let's hop to it!
+? Swim to the island in Starfell Lake
+Paimon: You can swim right over!
