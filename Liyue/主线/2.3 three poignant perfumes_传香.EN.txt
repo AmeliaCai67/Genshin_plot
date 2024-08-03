@@ -1,0 +1,183 @@
+Three Poignant Perfumes
+Zhongli isn't concerned with the deicide itself, bu twith upholding Liyue's sacred traditions by giving a proper farewell to an archaic lord. Having selected a suitable batch of Noctilucous Jade, your next task is to prepare some perfumes as an offering to the GeoArchon.
+
+Go and buy Silk Flowers
+Paimon: Hey boss. Do you sell Silk Flowers here?
+Bolai: Silk Flowers? We certainly do! Which kind would you like?
+Paimon: Which kind...? The, uh... the good kind.The best kind. ...Remind Paimon what kinds there are again?
+Bolai: Ugh. You ignorant shoppers, always coming in here with your stupid questions...
+Zhongli: Golden House Maiden, Valley Weaver.and Fate's Yearning. One of each to start with,if you don't mind.
+Bolai: ...My goodness! This gentleman is quite the connoisseur!
+Bolai: You two must be his servants. Please refrain from any further attempts to contribute.
+旅行者: Well, guess I had it coming...
+Bolai: Now then... Please peruse at your leisure. Do let me know if you have any further thoughts.
+Zhongli: Silk Flowers exhibit different properties based on how their environmental conditions differ from their ancestral habitat... Nevertheless, these are fine specimens. Excellently preserved.
+Zhongli: Just look at the abundant foliage here. And these stamens, glamorous as a maiden of the Golden House. This strain is an evergreen, and mostly grows under complex hydrological conditions.
+Zhongli: By contrast, this variety thrives in any dark, damp location, often in large clusters. Morphologically, it is distinguished by the profusion of petals and densely packed stamens, though its powerful scent gives it away just as easily.
+Zhongli: Lastly, this strain is quite the recluse. Unlike its exuberant cousins, flowers and foliage are minimal, and when in season, it has a subtle yet enduring scent. It was first discovered by the ancients when they scaled the mountains in search of the adepti.
+Zhongli: Silk Flowers have all but disappeared from the wild today, due to geographical changes over Liyue's history. Most are now grown by horticulturalists.
+Bolai: Wow. A true connoisseur. Most of that was news even to me.
+Zhongli: I possess but a smattering of trivial knowledge. My traveler friend is the one to watch - they are on track to set foot in every corner of the world.
+旅行者: What's so impressive about that...
+Paimon: Mr. Zhongli, you're way too humble...So which Silk Flower did you want, anyway?
+Zhongli: I'll take them all, boss.
+Paimon: ...Again!?
+Zhongli: How can I put this... When purchasing opera tickets, it is natural to decide based on which singer has the most melodious voice.The same logic applies when purchasing a pet (?)
+Zhongli: But this Silk Flower purchase is not an analogous case. The same logic does not apply.
+Zhongli: Perhaps you don't know. Tradition states that we should decoct perfume from different sub-species of Silk Flower when making an offering to a Statue of The Seven.Rex Lapis will then make his own choice between the scents.
+Zhongli: Like several other tedious and complicated traditions, this one has become simplified over time.
+Zhongli: But this is the only Rite of Parting to take place for one of The Seven in three thousand seven hundred years. As such, I do think we should honor tradition down to the last detail in this case.
+Zhongli: Now that's settled, a question... Ahem. Do you have any Mora on you?
+Paimon: You forgot to bring money again!? Grr, Zhongli!!!
+旅行者: I see a pattern emerging here.
+Bolai: If I may interject... Did I hear you say that these flowers are to be an offering to the Lord of Geo himself?
+Paimon: Yes... in a sense.
+Bolai: Gosh. Well, why didn't you say so? I heard the awful news about what happened at this year's Rite of Descension...
+Bolai: It would be bad luck to say it out loud.But I've been worried about our dear Lord ever since... I'm worried that everything I've heard is true...
+Bolai: Since these flowers will be used to glorify our Lord, they're free of charge. Just don't forget to pass on my regards.
+Paimon: Are you serious?
+Bolai: Why wouldn't I be? I would be nobody if not for Rex Lapis!
+Bolai: If he hadn't written those poems in praise of my wares, they'd only be worth a fraction of what I can sell them for today...
+Paimon: Huh... So much folklore here revolves around Liyue's deity making cameo appearances in support of local businesses...
+Zhongli: ...Thank you, boss. I think I speak for all of us when I say that your generosity has saved our skins.
+Paimon: "Our" skins? You were the one who forgot to bring money!
+Bolai: Please. It's the least I could do. 
+
+Discuss the method for making perfume
+Paimon: So now that we've got the flowers, how do we make the perfume?
+Zhongli: Ideally, with the help of an expert. Unfortunately, none of my acquaintances have personal experience in the art of decoction...
+Paimon: Talk about first-world problems...
+Zhongli: Hence, I need you to help by asking around in the city. Try the common folk,especially women.
+Paimon: So this time we get to go around town looking for nice-smelling ladies to talk to?Paimon likes this job!
+Zhongli: I will wait for you near the Statue of The Seven. Meet me there when the perfume is ready.
+
+Seek Lan's advice
+Paimon: Maybe we can find some good candidates at the Adventurers' Guild?
+Paimon: Let's ask Lan. She's master of the Liyue branch, right?
+Paimon: Lan! We need to ask you for a favor...
+Lan: I stopped accepting commissions a longtime ago. Sorry, you two, but you'll just have to ask another adventurer.
+Paimon: Oh, it's not that kind of favor. It's just a teeny-tiny thing...
+旅行者: Do you know how to make perfume?
+Lan: ...Wow. Just wow.
+Lan: Do I look like the kind of girl who wears perfume to you?  think you're underestimating the kind of person I am...
+Paimon: Well, Paimon thinks you smell amazing! So come on Lan, what's your secret?If not perfume?
+Lan: Now that you mention it... Yes, there is something. What is that scent?
+Lan: Oh, it must be from the Qingxin flowers l picked on the way back. I forgot I still had them with me...
+Paimon: Aha! The truth is out, Lan's got a soft spot for wildflowers!
+Lan: Ahh... No, they were for medicinal use only.
+Lan: Anyway, this is a pointless conversation. If you want to know about perfume, try talking to Qiming.
+Paimon: The fortune-teller, right? Paimon remembers she smells pretty good!
+Paimon: Thanks, Lan! See you around~
+
+Seek Qiming's advice
+Qiming: Hello. How may I help?
+Paimon: We've come to ask you a question...
+旅行者: Do you know how to make perfume?
+Qiming: Perfume? I rarely think to use it, let alone about how to make it myself.
+Qiming: That said, some of the cosmetics I use are scented. Perhaps that's the cause of this confusion.
+Qiming: Since I usually set up my stall by the docks, I avoid perfume like the plague.Because Celestia forbid those lusty sailors catch a whiff and come hunting for the (?)
+Paimon: That's the worst thing Paimon's heard all day.
+Qiming: While we're on the subject, have you never heard anyone mention Ying'er's homemade perfume?
+Paimon: Ying'er... Oh, as in Scent of Spring Ying'er?
+Qiming: Yes, that's her. Many a rich family's daughter has gotten her to make perfume for them. Apparently, her homemade product is better than anything you'll find on the market.
+Paimon: Great, this is just the intel we need! Finally, we re getting somewhere.
+
+Seek Ying'er's advice
+Ying'er: Well hello... You found me at last. I've been waiting for you.
+Paimon: What? How did you know we were coming?
+Ying'er: Oh, I heard a rumor about a couple who were snooping around town looking for a sweet-smelling lady...
+Ying'er: Actually, I was starting to worry you wouldn't find me. This is the ultimate test of my appeal, after all...
+Paimon: "Snooping around"? Why are you making it out like we're bad people?
+Ying'er: What can I say? People love to talk..Maybe you ought to be more discreet in the future if you don't want word to get around.
+Ying'er: Relax... I know why you're here. You want to get your hand on my homemade perfume, don't you? What kind would you (?)
+旅行者: A bespoke triple-Silk-Flower variety...
+Ying'er: Three in one go... My goodness.
+Ying'er: You have extreme tastes for someone your age. Maybe the rumors I heard were true after all. You're on the prowl and need some sweet-smelling ammunition, is that it?
+旅行者: It's for Rex Lapis.
+Ying'er: Tsk... Is that the best you could come up with? Even if you were genuinely offering perfume to a deity, that doesn't explain why you'd need three kinds. Sorry, your story just doesn't hold water!
+Paimon: Zhongli was right... People don't remember this tradition anymore.
+Ying'er: As one of my favorite poems goes, "Oh cherry tree, begrudge not thy blossoms as the yare deflowered in the spring, for come winter,even thy sturdiest wood shall wither.!
+Paimon: That went over Paimon's head a (?)
+Ying'er: In short, I'm happy to help. Traveler,you can be my assistant. But you'd better make sure I'm the only person on your mind while you're hanging around with me...
+旅行者: Okay...
+Ying'er: So... Where is a good place for making sweet, sweet perfume?
+旅行者: Dadaupa Gorge!
+Ying'er: Where is that? Mondstadt? We're only making some perfume, there's no need to go to such ridiculous lengths.
+Ying'er: Somewhere closer to home will do.Let's go for the kitchen at the Wanmin Restaurant.
+
+Rendezvous with Ying'er
+Ying'er: I've had a word with Chef Mao. We can start work now.
+Ying'er: Are you ready to please me?
+Paimon: ...What did you say?
+Ying'er: I meant make me proud. As my assistant. Obviously.
+Ying'er: While I'm setting up, you can go and fetch some water.
+
+Fetch some water
+Talk to Ying'er
+Ying'er: This water will do nicely.
+Ying'er: Now, I need you to extract the Silk Flower essence using a crafting bench.
+Ying'er: Perfume-making uses an altogether different technique from alchemy. Here, let me teach you. Very carefully, take hold of the mortar and pestle... Gently does it...
+Ying'er: You need to keep your wrist firm so your hand doesn't slip...
+Ying'er: Now, use your strong hand to stir it with a persistent rhythm... Keep going until the juices start to come out...
+旅行者: Don't worry, I know what I'm doing.
+Ying'er: Ooh... You're a natural! Like a fish to water.
+Ying'er: Now, take these and try it out on your own using a nearby crafting bench.
+Ying'er: Don't forget to do all three. They look visually identical during the essence extraction process, but I will put them into separate containers when the perfume is ready.
+
+Grind the Silk Flowers to extract the essence
+Give the Silk Flower Essence to Ying'er
+Ying'er: Wow, this is some exquisite Silk Flower Essence. Onto the next stage, the most important one of all...
+Ying'er: The essence is placed into water and simmered over low heat until most of the water has boiled off.
+Ying'er: You must take care to control the heat during this process. If the temperature goes too high, it will affect the scent.
+Ying'er: So please, focus on controlling the heat. This is the final step.
+Ying'er: Don't waste a drop of that essence, now. We want all of it in there.
+
+With a little guidance, you help Ying'er make some perfume.
+Ying'er: All three perfumes are ready. And you, my friend, were a wonderful assistant.
+Ying'er: A testament to the lengths you will go to for romance... It's so rare to see nowadays.
+旅行者: I told you, it's not like that...
+Ying'er: Anyway... Shall I give you a brief overview of each scent? It might just help you match the right scent to the right occasion...
+Paimon: Paimon wants to hear this!
+Ying'er: This first one is sweet as candy,straight out of a fairy tale... Younger women will love it.
+Ying'er: The second one is for those with more refined tastes... The first choice for daughters of high society.
+Ying'er: Finally, the third one has a soft but lingering scent, like a mist that captures the last light of dusk, Mature women adore this one.
+Ying'er: All clear? Don't get them mixed up now, you'll ruin the mood...
+旅行者: I... I think I got it...
+Ying'er: Good. Be sure to come visit if you ever need help with anything, okay?
+Ying'er: I'll leave you with some parting words:
+Ying'er: One who tries to sail three boats simultaneously should be careful not to go overboard.
+旅行者: ...
+Ying'er: Heh. Come and hang out with me at Scent of Spring sometime, okay?
+
+Offer the perfumes to the Statue of the Seven
+Paimon: We've brought the perfumes, Mr.Zhongli!
+Paimon: Did we take too long? You were just staring up at the statue...
+Zhongli: Oh, you're back. Don't worry, I haven't waited long.
+Zhongli: Compared to the watch that Rex Lapis statues have kept over Liyue, this was but a brief moment.
+Paimon: Haha, well, how can a person compete with a statue?
+Zhongli: That is true. Well, have you brought the perfumes?
+Paimon: Three sets and not one less!
+Zhongli: Thank you both. Let us offer them up.
+旅行者: Offer Golden House Maiden
+Paimon: This is the first kind of perfume. Ms.Ying'er said that it's sweet as a dream, and it's liked by younger ladies.
+旅行者: Offer Valley Weaver
+Paimon: This is the second kind. It's got an elegant smell, and the daughters of high society love it!
+旅行者: Offer Fate's Yearning
+Paimon: The third kind has a gentle but lingering fragrance, something something like the dusk mist, and it's a favorite of mature ladies.
+Paimon: Oh... what was that?
+旅行者: Looks like Rex Lapis really likes this one.
+Paimon: That's the one older ladies like, right?
+Paimon: Does that mean that Rex Lapis is actually an older lady?
+Zhongli: Haha, perhaps, perhaps.
+Zhongli: Rex Lapis has taken on countless forms. Perhaps that really was one of them.
+Paimon: What a shame, we only got to see the giant dragon form, and...
+Paimon: Let's hope the Qixing can catch the real killer.
+Zhongli: We can leave that to the authorities. Let us focus on the fond farewell for Rex Lapis.
+旅行者: (What ulterior motives do Childe and the Qixing have...)
+Paimon: So, we've finished another step in our preparations. What's next?
+Zhongli: Next, I would like the two of you to help me borrow the Cleansing Bell.
+Paimon: Cleansing Bell?
+Zhongli: At present, a friend of mine named Madame Ping is the guardian of the Cleansing Bell. She lives near Yujing Terrace. If you ask her, she will know what to do.
+Paimon: Sure, but... aren't you going to come with us?
+Zhongli: Ah, I have certain reasons why l cannot be there in person. Please do this for me.
+Paimon: Man, why's he got to be so secretive this time?

@@ -1,0 +1,33 @@
+An Impromptu Change of Plan
+During the rite, the appointed moment arrived. Yet when the clouds parted, a divine carcass crashed down to earth, knocking all the offerings over. Amid the chaos and confusion, the Qixing ordered that the assassin be arrested. Unable to prove your innocence, you were forced to accept the help of Childe of the Fatui, and as suggested by him, you are now headed for Jueyun Karst, a hidden abode where the adepti dwell...
+
+Search for the adepti in Jueyun Karst
+Meet the adepti in Jueyun Karst
+???: And who might we be? Those that dareenter Jueyun Karst?
+旅行者: I was sent here.
+???: A Sigil of Permission... Many a season has passed since one was last in the presence of such an item.
+Moon Carver: He before you is the mighty and illuminated adeptus, Moon Carver. Speak, traveler. What business have you here?
+Paimon: Actually...
+Millelith Sergeant: It's the assassin! They dared to flee here to Jueyun Karst!
+Millelith Soldier: Sir, we've already stepped too far into Jueyun Karst ourselves..
+Millelith Sergeant: We... Argh, there's no choice. Apprehending the assassin is top priority, we must press on!
+Moon Carver: ...disturbing our borders.
+Moon Carver: See them gone. One will not haveinterruption.
+
+Fend off the Millelith
+Talk to Moon Carver
+Moon Carver: We've digressed. State your purpose, traveler.
+Paimon: Well...
+You tell Moon Carver what happened at Yujing Terrace...
+Moon Carver: Preposterous...
+Moon Carver: PREPOSTEROUS!!!
+Moon Carver: The Liyue Qixing... utterly disappointing.
+Moon Carver: How could someone possibly assassinate Rex Lapis during the Rite of Descension...
+Moon Carver: And then place suspicion upon the attendees!?
+Moon Carver: ...
+Moon Carver: Traveler, of the unjust accusations placed upon you, one has become aware.
+Moon Carver: The mind knows its answer. Though one must consult with one's fellows, lest the mind be misguided.
+Moon Carver: Go. Take your Sigil of Permission, carry with you a message.
+旅行者: Who should I look for?
+Moon Carver: Mountain Shaper and Cloud Retainer can be found here. Only fate will decide if you shall find them - only fate. 
+Moon Carver: There exists a Conqueror of Demons, a Guardian Yaksha. Go to Wangshu Inn. There you shall seek him.

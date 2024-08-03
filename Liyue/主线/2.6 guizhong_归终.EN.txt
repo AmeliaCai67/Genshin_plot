@@ -1,0 +1,169 @@
+Guizhong
+You came to renowned purveyor of Liyue herbal medicine, Bubu Pharmacy, to procure someEverlasting Incense. But what started out as a straightforward trip to the pharmacy has turned into a far more complicated affair...
+
+Go to Bubu Pharmacy
+Paimon: Huh, the reception is deserted. And it seems kinda spooky in here...
+Paimon: Hello? Is anybody there?
+???: Welcome to Bubu Pharmacy.
+Paimon: ...
+Paimon: D-Did you hear that? Wh-Where did it come from?
+Zhongli: The reception, it seems.
+Paimon: 旅行者, how about... you go check it out, and... Paimon will bring up the rear.
+
+Find the source of the mystery voice
+Paimon: Oh, there you are! But you can't even reach the counter:
+旅行者: Is she... a zombie!?
+Paimon: Ah... Paimon thinks you might be right! Look at the talisman on her forehead!
+Qiqi: Welcome to Bubu Pharmacy. I am Qiqi.
+Qiqi: Once upon a time, Qiqi died. Then, Qiqi was saved by the adepti. Now, Qiqi is a zombie.
+旅行者: Such nonchalant delivery for a bombshell revelation...
+Paimon: Something like this would be unimaginable in Mondstadt...
+Zhongli: Hello... little girl. Do you sell Everlasting Incense here?
+Qiqi: Excuse me, sir. Did you bring your prescription?
+Zhongli: l... Surely no prescription is needed to purchase Everlasting Incense? It's not a controlled substance...
+Qiqi: Qiqi can get your medicine. But only if you show Qiqi your prescription. These are Qiqi's orders, from Qiqi.
+旅行者:"Orders”?
+Zhongli: Zombies are limited to acting within the confines of their orders. And somehow, in this case, the zombie issues her own orders to herself.
+Zhongli: My dear Qiqi, we didn't bring a prescription, I'm afraid. But we do hope that you can still help us find some Everlasting Incense.
+Qiqi: Okay then.
+Paimon: How did you manage that?
+Qiqi: But. Qiqi helps you, you help Qiqi. Only fair.
+Paimon: Since when do customers need to do favors for customer service staff?
+Zhongli: Never mind, just think of it as a peer-to-peer transaction. That way everybody wins. Sometimes, in Liyue, the art of the deal is simply about victory via mental gymnastics.
+Qiqi: Go to Mt. Tianheng. Find the Guizhong Ballista. And hunt a Cocogoat. Please and thank you.
+旅行者: Hunt the what with the which at where?
+Zhongli: Guizhong Ballista... I have heard of this device before.
+Zhongli: It is a kind of crossbow turret installed on Mt. Tianheng by an adeptus in the distant past. An early mechanical device.
+Zhongli: Located in Tianheng Pass, it was designed to automatically fire at large monsters, protecting Liyue from external threats.
+Paimon: Mr. Zhongli really knows Liyue inside out!
+Zhongli: Apparently, not quite... This is the first I have ever heard of the "Cocogoat."
+Qiqi: The Cocogoat is a legendary animal. An adeptibeast.
+Paimon: Did you wanna add anything else, or...
+Qiqi: No. Just that the Cocogoat is a legendary animal. An adeptibeast.
+Qiqi: What it looks like: don't know. Where to find it: don't know either. Where it came from:also don't know.
+旅行者: Do tell us if you remember anything else you don't remember...
+Zhongli: Very well then... Let's start by investigating near the Guizhong Ballista.Perhaps we will find some clues.
+Paimon: What the heck is a Cocogoat...
+
+Look for the Guizhong Ballista
+Inspect the Guizhong Ballista
+Paimon: It's huge! Paimon can totally believe it took an adeptus to build this.
+Paimon: But... how do you operate this thing? Just think how much strength you would (?)
+Zhongli: Hmm... It is currently inoperable, in any case. This device is broken.
+Paimon: Aw, what? It broke!?
+Zhongli: After millennia of wear and tear, even adepti contraptions are difficult to maintain.
+Paimon: So what’re we gonna do? Quick, Mr.Zhongli, use your unlimited high-society knowledge powers!
+Zhongli: Hmm. You almost make it sound like I'm some sort of... bourgeois parasite, whose only utility lies in providing quaint pieces of trivia on demand.
+Zhongli: That said, let me think for a moment..Ah yes. Spare parts were made for the Guizhong Ballista when it was first built, in case it was damaged in battle.
+Zhongli: As I recall, there is a military supply post from that period somewhere inside the Pass.
+Zhongli: If we can retrieve the spare parts from where they are stored, we may be able to repair the Guizhong Ballista. One just needs to understand the basic working principles of the device.
+Paimon: So... what you're saying is that you actually understand the working principles?
+Zhongli: I have a smattering of knowledge on the topic.
+Zhongli: With the parts in hand, I could at least tinker with it.
+
+Retrieve spare parts from the military supply post
+Repair the Guizhong Ballista
+Zhongli: These parts look useful.
+Zhongli: One moment, I will try to repair the device...
+Zhongli: It is done. The Guizhong Ballista is more intricately designed than I thought.
+Paimon: Woo! Now how do we turn it on?
+Zhongli: It's easy enough. We simply need to do this... Look, it even has a scope.
+
+You search for the Cocogoat using the Guizhong Ballista...
+Paimon: Over here we have... Nothing. And over there... More nothing.
+Freckle Huang: Hey! Just what do you think you're doing!?
+Freckle Huang: So, you've fixed up this turret..because you're planning to do what, exactly!?
+Zhongli: Not a turret. A Guizhong Ballista. Also, kindly state your name before you ask aquestion, it's just good manners.
+Freckle Huang: Hah! Are you blind or something? You're looking at the leader of the Treasure Hoarders, old man!
+Freckle Huang: This area's supposed to be chock-full of hidden treasures, but you can't get anywhere near them with this thing keeping watch. It might look like any other mechanical device, but trust me, it's got a mind (?)
+Freckle Huang: Last time we approached the mountain, it nearly skewered one of our guys..
+Freckle Huang: A few of us risked our lives to disarm it - which, amazingly, we managed and then we turn our backs for two second sand you've ALREADY GONE AND REPAIRED
+Freckle Huang: The next thing you'll be repairing is your faces, and that's if you get out of this alive.
+Zhongli: Tut-tut. Vandalizing the legacy of an adeptus for selfish gain. Disgraceful behavior.
+Zhongli: It is not we who need reprimanding, but you.
+Paimon: Quite right! Let's get 'em, 旅行者!
+
+Defeat the Treasure Hoarders
+Paimon: These lowlifes didn't know who they were messing with!
+Zhongli: Troubling ourselves over this rabble is not worth the time. We should focus on our contract with Qiqi.
+Paimon: Oh yeah... that. So we've got the Guizhong Ballista working, but where's our Cocogoat?
+Zhongli: A search using the Guizhong Ballista revealed no significant life forms nearby, save for the usual wildlife.
+Zhongli: What's more, a contraption built using adeptus technology should have no trouble detecting an "adeptibeast" as Qiqi put it...
+Paimon: Which means...
+旅行者: ...
+Zhongli: We won't solve anything while standing here and racking our brains. Let's return to Bubu Pharmacy, explain that we could not find a Cocogoat, and review our next step.
+Paimon: Good idea. We did our best, and that's what counts.
+
+Find Qiqi back at the Bubu Pharmacy
+Zhongli: Forgive us, we were unable to fulfill our end of the contract. We found no trace of the Cocogoat adeptibeast of which you speak.
+Qiqi: Ah. What a disappointment. Don't worry about it. But I feel very disappointed.
+Paimon: Aw, poor Qiqi... Why does Paimon feel so guilty all of a sudden?
+旅行者: Qiqi, do you have any other clues?
+Qiqi: Cocogoat milk is tasty. So tasty. Much better than normal goat milk. Only an adeptibeast could make such tasty milk.
+Qiqi: I'm sorry. I have a poor memory. I cannot remember the name of the milk. That's why I wrote it down. Where did I put it...
+Qiqi: Ah. Here. This is the name. "Coconut (?)
+Crowd: Ehh!?
+Zhongli: ...
+Zhongli: I owe you both an apology. I hastily agreed to what appeared to be an equitable agreement with this zombie child, when perhaps I should have undertaken further due diligence.
+Paimon: Never mind Zhongli, you didn't know. As the Liyue proverb goes, "All things are random, and... so how are you supposed to predict anything." Literally no one could have seen this coming...
+Qiqi: Excuse me, everyone. Did Qiqi say a bad thing?
+Paimon: Ooh... Sorry, 旅行者, but Paimon's gonna leave the job of shattering this poor kiddo's world to you...
+旅行者: It's time to tell you where coconut milk comes from...
+Qiqi: No... Im-Impossible...
+Paimon: Seems Qiqi took this pretty hard
+旅行者: She just needs time to work through it.
+???: Haha, someone learnt a valuable life lesson today, then? Thank you all for looking after my little Qiqi.
+Zhongli: Might I ask, who...
+Baizhu: Ah, how rude of me. I'm Baizhu, boss of the Bubu Pharmacy.
+Paimon: Paimon thought Qiqi was the boss...turns out it's some wacko who wears medicinal ingredients around his neck!
+White Snake: What a sorry state of affairs...This little mascot is even more of a simpleton than Qiqi...
+Paimon: Ah! The medicine- The snake is s-speaking!
+旅行者: Wow, a talking snake!
+White Snake: Hmph! I prefer to stay silent. But faced with strangers, I must speak, lest you mistake me for an escapee from the medicine cabinet, for I am a living, breathing, serpent!
+Baizhu: Hahaha, don't mind Changsheng, she's a good girl, really. As for you three... Communal chaos-causing with Qiqi aside, what business brings you here?
+Zhongli: Do you sell Everlasting Incense in this fine establishment?
+Baizhu: Everlasting Incense? Why, of course we do!
+Paimon: Phew, at last! Things are finally starting to come together
+Baizhu: Three million Mora, top quality,guaranteed.
+旅行者: Three million!?
+Paimon: You might as well just rob the Golden House! Oh, but the Qixing have taken it over for now... Security will be tighter than usual.
+Zhongli: Hmm... Three million... An innocuous number in and of itself, though practically speaking, it could be a hard sum to come by.
+Paimon: It's a crazy number! We'd never be able to make that much Mora, and as for Mr. Zhongli... he's around three million short.
+Zhongli: This is correct.
+旅行者: No shame...
+Paimon: What’re we gonna do? Is this the part where we go crawling back to Childe...?
+
+Twenty minutes later...
+Childe: Bwahahahahahaha!
+Childe: Cocogoat! Cocogo- Ahahaow my sides hurt... Oh my goodness, I cannot BELIEVE you fell for that!
+Paimon: Hey! Less laughter, more sympathy!
+Childe: I'm almost in tears over here... Ah,thank you, that was the best laugh I've had in along time. In return, I'm more than happy to sort out this mess you've managed to get yourselves into...
+Childe: Excuse me, sir... Dr. Baizhu, isn't it?Truly honored, I'm Childe, one of the Fatui Harbingers. Forgive my audacity, but I see a great many opportunities for us to collaborate in the future...
+Childe: If Bubu Pharmacy needed a stable supply of, say, coconut milk, the Fatui could help by setting up a robust and speedy distribution network.
+Changsheng: Strange... I knew the Fatui infiltrated businesses with seductive deals.but... So much fuss over coconut milk?
+Qiqi: Coconut milk. Baizhu. Quick. Qiqi wants coconut milk.
+Baizhu: Ah... Yes, of course, Qiqi, anything you want... Th-Thank you, Childe. I look forward to a successful collaboration in the future. I can give you a discount on that Everlasting Incense too, let's say... 2,990,000 Mora.Paimon: That's like, zero difference from three million!
+Zhongli: Hmm... 2,990,000... Also an innocuous number in and of itself, though practically speaking it is a whole ten thousand less than the original sum of three million.
+Zhongli: Well, now that this is settled, we must head back to Yujing Terrace. Mr. Childe, Dr. Baizhu, Little Miss Qiqi, see you soon.
+
+It appears Childe made it here before you, though in truth he hasn't gone far...
+Childe: That lot is an absolute riot. Honestly, I can't remember the last time I laughed so hard.
+Childe: So. You've been eavesdropping, I hope.What have I missed?
+Ekaterina: Yes, Master Childe. They spoke of the Qixing taking the Golden House...
+Childe: Well, well, well. Ningguang and her Qixing cronies. What else would they be hiding in the Golden House... if not the Exuvia?
+Childe: I apologize, 旅行者. But I warned you didn't I? As the old Liyue saying goes: "The walls have ears.
+
+Put the Everlasting Incense in place
+Zhongli: Well, as it stands, we've hired helpers,and we've acquired the Everlasting Incense.The completion of our preparations is not far off.
+Paimon: Whew... Finally!
+Zhongli: Well, Traveler, have you gained anything from our adventure so far?
+旅行者: It's been... odd.
+Zhongli: Odd?
+旅行者: I'm not sure if we've been living the high life...
+Zhongli: Haha, which is it, I wonder?
+Zhongli: The questions that such travels raise are ever so complicated. Well, I'll leave you to ruminate over it yourself. As to remuneration for your help, I've decided...
+Zhongli: ...to treat you to a meal.
+旅行者: Zhongli... treating?
+Zhongli: Oh? Ah yes, don't worry. I will remember to bring the Mora this time.Zhongli: Tonight, I shall take you both to an old hole-in-the-wall, praised throughout (?)
+Paimon: Hole-in-the-wall? As in... a cool restaurant?
+Zhongli: Indeed. Let us meet near the harbor at Third-Round Knockout.

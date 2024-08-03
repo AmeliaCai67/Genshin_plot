@@ -1,0 +1,112 @@
+The Floating Palace
+The mysterious emissary Ganyu appeared before you at Third-Round Knockout. Claiming to have come at Ningguang's behest, she invited you to the skyfaring palace known as the Jade Chamber. To that end, you and Paimon have come to Mt. Tianheng, from where you can see the Jade Chamber in the distance.
+
+Go to Mt. Tianheng
+Paimon: Look, up there! That's the Jade Chamber.
+旅行者: That's pretty high up.
+Paimon: Hmm... Uhh...
+Paimon: Ah, this is bad... Paimon's supposed to be your guide, but Paimon doesn't know wherethe way up to the Jade Chamber is...
+旅行者: You're only realizing that now!?
+Paimon: Ugh...
+Paimon: Well, since we want to go to the Jade Chamber, heading to its location on the map is the sensible thing to do!
+Paimon: Let's look around. There has to be away up there nearby!
+
+Search for a way up to the Jade Chamber
+Paimon: Hey, look! There's some sort of mechanism thingy!
+Paimon: Since this is the right place, it must have something to do with the Jade Chamber.
+旅行者: Maybe it's the way to the Jade
+Paimon: Yes, this must be the way!
+
+Try using the mechanism
+Paimon: Huh? It only takes us up to here...
+Paimon: Aw, if that wind current was stronger,we'd be able to reach the top in one go.
+旅行者: Best we go back to Liyue and ask the Millelith...
+Paimon: Huh? Why?
+旅行者: The way up shouldn't be a secret, or...
+Paimon: Or? ...Oh, Paimon gets it! If it was a secret, Ganyu wouldn't have let us try to find it ourselves, right?
+Paimon: Alright, let's follow your plan, then we can...
+Paimon: Oh! Hang on a moment. Look down there!
+Paimon: Looks like we've gotten close to the Guizhong Ballista.
+Paimon: Hmm... Uh... Paimon has a new idea!
+Paimon: Why don't we shoot you up to the Jade Chamber using the Ballista?
+旅行者: No thanks.I don't have a death wish.
+Paimon: Oh... Right. This method does seem a bit unsafe...
+旅行者: Still, I do remember that the Ballista had a scope.
+Paimon: Oh, that's right!
+Paimon: Now that you mention it, we could use the Guizhong Ballista to see if there's another way up nearby!
+
+Head over to the Guizhong Ballista
+Huaqing: Halt!
+Huaqing: Who trespasses on these hallowed grounds?
+旅行者: We're just passing through..
+Paimon: Exactly. What're you talking about?
+Paimon: We're invited guests! What makes you think you can treat us like this?
+Paimon: No... Wait... Maybe this was Ningguang's plan all along!
+Paimon: She pretended to invite us to the Jade Chamber, but set up a Millelith ambush here to arrest us!
+旅行者: I'm quite sure that's not the case.
+Paimon: Grr... Now Paimon's mad! ...You! Over there! This is a trick, isn't it? How shameless!
+Huaqing: What? We're just on guard duty.
+What do you mean, "shameless"?
+Yang: What nonsense! Seize these suspicious intruders at once.Paimon: Well, here they come - line 'em up and knock 'em down!
+
+Fight the Millelith
+???: Stop! What's all this about?
+Huaqing: Lady Keqing, these two strange people suddenly appeared. They seem to have designs on the Guizhong Ballista.
+Paimon: Who're you calling "strange"?
+旅行者: We were just looking for the way to the Jade Chamber.
+Keqing: Hmm? You want to go to the Jade Chamber? Who are you?
+Paimon: We're invited guests, here to look for the Liyue Qixing! Who are you?
+Keqing: ...
+Keqing: Well, as it happens, I am one of the Liyue Qixing.
+Paimon: ???
+Keqing: I'm Keqing, the Yuheng of the Qixing.
+Keqing: I know of you, Traveler. You're Ningguang's guests, yes? Didn't expect to meet you here in the mountains.
+Paimon: Wow... Paimon didn't think we'd meet some super-rich big shot out here in the middle of nowhere, either.
+Keqing: The Guizhong Ballista in Tianheng Pass has long been in disrepair, and yet it was fixed in a single night. I came here to investigate that occurrence.
+Keqing: These Millelith are just here to guard the scene, not to arrest anyone.
+Paimon: So, this was all a misunderstanding? Paimon never would've thought...
+旅行者: Thinking isn't that hard, Paimon.
+Keqing: Anyway, for a mortal to be able to repair an adepti mechanism is quite the mystery, even to the Qixing.
+Paimon: Hehe, that was...
+旅行者: (Shh, Paimon, don't complicate the matter!)
+Paimon: Eh? Oh, right. So, Lady Yuheng, might you have any idea why Lady Tianquan invited us to go to the Jade Chamber?
+Keqing: Just call me Keqing.
+Keqing: I'd say that Ningguang's purpose is to request that the savior of Mondstadt take a more neutral stance... Or at least, to not wholly side with the adepti.
+Paimon: We're not taking sides. We spoke with the adepti. They want to protect Liyue as (?) 
+Keqing: When you say "protect," you're referring to their sanctimonious arrogance.aren't you?
+Paimon: Huh?
+Keqing: You are mortals, and thus under their protection. There was no way they would have regarded you as someone with the ability to assassinate a god.
+Keqing: Naturally, they would also regard Ningguang's locking down the area, questioning the citizenry, and pursuit of the assassin to be pointless work. Perhaps they even wonder if there might be a cover-up.
+Keqing: I'll say it like it is: they're underestimating us.
+Paimon: Well, you've got a point there...
+Paimon: Still, this is the first time Paimon's seen a person from Liyue who doesn't respect the gods or the adepti.
+Keqing: Hah. Should I respect the shallow sense of time and condescension to mortals that has caused them to delay in moving against us Qixing?
+Keqing: Forget it. I shouldn't speak of them this way. This skepticism is mine alone, and Ningguang does not share it.
+Keqing: Either way, I will admit that the actions of the adepti this time were quite (?)
+Keqing: Rex Lapis' death is indeed an extraordinary circumstance. But to think that they would call for a council of adepti rather than come down here directly...
+Keqing: How surprisingly civilized of them.
+旅行者: Any chance you could talk it out with them?
+Keqing: Well, for Ningguang... She would talk anything and everything out if she could. But I doubt we can do that here.
+Keqing: The time of the adepti has long passed.If even the Liyue Qixing don't want to face that truth, then what future is there for Liyue?
+Paimon: Phew... Another super bold statement...
+Keqing: *sigh* I'll stop here. Honestly, I hadn't intended to say so much. But you're a good listener, Traveler.
+Keqing: You should both be off to the Jade Chamber. Don't be late, now. Ningguang's schedule is packed to the gills all the way till next year.
+Keqing: The cream of Liyue's mercantile crop all see "ascending to the Jade Chamber" as the greatest honor. Each brings rich gifts as they visit, all to curry a little favor with Ningguang
+Paimon: Favor?
+旅行者: Paimon, that's not the point.
+Paimon: But.. But!
+Paimon: Wait, that's right! Greeting gifts are a staple of Liyue's culture. We need to get one,not to curry favor or anything - just to...respect Liyue's culture!
+旅行者: Ah, so eager...
+Keqing: Alright, alright. You can decide on your greeting gift yourselves. Let me tell you how to get to the Jade Chamber first.
+Keqing: You didn't actually have to come to Mt.Tianheng. Go back to Liyue Harbor, find a guide at the Yuehai Pavilion, and...
+Keqing: Well then. May we meet again, Traveler.
+Paimon: Well, that Yuheng may not respect the gods, but Paimon thinks she's a pretty cool person.
+旅行者: She made a good impression on me, too.
+Paimon: So... What should we give to Ningguang when we see her?
+旅行者: You really have shifted focus, haven't you, Paimon...
+Paimon: Oh, right! Paimon dreamed of an amazing snack last night - Sugar-Frosted Slime!
+Paimon: Paimon has a feeling that it would be perfect for a super rich person like
+Paimon: Why don't we go with that for a gift?
+旅行者: So,do you have a recipe?
+Paimon: Nope! But Paimon's sure that we just need to make it with some boom shaka-laka!
+Paimon: Let's go gather ingredients. Time waits for no one, and neither will our riches!

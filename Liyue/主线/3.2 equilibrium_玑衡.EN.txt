@@ -1,0 +1,120 @@
+Equilibrium
+After arriving at the Guizhong Ballista on Mt.Tianheng, you are surprised to meet another member of the Qixing there. Her name is Keqing, and she gives you detailed instructions on how to ascend to the Jade Chamber. Paimon, however, is preoccupied with another detail that Keqing mentioned: the custom of bringing a greeting gift.
+
+Look for the ingredients Paimon needs
+Paimon: Huh? Is it just Paimon, or is there a sweet fragrance in the air...?
+Paimon: Huh... Did you hear that?
+旅行者: It sounded like someone calling for help.
+Paimon: It seemed like it came from those ruins over there...
+Paimon: Uh oh, it looks like the Treasure Hoarders have locked someone inside.
+
+Rescue the person in the cage
+Open the cage
+Talk to the person in the cage
+Meng Dan: Phew... Thank you for your help, kind travelers. If you hadn't come to my aid, l surely would have rotted in this cell! Those Treasure Hoarders... when their mood was good. they'd rearrange those pots of Sweet good, they'd rearrange those pots of Sweet Flowers. But when they were in a bad mood they'd rearrange my face...
+Paimon: Aw, it was nothing. No need to thank us all at once or anything!
+Meng Dan: Haha, I understand. Don't worry, l will compensate you both.
+旅行者: There's really no need.
+Meng Dan: Don't say that! I only escaped this predicament because of you.
+Meng Dan: I'm Meng Dan, a supplier for Mingxing Jewelry in Liyue Harbor. I often walk around these mountains in search of antiques.
+Meng Dan: I never expected that those Treasure Hoarders would have their eyes on the same ruins that I had. Before I knew it,they'd caught and imprisoned me.
+Meng Dan: Is there anything that you lack?Antiques, treasure, various knick-knacks, you name it! Well, as long as you want what I have to offer, of course.
+旅行者: Your goodwill is good enough for me.
+Paimon: Wait a moment! Actually, we are looking for something!
+Meng Dan: Oh? And what might that be?
+Paimon: Do you have a box that can store presents? We'd like a pretty one... the kind that you can use to store snacks.
+Meng Dan: Of course we do - how can one sell antiques without gift boxes? At Mingxing Jewelry, we have the best gift-wrapping service in the seven nations.
+Meng Dan: Now, just give me a moment, and I'll let the boss know. You can go see her whenever you require that box.
+Paimon: Great! Paimon's Sugar-Frosted Slime now comes in a beautiful package!
+
+Go to Mingxing Jewelry
+Paimon: Hey there! A guy called Meng Dan told us that we could get a nice and shiny box from your store...
+Xingxi: Uncle Meng already told me about it. Thank you both for saving him.
+Xingxi: Many of the best goods in our store were found by Uncle Meng. If anything were to happen to him, it would be impossible for us to continue doing business.
+Xingxi: Here, this container is itself an antique with at least 140 years of history. It's already been cleaned... Will it do?
+Paimon: Yup-yup-yup! It's great!
+Paimon: Hang on a moment. Could we borrow one other thing?
+Xingxi: Sure, please help yourselves - as long as it's on our shelves.
+Paimon: 旅行者, this clay pot looks really awesome!
+Paimon: If we use an antique as our mixing bowl, we should be able to make a great snack!
+Paimon: It's done! The one and only Sugar-Frosted Slime! Carefully now. Into the box it goes, and dust it over with a bit more powdered sugar...
+Xingxi: Oh yes. You might want to use these two freshly-picked flowers as decorations too
+Paimon: Woohoo! It looks beautiful!
+旅行者: (I'm still not sold on this gift idea....)
+Paimon: Great! Now that we've put all that we've got into this box, let's go to the Jade Chamber to see Ningguang 
+
+Look for the guide to the Jade Chamber
+Paimon: (According to Keqing, this is what wes hould say...)
+Paimon: Excuse me, do you sell the moon here?
+Bu'yun: Yes. How many would you like?
+Paimon: It is not convenient to speak of numbers here.
+Bu'yun: Ah, well said. Please, use this to ascend to the Chamber... Ah, yes. Speaking of which -are you two the guests that Lady Ningguang has arranged to meet with today?
+Paimon: Yup!
+Bu'yun: (And yet the code they used was not the one for guests, but for the Yuheng. What's going on here...)
+
+Speak to Ningguang
+Ningguang: I've been waiting for you, returnee from Jueyun Karst.
+Paimon: Ah, it's Ningguang!
+Paimon: Since this is our first meeting, um, we've prepared a gift! Hope you like it?
+Ningguang: Oh, for me? You have my thanks. It seems that I have made things difficult for you, considering that you were supposed to be my guests.
+Paimon: Hehe... Oh no, it's nothing.
+旅行者: Nice place, this Jade Chamber.
+Ningguang: Haha. I'm glad you like it too.
+
+Enter the Jade Chamber's premises
+Paimon: Wowee! What a huge hall! Paimon's never seen such a fancy place before...
+
+Speak to Ningguang
+Ningguang: Be at ease, you two. Make yourselves at home if you wish.
+Paimon: Can we really!?
+Ningguang: I have invited you two here as friends. And when friends come over to play, our enjoyment comes first, naturally.
+旅行者: Is that what I think it is...?
+Paimon: Ooh! Isn't this that legendary wall?
+Ningguang: Why, you've kept your ear to the ground, I see.
+Paimon: That's because even the storytellers are talking about it... Everyone's after a piece of paper from that wall. It's super famous!
+Ningguang: That's because that wall records Liyue's secrets. Merchants have always been attracted to secrets.
+Ningguang: But the secrets of the mercantile world are of no interest to you, are they, Traveler? You're rather special, really - and I think you're quite aware of that.
+Ningguang: If possible, I'd like to have your trust.
+Ningguang: But if you were to choose the more trustworthy person between myself and Keqing...
+旅行者: Well, between your orthodoxy and her heterodoxy...
+Ningguang: Haha... You'd pick Keqing? I had a feeling.
+Ningguang: I originally thought her a bit too...hard-headed. With someone of her character on the Qixing, I've had some extra messes to clean up behind the scenes.
+Ningguang: But after she said those words:'The time of the adepti has long passed. If even the Liyue Qixing don't want to face that truth,then what future is there for Liyue..."
+Ningguang: Well, I must say that quite a few of my doubts have been dispelled.
+Ningguang: I won't deny that Rex Lapis' passing seems advantageous to us. But for Liyue's sake, we cannot allow ourselves to be shackled by rumors of our usurpation of power.
+旅行者: I surmise that the Fatui has a hand in these rumors?
+Ningguang: Indeed... It seems that you understood what I meant to say from the very beginning.
+Ningguang: I called for the gag order and for the Exuvia to be hidden to temporarily stabilize the situation, and also to prevent something similar to the incident in
+Ningguang: With Rex Lapis' death, the Fatui have busied themselves with many clandestine actions beyond their diplomatic remit. As the Tianquan, one responsible for Liyue, I cannot be too concerned with appearances when opposing them.
+Ningguang: Allowing the Rite of Parting to take place was also meant to buy some time for us to take control of Liyue's (?)
+Paimon: Ugh... It's exactly as Zhongli said. The Qixing only provided the venue for the rite so they could use us for their own ends.
+Paimon: Wait, that's right! Speaking of ends...Could Paimon say one other thing?
+Ningguang: Of course.
+Paimon: Paimon's heard that anyone who sends a greeting gift gets a little something in return... So, does that include us?
+旅行者: Seriously, Paimon? Seriously?
+Ningguang: Hmm-hmm, It's alright. I like direct people.
+Ningguang: Well, we have made quite a bit of trouble for you recently. How about this? You can pick any one object here as you please, and you may take it with you.
+Paimon: Yay! Paimon was just waiting for you to say that! Let's see, what should we get...
+Paimon: One of the sheets on that wall!
+旅行者: ???
+Paimon: Don't look at Paimon like that! One of these sheets of paper will sell for crazy prices even if it's only as large as Paimon's (?)
+Paimon: Just imagine... how much Mora a whole, untorn sheet would sell for!
+
+Pick a piece of "paper snow
+Paimon: Huh? Well that was an easy search.The biggest sheet is right up there in the most obvious spot. Let's go with that one!
+Paimon: La la-la la-la... Let's see what's written on it.
+Paimon: Huh? There's a place marked with a circle on here. Ooh, could it be treasure!? Whatever it is, it better make us filthy rich!Let's see what's written over here...
+Paimon: "Sigil..." "of Permission..." Something something... "Fatui..." "research..." "copy..."Huh?
+Paimon: Aw, that doesn't sound like treasure at all.
+Paimon: This piece of paper shows that a Qixing spy discovered traces of classified Fatui research on the Sigil of Permission.
+Paimon: Oh, Ningguang did say that the Fatui have been up to all kinds of mischief in the shadows of Liyue... Spreading rumors, wanting to get their hands on the archon's body, and what not.
+Paimon: But research on the Sigil of Permission? Paimon wonders what they're up to.
+Paimon: Speaking of which, there's also some connection between you and the Sigil of Permission, 旅行者. Seems there's still more for us to find out.
+旅行者: It's all unfolding a little too perfectly.
+Paimon: Oh? You really think so?
+Paimon: Well... should we not go, then?
+旅行者: No, what I mean is...
+Paimon: Oh, so you're saying that it's precisely because we can't completely trust Ningguang that we should confirm the truth of what she says for ourselves.
+Paimon: Hmm... That's way out of Paimon's league, Paimon thinks she's been nothing but good to us!
+Paimon: Anyway, we'll see if you're on to something.
+Paimon: Um, before we look for Zhongli at Dihua Marsh, let's go to the place marked out on these papers and see if the Fatui really are up to no good there.

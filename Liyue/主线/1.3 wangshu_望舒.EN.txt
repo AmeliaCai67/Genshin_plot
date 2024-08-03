@@ -1,0 +1,145 @@
+Wangshu
+You came across an adeptus, "Moon Carver." Seeing the keepsake you bore, he lent you his aid and protected you from the Millelith soldiers pursuing you. Upon learning of Rex Lapis' passing and the unjust accusations laid against you, Moon Carver expressed disdain for the Qixing's actions and began to suspect that they were behind what happened. He has sent you to find several other adepti and deliver a message to them.
+
+Go to Wangshu Inn
+Paimon: Oh, this seems to be Wangshu Inn.
+Paimon: Compared to Jueyun Karst this place seems basic. Are we really gonna find an adeptus here?
+Paimon: Let's take a look. Paimon reckons he'll be on the balcony. Heh, doubt we're going to find him in the kitchen.
+You take a good look around the balcony, but there's no one to be seen. You stop to admire the view - when suddenly, an adeptus appears.
+
+Talk to Xiao
+Xiao: A Sigil of Permission? You came prepared.
+Xiao: Though this only prevents me from hurting you myself. Doesn't stop you from getting hurt in other ways.
+Paimon: Uhh... Paimon doesn't get it..
+Xiao: Too much contact with our world is breaking the rules.
+Xiao: Mortal souls are not as robust as those of adepti, nor can your blood carry this leve lof adeptal energy.
+Xiao: It's for your own good. Leave. Now. 
+Without waiting for you to explain, Xiao disappears...
+
+Paimon: Wait a sec, we came here to...
+Paimon: Argh! Paimon's... peeved! All he does is think about himself!
+Paimon: Paimon wants to give him an ugly nickname... but if you tick off an adeptus, the only thing you'll probably ever find in treasure chests is cabbages! Bleurgh!
+Paimon: Ugh... Guess we should go ask the boss lady of the inn about just how she manages to talk to adepti.
+
+Ask the boss lady about Xiao
+旅行者: Tell me about that adeptus.
+Verr Goldet: Oh? You've already met Xiao?
+Verr Goldet: Not bad. Not often he's in a good enough mood to agree to see people.
+Paimon: That's his good mood?
+Verr Goldet: Oh yes, the adepti are very hard to come by. Many people go their whole lives praying to them, never once actually getting to see one.
+Verr Goldet: When the Geo Archon built Liyue, he borrowed power from the adepti.
+Verr Goldet: But most of them only know how to protect Liyue by fighting.
+Verr Goldet: So for many millennia, it has instead been humans who have led Liyue, whilst the adepti have lived hidden away on the outskirts.
+Paimon: You really know a lot, huh boss lady.
+Verr Goldet: It's not "boss lady," it's just boss...
+Verr Goldet: Anyway, seen as you have the favor of the adepti, things should be a lot easier.
+Verr Goldet: Well... If you wanna know my opinion... If you keep Xiao in a good mood, things should be okay.
+Paimon: Good mood? Can't really imagine what a "good mood" looks like for that "VigilantYaksha."
+Verr Goldet: Haha! Will be interesting, won't it?
+Verr Goldet: (Come to think of it, I've neve rseen him smile either...)
+Verr Goldet: How' bout this - you go see the chef for a bowl of Almond Tofu, and a plate of whatever it is you are best at making.
+Verr Goldet: Almond Tofu is one of the few human foods Xiao likes. The other dish is up to you.
+Paimon: Up to us, eh...? 旅行者, what do you think you're the best at cooking?
+旅行者: Satisfying Salad I guess?
+Paimon: Really hard to screw that one up, right?
+
+Make a Delicious Satisfying Salad
+Talk to the chef
+Smiley Yanxiao: Can't you see I'm on a break kid? Scram.
+旅行者: Excuse me, we'd like an Almond To--
+Smiley Yanxiao: Scram!
+Paimon: Whoa this chef guy's service is about as good as that Wagner guy's back in Mondstadt.
+旅行者: It's for the boss, Goldet.
+Smiley Yanxiao: ...
+Smiley Yanxiao: I see. If it's for the boss, then guess I don't have a choice now, do I?
+Smiley Yanxiao: But my heart's not really in it right now, not enough to make a dessert aspainstaking as Almond Tofu.
+Paimon: And why is that?
+Smiley Yanxiao: A fencer's hand must be steady, so too must the hand of a chef.
+Smiley Yanxiao: But my hands, I'm... they're not steady...
+Smiley Yanxiao: Because ahh, a traveler once told me that this inn... is haunted.
+Smiley Yanxiao: And then, just now - just now! In the kitchen... I saw something...something not right.
+Paimon: (This chef looks so intimidating, but speak of ghosts and he becomes weak.)
+Smiley Yanxiao: I keep thinking... even Wangshu Inn isn't safe. I-I can't keep a steady hand for something like Almond Tofu.
+Paimon: Alright 旅行者. In the name of high-quality Almond Tofu, we need to go check this kitchen out.
+
+Go to the kitchen
+Paimon: Doesn't seem to be anyth--
+Paimon: ...
+Paimon: ...
+A ghost runs across the room before your very eyes...
+Paimon: #@&%*!
+
+Tell Smiley Yanxiao about what happened 
+Smiley Yanxiao: What!? You saw it too! There really is a ghost!
+Smiley Yanxiao: What... How can l...
+Paimon: Okay, so he's useless now. What do we do?
+Paimon: Forget it. Let's just go see the boss lady again.
+
+Seek help from Verr Goldet
+Verr Goldet: Hehe... Scared of something so insignificant. Hard to believe he was once a notorious bandit.
+Paimon: You don't seem that afraid of ghosts, boss lady.
+Verr Goldet: Gods and ghosts, I've seen it all before.
+Paimon: Come to think of it, others don't seem to know there's an adeptus here at the inn, except for the boss lady...
+Verr Goldet: Shh!
+Verr Goldet: Say any more and you' ll be divulging my little secret.
+Verr Goldet: Right. Best you two be off. Go see to it that little ghost doesn't go scaring anybody else.
+Verr Goldet: Not that I'm ordering you around. It's like the adeptus said, mortal souls are not as robust as those of the adepti.
+Verr Goldet: So as to not be harmed when dealing with the adepti, you can start by practicing with that ghost.
+旅行者: Sounds good.
+Paimon: But how should we persuade the ghost?
+Verr Goldet: There is a calligraphy painting in the inn known as the Witness Sigil. It's been incirculation for over a thousand years. Go take a look at it.
+Verr Goldet: Once you have, look for a place outside where you can see the exact same Witness Sigil formation.
+
+Observe the painting
+Find a place where you can see the wholeWitness Sigil
+Paimon: Th-There she is! So scary... 旅行者, quick, you... you grab her.
+Paimon: She's trying to get away!
+Paimon: We have to follow her. If it's as the boss lady said, she won't disappear like last time!
+
+Chase the ghost
+Defeat the Ruin Hunter
+Paimon: Argh! She doesn't know when to give up!
+Paimon: This old, decrepit Ruin Guard... Surely it's not... possessed!?
+
+Talk to Dusky Ming
+Dusky Ming: <singing> Silly-churl, billy-churl ...</singing>
+Paimon: Phew... Finally caught you. Paimon's pooped.
+Dusky Ming: <singing> Silly-billy hilichurl ...</singing>
+Paimon: Haunting things isn't nice! Little girl, are you listening?
+Dusky Ming: <singing> Chilly-churl, frilly-churl ...</singing>.
+Paimon: Now listen here young lady!
+Dusky Ming: ...
+Dusky Ming: Okay.
+Dusky Ming: Dusky Ming won't tease the travelers at the inn anymore.
+Dusky Ming: Next time 旅行者 can come play with Dusky Ming
+Dusky Ming: If you don't come and play, Dusky Ming will come find you~
+
+Tell Smiley Yanxiao about what happened
+Smiley Yanxiao: Wh-What... You really got the ghost to promise to stop haunting the inn?
+Smiley Yanxiao: Wow... You really are something...
+Smiley Yanxiao: I am in your debt.
+Smiley Yanxiao: Please wait a moment. I'll make you the smoothest, silkiest bowl of Almond Tofu.
+Smiley Yanxiao: Haha, my hands are steadier than ever now that she's gone.
+
+Talk to Xiao
+Xiao: ...You two again.
+Paimon: Wait! Don't go disappearing again.
+You give the food to Xiao...
+Xiao: What's this?
+Paimon: It's your favorite, Almond Tofu! As well as this distant traveler's best dish -- a Satisfying Salad.
+Paimon: 旅行者! Quick! Tell him everything before he finishes eating!
+Xiao: Rex Lapis... How could this be?
+Xiao: l... can't imagine it. Though times have changed, I've never imagined a Liyue without him.
+Xiao: The ruling Qixing... Just what role have they played in this?
+Xiao: ...
+Xiao: I will seek Moon Carver, Mountain Shaper, and Cloud Retainer. It is time they too made their decisions.
+旅行者: Will the adepti take over his role in Liyue?
+Xiao: Adepti do not turn on their responsibilities.
+Xiao: I have my reasons to not want to be tainted by the mortal realm, but...responsibilities are responsibilities
+Xiao: Our god is the God of Contracts after all.
+Paimon: Wait! Paimon still has one last question.
+Xiao: Hmm?
+Paimon: That... Dusky Ming. She's...
+Xiao: When conquering demons, on occasion, you can come across spirits who have never hurt anyone, yet are also not yet able to be moved on.
+Xiao: So I asked the innkeeper and the boss if they could keep her here for a time.
+Paimon: So really, Wangshu Inn was looking after her! Really keeping a wide range of business going, huh!

@@ -1,0 +1,60 @@
+Downtown
+Who would have guessed - Madame Ping is an adeptus! After leaving her household, which turned out to be a realm within a teapot, you proceed to Chihu Rock to continue preparations.
+
+Go and buy kites
+Granny Shan: Ah, sir, you're here. The seven kites you asked for have been made to order. Would you like to take them now?
+Zhongli: Yes. Thank you.
+Granny Shan: It's rare to see customers who want to buy this type of kite nowadays. In the early days, we used to get orders from people of all walks of life...
+Paimon: Well, this is Mr. Zhongli from the Wangsheng Funeral Parlor, so he's probably well-versed in all these walks of life.
+Paimon: We've talked about a whole bunch of things while traveling with him...
+旅行者: Fashion, economics, jewelry and jade pottery...
+Paimon: He seems to know Liyue's favorite topics, money and government, really well, but he likes talking about less useful topics instead.
+Zhongli: Well, that's because I prefer to share fun things with you.
+Granny Shan: Children's toys are very fun things, that's for sure. I enjoy watching the children at play as much as anyone else. But there is more to it than that.
+Granny Shan: Finely crafted toys are well-loved by children. But this craft itself has been honed over thousands of years, and there is meaning behind that.
+Granny Shan: I have made kites in Liyue for forty years, and I am intimately familiar with the forms passed down from my ancestors.The meaning of these seven kites is far from (?)
+Zhongli: Indeed. These are decorations used in the Rite of Parting. The seven kites represent The Seven.
+Granny Shan: I took the liberty of coloring outside the lines when doing the insignia of the Anemo Archon.
+Granny Shan: As for the kite that honors the Geo Archon, one must follow the contract given right down to the last letter. These patterns are ancient, and you can also find them in the Golden House.
+Paimon: Ah, Paimon's heard that name before-
+旅行者: Shh!
+Paimon: Huh?
+Zhongli: The design of this kite displays a firm grasp on the cyclicality and eternity so dear to the Electro Archon.
+Zhongli: These markings of tree and leaf pay due honor to wisdom and the passage of time. All this, on a single kite - truly astonishing.
+Zhongli: Justice flows across the surface of the waters, war rages like a flame, as does that which the Cryo Archon once... yes, these details are masterfully done.
+Granny Shan: Hehehe, the compliments of a learned man truly are pleasant.
+Zhongli: Well then, Granny Shan, I shall take these back with me. As for the payment...
+旅行者: Uh-oh!
+Childe: Well, allow me.
+Paimon: Hey, it's Childe!
+旅行者: Did you arrange to meet here?
+Childe: Haha. No, I was merely passing (?)
+Childe: I see Mr. Zhongli's the same as ever. When paying- Well, when getting others to pay for him, he neither looks at the price tag nor his wallet.
+Childe: He knows a great deal about money and about the trials of the common man. He just doesn't consider poverty to be something that could ever happen to him.
+Childe: Or perhaps you could say that he cannot imagine himself lacking money.
+Paimon: How has he not died of hunger yet?
+Zhongli: ...Childe, you are as fond of jokes as ever. Well then, since we've purchased our kites without incident, there's no need to take a break before moving to the next step in our preparations.
+Zhongli: The Rite of Parting requires helping hands as well as materials. We should be able to find some people near the harbor.
+Childe: Oh, by the way, 旅行者, take this bag ofmoney. You probably won't want to let Zhongli do the bargaining, if you know what I mean.
+Childe: Hmm... It seems I missed out on some interesting information.
+Childe: ...I suppose I'll just have to find a more opportune moment next time.
+
+Find three workers to help with preparations for the Rite of Parting
+Talk to Childe
+Childe: All finished then? Splendid. Any leftover cash is yours to keep - a favor for the Fatui should never go unrewarded.
+Paimon: You think you can buy us off with some loose change? No way! Paimon demands to know when the next payment is coming!
+Childe: Haha. Well, how does this sound: You give me the information I need, and maybe I'll leave the Northland Bank's vaults open and unattended for half an hour...
+Paimon: What info do you need!?
+旅行者: No!
+Paimon: Huh? 旅行者, does that mean you know what he's after?
+旅行者: What else could the Fatui want?
+Paimon: Yikes! You're right, Signora...
+Childe: ...
+Childe: You both need to calm down... I don't know what's gotten into you, 旅行者.
+Childe: Just what is this about? The atmosphere got so tense all of a sudden.
+Paimon: Ehh...
+Zhongli turns up just in time to break the awkward atmosphere...
+Zhongli: Next, we need some Everlasting Incense. For this, we need to go to Bubu Pharmacy, the finest pharmacy in all of--
+Zhongli: Is... everything okay?
+Childe: Everything is fine. I was just informing them that they need not return the surplus Mora.
+Childe: Now, if you'll excuse me, I must be going.

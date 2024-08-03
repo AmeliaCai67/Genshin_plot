@@ -1,0 +1,73 @@
+The Realm Within
+After identifying Rex Lapis' preferred scent, Zhonglisends you to Yujing Terrace to seek out an old friend of his, Madame Ping, and borrow a certain Cleansing Bell. Strange... Zhongli seems to be avoiding his old friend...
+
+Talk to Madame Ping
+Madame Ping: All things must change...
+旅行者: How do you do?
+Madame Ping: Mm? Youngster, are you here to admire the flowers?
+Madame Ping: But it's a shame. These Glaze Lilies have almost all wilted...
+Paimon: What happened to them?
+Madame Ping: Back in my day, people said that Glaze Lilies can read human hearts.
+Madame Ping: If they heard beautiful sounds like laughter and singing, they would also bloom joyfully.
+Madame Ping: But if they heard too much wild gossip or slander, they would quickly wither away.
+Paimon: ...So that means these flowers feel what's happening in Liyue.
+Madame Ping: Yes, the rumors of Rex Lapis death are no small matter. They are everywhere.
+Madame Ping: Some say it was a Fatui plot.Others say that the Qixing made it all up, and still others think that That Which Lies in the Deep is breaking free.
+Madame Ping: This harbor is like a mountain ofdry tinder. One spark and the fire will consume us all.
+Madame Ping: ...Well, I shall say no more. This old woman's grown too old and naggy... Did you have something to say, youngster?
+旅行者: We'd like to borrow the Cleansing Bell.
+Madame Ping: Ah, that old trinket... I remember it being here with me, but I've grown old. I can't quite recall where it is (?)
+Madame Ping: An old friend of mine used to wear it on his person, back when I was young...
+Madame Ping: He saw me gazing at it often and gave it to me.
+Madame Ping: But he told me then that if someone should come to borrow that bell, I should not be loath to part with it.
+Madame Ping: It has been many years, and who knows how many times someone has come to borrow this bell.
+Madame Ping: Still, though I can't recall when it started, it's been a long time since anyone has come to borrow it.
+Madame Ping: Ah, these old bones are so slow to look for things. I doubt you can wait that long...
+旅行者: We can look for it ourselves.
+Paimon: That's right granny. We'll follow you back home, and search for it ourselves!
+Paimon: And... Um, we can help with chores if you have any too!
+Madame Ping: Alright, children, there is no need to worry. I didn't place the bell very faraway.
+Paimon: Eh? Do you live near here, granny?Whoa, but this is Yujing Terrace. It’s gotta be expensive!
+Madame Ping: Haha, an old lady like me can’t afford to buy a place in this city. See this ceramic teapot? My entire household is in (?)
+Paimon: ...How does that work?
+旅行者: It contains your house keys?
+Madame Ping: Hohoho, youngsters. I simply mean that the bell is somewhere inside this teapot, and you are quite welcome to borrow it if you can find it.
+
+Touch Madame Ping's teapot 
+Search for the Cleansing Bell
+Talk to Madame Ping
+Madame Ping: Ho-ho, in and out in no time...You youngsters really are quick.
+旅行者: Are you an adeptus, ma'am?
+Madame Ping: An adeptus... I haven't heard anyone say those words in earnest for a longtime.
+Madame Ping: As to whether I am one or not, child, surely you already understand?
+Paimon: Ugh... Paimon kinda knows what you mean, but is also kinda confused. Are you really giving us the bell just like that Granny?
+Paimon: Don't you think it's weird?Something's just happened to Rex Lapis, and then we come running up asking for it...
+Madame Ping: Oh, don't be silly. Liyue Harbor has been through a great deal in its history. In that time, it has seen the departure of countless adepti.
+Madame Ping: But no matter what, we have always performed the Rite of Parting first before any other matters.
+Madame Ping: To cry "catch the murderer!" at the top of one's lungs, but ignore the Rite of Parting... That, to me, is what is wrong-headed.
+Madame Ping: Now that you have come to borrow the bell, I guess that perhaps an old friend of mine has finally decided to take matters into their own hands.
+Madame Ping: So, why would I be unwilling to lend you the bell?
+旅行者: What if your friend doesn't return it?
+Madame Ping: Oh? Well, if it came to that...Haha, they would find a certain old lady knocking at their door.
+Madame Ping: We haven't met in a while anyway, it would be nice to share a drink and chat.
+Madame Ping: Well, you must have things to do. Since you have the bell, you should return.
+Madame Ping: Oh, and, do tell the person who sent you...
+Madame Ping: ...that if they have time, they can come over for tea. I don't have much to offer, but you can always count on an old lady for a pot of tea.
+Paimon: We will! Thanks, granny!
+
+Put the perfume and Cleansing Bell in place
+Zhongli: Indeed, this is the Cleansing Bell. Hmm, it's in good condition.
+Zhongli: Let's place the perfume we've prepared inside.
+旅行者: Do you know Madame Ping?
+Zhongli: Of course. How would I know that the bell was with her, otherwise?
+Paimon: That's suspicious! But if you don't want to talk about it, we won't pry.
+Paimon: Oh, yes! That old granny asked us to tell you something.
+Paimon: "If you have the time, you can come over for tea. I don't have much to offer, but you can always count on an old lady for a pot of tea."
+Zhongli: Ha, that tone does not suit you. Still, her teapot is indeed very good. There are none better for brewing tea.
+Zhongli: When a suitable time arrives, I'll bring a spot of fine tea and pay her a visit.
+Paimon: So, what's the next step in our preparations?
+Zhongli: Hmm... Next, we need to purchase kites.
+Paimon: Ooh! Paimon loves kites! Are you taking us kite flying? Is this our break time?
+Zhongli: Haha, no, no. Kites are children's toys, yes, but they also play various symbolic roles in Liyue's rituals.
+Zhongli: I will explain it to you. But our next course of action should probably be to purchase the kites first.
+Paimon: Oh, sure... curiouser and curiouser...

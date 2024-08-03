@@ -1,0 +1,165 @@
+Solitary Fragrance
+You finally ascended to the Jade Chamber, where Ningguang was waiting for you. She graciously accepted Paimon's gift, and offered one in return. You spoke at length about many things: deities, archons...and the Fatui...
+
+Head to the location marked on the “paper snow”
+Investigate the Fatui's research
+Paimon: There are so many talismans here!And some stacks of blank paper, too! Hmm, what are they for?
+旅行者: It looks like they're copying the pattern on the talisman.
+Paimon: Paimon's seen this pattern before! But where...
+Paimon: Oh, Paimon knows! It looks just like the Sigil of Permission that Childe gave you.
+Paimon: Hmm, but how did a relic of the adepti end up in the hands of someone like Childe? Suspicious...
+旅行者: It's not just a relic...
+Paimon: Oh, that's right. Cloud Retainer said that when the Lord of Geo created the Sigil of Permission, it wasn't to be used as some ol’relic...
+Paimon: Talismans like that were once used in the Archon War to channel divine powers.
+Paimon: Maybe the Fatui are copying the Sigil of Permission in hopes of achieving a similar effect?
+Paimon: Being able to channel divine power in battle... Whew, that sounds pretty dangerous.
+旅行者: Seems the Fatui are definitely up to something.
+Paimon: And the plot thickens... We'll need to keep an eye on Childe, that's for sure.
+Paimon: Hmm, alright, that's enough sticking around here. We gotta go meet up with Zhongli soon.
+Paimon: The last stop on our Rite of Parting preparations tour is... Dihua Marsh!
+Paimon: Let's go! Paimon hates being late!
+
+Meet Zhongli at Dihua Marsh
+Zhongli: Right on time. I myself only arrived moments ago.
+Zhongli: Did you enjoy your visit to the Jade Chamber?
+Paimon: It was so biiig, and preetty, and expensive... Paimon's never seen such a fancy-schmancy place before!
+Zhongli: Indeed. It's second to none in all of Liyue.
+Zhongli: Then you met with Ningguang, I trust? What did you talk about with her?
+Paimon: She's super rich and so generous.Paimon thinks she's very friendly!
+旅行者: Business people are always “friendly” when it suits their interests.
+Paimon: Yeah, his take on Ningguang is quite different from Paimon's. He thinks that even the tactless Yuheng is more trustworthy than her.
+Zhongli: Oh, so you also met with Keqing,then? What did she have to say?
+Paimon: She said, “The time of the adepti has long passed. If even the Liyue Qixing don't want to face that truth, then what future is there for Liyue?”
+Zhongli: Haha, no respect for the divine.
+Zhongli: Indeed, contrary to the ever-bold Keqing, Ningguang is more of abusiness woman at heart, though they are both members of the Qixing.
+Zhongli: Although she's friendly, there's no way of clearly discerning her true intentions.
+旅行者: Ningguang is highly intelligent. 
+Zhongli: Yes, she has only relied on herself to rise to her current position. No ordinary person could ever achieve that.
+Zhongli: It's said that she's the one behind the constant expansion of the Jade Chamber. It's the second most important thing to her. Even if she ever gave up the position of Tianquan she would never give up the Jade Chamber.
+Paimon: The Jade Chamber is only second? What's the most important thing to her then?
+Zhongli: Why, Mora, of course.
+旅行者: Makes sense.
+Paimon: All Ningguang talked about was the Fatui this and the Fatui that... She said that after Rex Lapis was murdered, the Fatui have constantly been trying to sink their fingers into Liyue and that they aren't to be trusted.
+Zhongli: That is how the Fatui have always been. It doesn't surprise me in the least.
+旅行者: And now they are trying to reproduce the Sigil of Permission.
+Zhongli: ...
+Zhongli: No matter what they may be planning you must be careful when dealing with the Fatui. Always be on your guard.
+Paimon: So is there anything we need to get for the Rite of Parting in Dihua Marsh?
+Zhongli: Yes, as a matter of fact, there is. Today, we'll be gathering wild Glaze Lilies.
+Paimon: Glaze Lilies? But why did we come all the way out here? Doesn't the garden in Yujing Terrace have some? Even Qingce Village has Glaze Lilies...
+Paimon: Oh right, Paimon remembers that Madame Ping is always tending to flowers.Maybe we could ask her!
+Zhongli: No, those lilies have all been gardened by people. They won't do at all.
+Zhongli: Dihua Marsh used to be full of Glaze Lilies. It is a sort of joyful flower that listens to human song.
+Zhongli: Before the Archon War, Dihua Marsh was all dry land and fertile soil. But the war caused landslides and the land was flooded,turning it into the marsh you see now. Nearly all the Glaze Lilies were wiped out.
+Zhongli: Of course, there are some kinds off lowers that have been preserved and gardened by people in the city. But very few people know that Glaze Lilies may still be (?)
+Zhongli: Wild Glaze Lilies have the strongest fragrance. If we want to follow the true tradition of the Rite of Parting, we must grind up the wild lilies and place the powder in a censer of Everlasting Incense.
+Zhongli: But I'll need your assistance in gathering these flowers.
+旅行者: You mean you need me to pick them?
+Zhongli: No, I need you to sing to them. Singing to the flowers will make them more fragrant.
+Paimon: Uh... so how good is your singing, 旅行者?
+旅行者: I can hold a tune.
+Paimon: Really? Why doesn't Paimon believe you...
+Zhongli: We'll only know once he starts (?)
+
+Search for wild Glaze Lilies with Zhongli
+Paimon: It's time to sing. Whenever you're ready!
+旅行者: *clears throat*.
+旅行者: (singing)
+
+Defeat the attacking monsters
+Paimon: Those weren't Glaze Lilies! Glaze Lilies wouldn't hit people!
+旅行者: Those flowers put up quite a fight...
+Zhongli: This little monster is known as a “Whopperflower”.
+Zhongli: Hmm... Strange. These petals look interesting.
+Zhongli: The Glaze Lilies used as a disguise were buried with the Whopperflower for too long. The result seems to have surprisingly potent medicinal value. Let's collect what we can of these petals.
+Paimon: Well that's nice and all, but will those petals be useful for the Rite of Parting?
+Zhongli: Unfortunately, no.
+Paimon: Ugh, that's so lame...
+Ganyu: Excuse me...
+Ganyu: Are you searching for Glaze Lilies?
+Paimon: Oh, hey! It's... what's her face... Ah, Paimon can't remember...
+旅行者: Greetings, Ganyu.
+Ganyu: Hello, traveler. I'm surprised you still remember my name.
+Ganyu: Ah! That reminds me, how was your visit to the Jade Chamber?
+Paimon: Well, it sure would've been better if you'd told us how to get up there!
+Ganyu: Didn't I tell you the way!? Surely I did!
+Paimon: Nope, we found the way on our own!
+旅行者: It isn't a secret, so perhaps you just assumed we knew?
+Ganyu: Oh, I see.
+Ganyu: (Uh-oh, I guess I really did forget to tell them...)
+Paimon: Huh, something seems a little off about Ganyu...
+Paimon: She's acting different from the first time we met... Where's her serious attitude now?
+Ganyu: Ah, well, I met you at that time as an emissary of the Tianquan. But now, I am simply out on a stroll to see the flowers.
+Paimon: You came all the way out here to seethe flowers? Why not just enjoy the gardens of the city?
+Ganyu: ...
+Ganyu: Yujing Terrace is where Rex Lapis parted from this world. If I strolled through those lonely gardens now, I wouldn't be able to bear it.
+Ganyu: Whenever my duties take me near Yujing Terrace these days, I draw the windows to block my view of the gardens.
+Paimon: Oh... Sorry, we shouldn't have brought it up.
+Ganyu: No, it's quite alright. I just haven't processed my emotions yet.
+Ganyu: When the Archon War came to its end two thousand years ago, the first iteration of The Seven would gather in Liyue and drink with Rex Lapis. But five of those original seven had already passed before Rex Lapis - it's truly a changing of the guard.
+旅行者: So that means...
+Ganyu: Yes. Now that the spirit of Rex Lapis has returned to the heavens, only Barbatos of Mondstadt remains of the first Seven.
+Ganyu: The other five, including Inazuma's Raiden Shogun, are no longer the same friends from two thousand years ago.
+Ganyu: Of the current Seven Archons, the youngest is Sumeru's God of Dendro. She is merely five hundred years old, whereas Rex Lapis was more than six thousand years old at the time of his passing.
+Ganyu: This means that Liyue had been under Rex Lapis' rule from the moment it was first founded 3,700 years ago. The city has never had to bid farewell to its deity...
+Zhongli: So, what do you think of this"farewell"?
+Ganyu: Huh? This... This is a little sudden, l...
+Ganyu: ...
+Ganyu: As a mortal, I've never dared to imagine a Liyue without Rex Lapis.
+Ganyu: But as an adeptus... I think I will eventually come to grips with reality. Since Rex Lapis has passed, the time of Liyue's contract with the gods and adepti has now reached its end.
+Paimon: Huh? Did you just say, "as an
+Ganyu: Yes, l... I am a mix of human and Qilin. Adeptus blood flows through my veins. I fought for Rex Lapis and the city of Liyue during the Archon War.
+Ganyu: After the war ended, I signed a contract with Rex Lapis and took the position as secretary for the Qixing. I've continued those duties to this very day.
+旅行者: So you're half Qilin? That explains the horns!
+Ganyu: Well... uh, let's save that conversation for another day. You say that you are here looking for Glaze Lilies?
+Ganyu: I also know where wild Glaze Lilies can be found. See, I've just picked one myself.Here, you may have it if you wish.
+Zhongli: We dare not refuse it.
+Paimon: Oh, so did you sing a song before you picked the lily?
+Ganyu: Indeed. I did. I know this tradition well. In fact, I sang a local Liyue ballad to it.
+Paimon: Wow, so you really know your stuff too! Thanks, Ganyu!
+Ganyu: No, it is you who I should be thanking. If not for this chance meeting, I never thought that I would be able to contribute to the upcoming farewell for our ancient lord.
+Ganyu: If you would excuse me, I should return to my work now. Good luck.
+Zhongli: And that just about does it. Our preparations for the Rite of Parting are mostly finished.
+Zhongli: Given the ease of picking Glaze Lilies.I think this was a fitting end to our tasks, in more ways than one.
+旅行者: Zhongli, you seem suited to working in agricultural development.
+Paimon: Yeah, Paimon can already imagine him starting a business in Liyue.
+Zhongli: Hah, I've had enough ventures in my life already.
+Zhongli: Beginning a new undertaking is always difficult at first and requires no small amount of effort. And once business is at full steam.the stress of it all only wears away at you overtime.
+Zhongli: So you must be careful to take the time to step back and reexamine yourself. If left unchecked, the wear and tear on your heart may go well past mending.
+Paimon: Wow! See, Zhongli sounds like he's already seen it all!
+Paimon: Alright, I think it's about time we head back to Liyue Harbor now.
+
+Head back towards Liyue Harbor
+Ask around for news
+Felix: Ah, you're the consultant to Wangsheng Funeral Parlor - Mr. Zhongli, I presume?
+Felix: The Millelith are watching our every move now. These are desperate times, we mustn't act rashly.
+Zhongli: Desperate times?
+Felix: The adepti of Jueyun Karst are finally on the move.
+Zhongli: Do they intend to exercise force?
+Felix: Most likely. I've heard that some members of the Qixing have already gone to meet them... Well, I say "meet," but it's more like they're attempting to stall the adepti outside the city.
+Felix: However, both sides were quite obstinate, and hit an impasse.
+Zhongli: ...It seems inevitable, given the current situation.
+Felix: The adepti do not acknowledge the Qixing, they only acknowledge the contracts of the Geo Archon. If the two sides come to blows, Liyue Harbor will be in no position to stop them.
+Zhongli: Surely the Liyue Qixing are not the sort to give in so easily?
+Felix: Hmph. Their bone-headedness is known throughout the lands. Yet it's because of that obstinacy that mortals and adepti are now on the verge of conflict.
+Zhongli: And what now? How is it that the Fatui have come under fire?
+Felix: Ugh... that's all Ningguang's doing...
+Felix: She proclaimed that "in these tumultuous times, the Millelith must rein in the actions of the Fatui."
+Felix: Only now do they want to start keeping tabs on us? Huh! That's the Qixing for you!
+Felix: Anyway, Mr. Zhongli, you're one of Childe's close associates. Please understand that your actions will reflect on us. Don't let anyone catch you off-guard.
+Paimon: It looks like things are about to boil over in Liyue Harbor...
+旅行者: Is there anything can we do?
+Zhongli: Do you intend to use your neutral identity as an intermediary between both sides? Or, will you use your sword to turn the balance?
+Zhongli: Neither path is an easy one...
+Felix: Oh, by the way, Mr. Zhongli. We've heard that the Wangsheng Funeral Parlor has also been caught up in all this. They're currently squaring off with the authorities at the gates.
+Zhongli: Things are taking a turn for the worse...
+Zhongli: I'm afraid I must leave now to handle things back at Wangsheng Funeral Parlor. I hope that Director Hu has been able to keep things under control for the moment.
+Zhongli: Consider your next course of action carefully, 旅行者. If you're trying to prevent an explosion, it may be wisest to look for the fuse first.
+Paimon: Phew... Having connections with the Fatui seems to be quite the double-edged sword.
+Paimon: So what did Zhongli mean by looking for the "fuse"?
+旅行者: Childe.
+Paimon: Ooh, Paimon gets it! If there's anyone that wants to see the whole city turned upside down, it's definitely him.
+Paimon: He must be waiting for the moment when no one is watching to do something really bad!
+Paimon: But, where could we find him now?
+Paimon: Where would he go at a time like this?
+旅行者: Follow me.

@@ -1,0 +1,109 @@
+Heart of Glaze
+At Ningguang’s advice, you verified the Fatui’s schemes regarding the Sigil of Permission before continuing to help Zhongli prepare for the rite. You met Ganyu once again at Dihua Marsh before returning to Liyue Harbor - only to find that things in the city seem to be spiraling out of control.
+
+Go to the Golden House
+Paimon: Wow... This is the Golden House?
+Paimon: It looked impressive enough from the outside... But who would've guessed that it was even fancier on the inside... and so full of Mora!!!
+Paimon: This is where all of Teyvat’s Mora is minted, right? In that case, maybe they won't notice if a few Mora go missing...
+旅行者: Touch a single Mora and we're done.
+Paimon: Ooh, so it's a trap. Tricky, tricky...Good thing Paimon's got you here!
+Paimon: But even if we can't take any, we can still have a closer look, right?
+Paimon: Or better yet, take a nap on top of a mountain of Mora! It's like a dream come
+旅行者: We'd better check on the Exuvia first.
+Paimon: Oh, right! Back to business!
+Paimon: It's quiet... Too quiet. Surely someone's gotta be guarding something as important as the Exuvia.
+Paimon: Huh!? 旅行者, look! What happened here?
+旅行者: The Millelith...
+Paimon: Uh-oh, Paimon smells trouble!
+Paimon: Quick! We have to go make sure that the Exuvia is alright.
+
+Examine the Exuvia
+???: You've already fulfilled your task as guides, so why do you still linger here? Haven't you already seen enough trouble for today?
+Paimon: Huh? Who's there?
+Childe: If you were Fatui, I imagine that you would be entitled to a generous reward from the Tsaritsa herself.
+Childe: But now, you're nothing but dross -and you're in my way.
+旅行者: How did you find out it was here?
+Childe: Hmm, where should I start? Well, I've never been one to beat around the bush, you know. But who could have possibly guessed that the God of Geo would mysteriously perish the very moment I arrived in Liyue, and that the Exuvia would subsequently be hidden away?
+Childe: If it weren't for that lovely little Rite of Parting ceremony you put together, it would have taken me a whole lot longer to get the information I needed.
+Childe: Stopping the Mora mints, hiding away the Exuvia... Hahaha, the Qixing are really pulling out all the stops this time...
+Paimon: So you've been planning to take the Gnosis from inside the Exuvia all along!?
+Childe: As one of the Eleven Fatui Harbingers, it's my duty to see the will of the Tsaritsa fulfilled.
+Childe: She will get that which she desires.
+旅行者: Not if I have anything to say about it.
+Childe: Hah! I'm not asking for your blessing.and there's nothing you can do to stop me anyway.
+Childe: The time for discussion and diplomacy has already passed. I mean, if it were up to me.I would have skipped that stage to begin with...but I'm willing to do as the Tsaritsa deems fit.
+Childe: Either way - we now come to my favorite part. A simple pleasure, and one that I am oh-so-delighted to be sharing with you...
+Childe: The battle.
+Paimon: Battle? So you're the type that goes looking for trouble, huh?
+Childe: Haha, you could say that.
+Childe: When Signora offended the deities outside the Cathedral in Mondstadt, she swiftly left the scene once her mission was accomplished.
+Childe: Instead of confronting you directly,she chose to rely on the snow and ice to make her escape. She wouldn't want the Knights to come running towards the sound of battle,now, would she?
+Childe: When she faces a worthy opponent, she will prioritize her mission, weigh the outcomes, and consider the consequences of
+Childe: But as for me, the greatest pleasure of being a Harbinger lies in crossing blades with strong opponents.
+Paimon: We won't let what happened in Mondstadt ever happen again!
+Childe: Oh? So you intend to fight me? Good. I won't kill you, Traveler. I'll just play along -to feel the thrill of battle!
+Childe: Besides, you could never defeat me.Not even in your wildest dreams. But hey, try to relish the fight anyway. Because if you ask me... without that, what else is there?
+旅行者: I could never defeat you!? You're completely delusional.
+Childe: Ahahahaha!
+Childe: Fighting talk, I love it! Now, let's see you live up to it.
+
+Duel Childe
+The showdown with Childe begins. After an intense battle, he turns a moment of weakness into a chance to get next to the Exuvia. To his surprise, he finds that the carefully hidden-away Exuvia does not, in fact, contain Morax's Gnosis. Presuming that you beat him to the Gnosis, Childe becomes enraged,activates his Foul Legacy Transformation, and continues to do battle with you...
+（supplementary CG）
+Childe: This chance is hard to come by, so show me all you've got.
+Childe: So very few ever get the chance to square off with a Fatui Harbinger. So come now, amuse me... and don't you dare disappoint.
+
+Childe: Good! No wonder Signora was so wary of you. Well, that just means I can go all out! Brace yourself, this is about to get tough... Now, show me what you can do against the might of a Harbinger!
+Childe: Not bad. Your swordsmanship is quite impressive. But, that's about as far as you'll get.
+Childe: Haha... Didn't think you had that card hidden up your sleeve...
+Paimon: You were just playing us to get close to the Exuvia!
+Childe: Oh, quite down. Stop acting like some wide-eyed recruit. You've seen this world. You of all people should know...This should've been expected...
+Childe: Well then, I'll be taking Morax's Gnosis now!
+Childe: Hahaha...I see. Well, this is most unexpected. You... You beat me to it, didn't you?
+Childe: Not bad! But this is going to cost you! 
+Paimon: Aaaah!!!
+Childe: You got to the Gnosis ahead of me, didn't you!? Did you simply move faster? Or... did you leak the information regarding the Golden House to me on purpose? No matter. Hand the Gnosis over. Now. Don't make me take it from you.
+Paimon: W-We didn't take it!
+
+
+Childe:*panting
+Paimon: Look! Childe's back to normal again.
+Childe: Ugh, well then... time to cool off.
+Childe: It seems the burden of the Foul Legacy Transformation was too great for my body. I lacked the opportunity to think this through...
+Childe: And now that I consider the matter more carefully won never had any chance of beating me to the Gnosis.
+Childe: You had no connection to the Gnosis.no matter where it had been taken.
+Paimon: That's right! We tried to tell you we didn't take it!
+Childe: Your show of ability today far surpasses that of Signora's initial assessment of you in Mondstadt. Tell me, how could that be?
+旅行者:(Because I'm collecting the powers of the seven elements...)
+Childe: You already know the answer, don't you? I can see it in your eyes.
+Childe: But if that is a secret you wish to keep. I guess I'll just have to curb my curiosity.
+Childe: This battle has already left me satisfied.
+Childe: Anyone who strives as I do to grow stronger shall be called a friend, even if our friendship can only be shown in battle again stone another.
+Paimon: Pretty sure that's not the normal way to make friends.
+Childe: Unfortunately, I must bring this amiable conversation to an end. My quest still beckons.
+Childe: Given that the Gnosis wasn't taken by anyone, then we must look once again to the beginning. Perhaps it was never in the Exuvia to begin with.
+Childe: In fact, it might be that the Exuvia was just a diversion of sorts.
+Paimon: What? So you mean that...
+旅行者: Rex Lapis still lives?
+Childe: Yes, it appears so. Interesting to say the least...
+Childe: It seems that the guardian deity of the capital of commerce is also well-versed in little maneuvers beyond the boundaries of contracts.
+Childe: As such, we must now look to our backup plan.
+Paimon: Backup plan?
+Childe: I had hoped it would never come to this, for the weak will be swept away in the (?)
+Childe: The truth is, the world belongs to those who pursue strength. I seldom willingly involve myself with the weak.
+Childe: Unfortunately, we cannot be picky about our methods as Fatui Harbingers.Children must all learn to eat their vegetables sometime.
+Paimon: So, what are you planning to do?
+Childe: I will awaken the god that lies dormant beneath Guyun Stone Forest.
+Paimon: A god!?
+Childe: Osial, Overlord of the Vortex, who was defeated by Morax the Geo Archon in the Archon War, and who has remained pinned beneath the waves by the Geo Archon's stones pears ever since.
+Childe: If such an ancient god were to be unleashed upon Liyue Harbor, defenseless without the protection of its deity...
+Childe: Do you think the cunning Rex Lapis would just stand aloof and watch the ensuing destruction?
+Paimon: But... the Archon War ended two thousand years ago! How could an ancient god appear in a world now overseen by The Seven?
+Childe: Simple! I've already prepared the means to awaken it.
+Paimon: Hey! Those are Sigils of Permission!
+Paimon: Oh, Paimon remembers now! The Fatui have been researching them...
+旅行者: I saw your research with my own eyes
+Childe: Indeed. The one that was given to you was just a by-product of our research.
+Childe: With the power of so many Sigils of Permission concentrated in one place, along with that which was bestowed upon me as a Harbinger by our Tsaritsa... Breaking the subduing might of the Geo Archon's spears fora time should be no obstacle.
+Childe: Using the powers of ancient gods in such a situation fails to interest me and is largely against my principles.
+Childe: But knowing that such an action will not only force the Geo Archon to show its hand, but you as well... That makes matters a little more intriguing

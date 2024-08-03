@@ -1,0 +1,35 @@
+Dust to Dust
+Having sought out the adepti and completed the task Moon Carver entrusted to you, you return again to Liyue Harbor to look for Childe. He tells you that the Liyue Qixing's response to the archon's passing has given him some food for thought...
+
+Return to Liyue Harbor and find Childe
+Childe: You've finally returned. How was your journey to Jueyun Karst?
+Childe: ...I see.
+Childe: Moon Carver, Mountain Shaper, Cloud Retainer, Conqueror of Demons...
+Childe: Some of these names have never come up in the intel the Fatui gets hold of.
+Childe: As a returning gift, I too have information for you.
+Childe: Regarding the archon's passing... The Liyue Qixing's response really has given me food for thought...
+Childe: They've announced that, as the true killer has not yet been found, they are not allowing anyone to pay their respects to the Exuvia.
+Childe: They've even gone so far as to try and cut off information... But with the Rite of Descension and all, even the Qixing isn't able to keep a lid on things.
+Paimon: Exuvia?
+Childe: It's common knowledge in Liyue that Rex Lapis is also an adeptus.
+Childe: The Geo Archon is also the God of Contracts, and is also known as the Exuvia, Prime of the Adepti.
+Childe: The mighty and illuminated adepti of today all signed contracts to protect Liyue way back then.
+Paimon: Guess that explains why they're all so focused on Liyue's well-being.
+Childe: Naturally. They both have the responsibility and the aptitude for the job.
+Childe: If the ruling Qixing became unable to perform their duty properly, the adepti have the right to take corrective action.
+Childe: The Geo Archon's spirit has risen, so why would the Qixing hide his vessel? Truly suspicious.
+旅行者: This makes things difficult for me too.
+Paimon: Oh! Right! He's the whole reason we came here!
+Paimon: If the Liyue Qixing has locked up Exuvia and won't let anyone near...
+Paimon: Then 旅行者's quest to find The Seven is already over!
+Childe: Oh? You're trying to find The Seven? And just why might that be, pray tell?
+旅行者: Nothing to do with you.
+Childe: Heh... nice answer.
+Childe: A knight that gets duped by the Fatui would really be no knight at all now, would they?
+Childe: But, I can help you with that too you know.
+Paimon: Hmm? Really?
+Childe: Give me some time.
+Childe: Time... to find someone.
+Childe: Someone who can help you break through this stalemate.
+Childe: Truly fascinating. The harder they try to silence the situation, the greater the chaos that erupts...
+Childe: If you want to be around to see it all come crashing down, best you stay alive until we next meet, yes?

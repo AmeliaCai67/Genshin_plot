@@ -1,0 +1,79 @@
+Custodian of Clouds
+Following Moon Carver's instructions, you arrive at Mt. Aocang in order to seek out Cloud Retainer.
+
+Search for Cloud Retainer
+Paimon: Hey, who put this table here? They've even set it ready for dinner, there's a wine jug and everything...
+Paimon: Ooh, they even have the guests' names carved into the seats! "Here sits Retainer...
+Paimon: "Here sits Guizhong..." "Here sits Rex..."
+Paimon: Maybe "Rex" is short for "Rex Lapis"? But Paimon has no idea about "Guizhong."
+Paimon: As for "Retainer," hmm... That's it! When Moon Carver was going through the names of his adepti buddies, he said there was one called "Cloud Retainer."
+Paimon: So, this must be where Cloud Retainer and the other adepti have their dinner parties!
+Paimon: Hehe, how about we cook up some extra-special dishes for the adepti? We're sure to get Cloud Retainer's attention that way!
+Paimon: But... What do adepti even eat, anyway? Paimon has no idea...
+Paimon: Hmm, people must make offerings here all the time. Guess all we can do is look around the area for any leftovers, maybe that'll give us some ideas.
+Paimon: Um, do you think maybe it's at all possible that the adepti might like to try some... Sticky Honey Roast?
+
+Look for traces of food offerings
+Paimon: Someone has definitely cooked here before. D'you think they were making an offering?
+Paimon: Looks like they didn't use all the ingredients. Let's see here... we got some Snapdragon, some Lotus Heads, some Tofu...Whatever they were cooking, it sounds complicated!
+Paimon: Hey, look over there... They left some notes, too.
+Paimon: Yep, it's a doozy! Paimon's not surprised they had to write it all down, it's a lot to remember... We should read it carefully. 
+
+Look for traces of food offerings
+Paimon: Whoa... The ground is covered inflour. Tsk... What a messy chef...
+Paimon: Hmm, seems there's meat in this pot, but Paimon can't tell which kind.
+Paimon: Do you think whoever cooked this made it as an offering to the adepti?
+Paimon: Hmm... Paimon can't quite imagine an offering made of flour and meat...
+Paimon: Huh? Our messy chef dropped a piece of paper on the floor... Ew, and there's a huge footprint on it too...
+Paimon: But footprint aside, maybe it has something to do with this mystery dish?
+
+Look for traces of food offerings
+Paimon: It's very clean here. Whoever cooked here last obviously likes to keep things neat and tidy...
+Paimon: Paimon bets they were making an offering to the adepti...
+Paimon: Looks like we got us some Matsutake and some Raw Meat...
+Paimon: And what do you know, the recipe is right here. This chef was a super organized person...
+
+Offer the Delicious Jewelry Soup
+Offer the Delicious Mora Meat
+Offer the Delicious Matsutake Meat Rolls
+Search for Cloud Retainer
+Cloud Retainer: One senses the presence of a Sigil of Permission...
+Cloud Retainer: One knows not why you have come, though the sincerity of your offering is clear... Hence, you shall be granted an opportunity.
+Cloud Retainer: Find your way through mine abode, and you shall receive an audience with the adeptus whom you seek.
+
+Meet Cloud Retainer
+Cloud Retainer: One is most impressed. The path that leads through this abode defies those of ordinary abilities.
+Cloud Retainer: The one before you is the adeptus, Cloud Retainer. Now, speak of the matter which brings you here.
+旅行者: Did you build this whole place?
+Cloud Retainer: You surmise correctly. This place did oneself build, as did one design the mechanisms within.
+Cloud Retainer: In fact, even Guizhong and Rex Lapis themselves found one's technological accomplishments to be worthy of commendation.
+Paimon: This place is huge! And there are so many mechanisms... Do you really have this whole place to yourself?
+Paimon: What's it even for? Did you build it as your private mechanism workshop ors omething?
+Paimon: It's just like the stories say. The adepti leave the human world, find somewhere to go be a hermit, and then they research and invent all these amazing things...
+Cloud Retainer: One is simply not partial to the tedium of social interaction, and wished to find some peace and quiet.
+Cloud Retainer: Find it one did... Shortly after which, you arrived bearing your Sigil of Permission...
+Cloud Retainer: But enough! State the matter which brings you here, at once! You have disturbed the tranquility of this place for long enough.
+
+You tell Cloud Retainer what took place in Liyue Harbor...
+Cloud Retainer: Rex Lapis... Assassinated!?
+Cloud Retainer: How can this be!? Such a heinous crime... Who would dare?
+Cloud Retainer: The notion is so preposterous as to be unbelievable... one shall have to verify the truth of the matter independently...
+Cloud Retainer: ...Perhaps one shall quash Liyue first, then convene with the other.
+旅行者: ...Excuse me!?
+Paimon: Wait, what!? Did you just say "squash Liyue Harbor"? Are you seriously gonna wipe out the whole city?
+Cloud Retainer: Only a response of sufficient magnitude can negate the possibility of further incidents.
+旅行者: But the adepti are sworn to protect the city...
+Cloud Retainer: It is as you say. We have protected Liyue Harbor under the leadership of Rex Lapis for 37 centuries. But in the face of this coup by nefarious actors... exceptional measures must be taken.
+Paimon: Yikes! Quick, you gotta think of something! She wants to squash Liyue flat, and it doesn't seem like she's bluffing!
+旅行者: You accepted our offering, that makes this a contract.
+Paimon: Exactly what Paimon was gonna say! We made all that delicious food, and gave every last bit of it to you!
+Paimon: We were hoping you might help Liyue out... not wipe Liyue out!
+Paimon: ...Or at least let's... y'know, discuss it first? Can't hurt for you to get a second opinion.
+Cloud Retainer: "Contract..." A cruel irony that you should appeal to the notion after the merciless murder of the God of Contracts himself.
+Cloud Retainer: The people of Liyue seem quite content to dispense with their contracts. They are quite adept at taking that which is composed of black and white, and turning it gray...
+Cloud Retainer: Nevertheless... Since you come here in the name of contracts, far be it from one to abandon one's own contractual obligations.
+Cloud Retainer: Least of all when you come bearing a Sigil of Permission... *sigh* Rex Lapis infused these sigils with adeptal power when he first cast them. That power once aided humans in battle.
+Cloud Retainer: Most of the sigil's power has long since worn off... It is but a keepsake now.
+Cloud Retainer: This keepsake cannot be taken as proof of your trustworthiness. One must investigate the claims that you make independently.
+Cloud Retainer: This, no doubt, is Moon Carver's very reason for summoning us.
+Cloud Retainer: Your audience with the adeptus before you is now concluded. Leave at once, and disturb me no further.

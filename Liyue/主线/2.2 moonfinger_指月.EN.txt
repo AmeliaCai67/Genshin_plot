@@ -1,0 +1,174 @@
+Moonfinger
+Childe introduced you to Zhongli, a consultant at Wangsheng Funeral Parlor. You agree to help Zhongli organize the Rite of Parting in the hope of seeing the Geo Archon again.
+
+Go and buy Noctilucous Jade
+Shitou: Welcome to the Jade Mystery, my good friends! Would you like to try your luck betting on jade? This could be your lucky day.
+Shitou: It's cheap and it's fun, and who knows.you just might strike it rich!
+Paimon: Betting? No, no, we're here for... um,what was it again?
+Zhongli: Noctilucous Jade, of radiant grade at the very least.
+Shitou: Radiant grade Noctilucous Jade? I see, you're not a tourist. My apologies. I have some here for your perusal...
+Shitou: What do you think? The Jade Mystery is an old name in the jade business. Just look at that wonderful quality! Rex Lapis doesn't often bless us with such finery. Go on, pick whichever one you like!
+Paimon: These three pieces really do look pretty, not like the ones you usually dig up...
+Paimon: But how do we pick? Should we just grab one and go?
+旅行者: A man who makes his living off betting on stones can't be trusted so lightly.
+Zhongli: Very good. It seems you have learned some tricks of the trade.
+Paimon: What do you think, Mr. Zhongli? How should we pick from these pieces of Noctilucous lade?
+Zhongli: Oh? You want me to decide? That is fine as well.
+Zhongli: If it were me, the answer would be simple.
+Paimon: Oh? And that would be...?
+Zhongli: I'll take them all, boss.
+Shitou: Oh, you act with such panache, good sir! I always knew you were not a man of ordinary caliber!
+Paimon: Wait! Wait! Boss, that one didn't count! We need to discuss it again!
+
+You drag Zhongli to one side to discuss
+Paimon: Hey! If we only need one for the ritual, aren't we wasting three times the Mora if we buy them all!?
+旅行者: That's true.
+Zhongli: Oh, Mora. Hmm...
+Zhongli: It is as you say. I suppose I overlooked this particular aspect of the transaction.
+Paimon: Huh? How do you not think about Mora when buying things!?
+Zhongli: If one must always consider Mora before acting, then in all things one is bound by Mora.
+Paimon: Ahh... What?
+Zhongli: All Mora is currency, but not al lcurrency is Mora.
+Paimon: ???
+旅行者: He's talking about economics.
+Paimon: Is this how the rich live?
+Paimon: Well, he knows a lot about big money but not a lot about big savings.
+Zhongli: No need to waver. Even when I am constrained by Mora, I have ways of working around my limitations.
+Zhongli: Evaluating the quality of Noctilucous Jade is indeed very tricky. As crude ore, there is little difference in texture, lustrousness, and internal pattern between good and bad
+Zhongli: Only after the item made using Noctilucous Jade has taken shape, will you be able to see whether it is up to par or not.
+Zhongli: If you return to those crafty merchants to quibble, they will counter by saying that your crafting bench is to blame, or that your heat control was poor.
+Paimon: Whoa! To think it's that easy to get cheated...
+Zhongli: But there is a way to truly evaluate this jade, and a true insider would know it.
+Zhongli: "A fool sees the pointer and misses the moon.
+Paimon: What does that mean?
+Zhongli: If you point at the moon with your finger, a wise man knows that you are pointing at the moon, while a fool will only see the finger.
+Zhongli: The patterns, the facade, these are all the "finger." Noctilucous Jade is a mystical stone used to light up the darkness, and so its brightness is the important thing - it is the moon.
+Zhongli: Noctilucous Jade of excellent quality would have superior Pyro affinity. In other words, the bluer and brighter the luster of the ore under high temperature, the higher its quality.
+旅行者: I didn't realize you were such an expert...
+Zhongli: I have imparted the priceless secrets of the jade trade to you. Now all that’s left is to put it into practice.
+Paimon: Priceless, huh... Paimon’s just sad that we might never be able to use it again...
+
+You return to The Jade Mystery...
+Paimon: We're back to buy some rocks, boss. But can you let us burn them first?
+Shitou: B-Burn them? You can't do that, my friends! If you were to do so, what would I have to sell?
+旅行者: Then, can we get some small samples?
+Shitou: That... Well, fine. As you wish, then.
+Shitou: How about this? I can take a small sample of all three. I'll take a bit of a loss we'll count it as a friendly gesture.
+Zhongli: Don't worry, I know the rules. As long as we can prove that it is good jade, you will not take a loss.
+Shitou: Alright. Take these as samples. I've carved them off with a knife and tagged them to boot.
+旅行者: These samples...
+Paimon: ...Aren't these too thin?
+Paimon: Even paper's thicker. No, even a bug's wings are thicker! These are almost see-through!
+旅行者: How stingy...
+Shitou: Stingy? I've already been very generous. Any more, and you may as well have my neck!
+Paimon: But wouldn't something this thin go poof if we held it to the fire?
+Zhongli: It can't be helped. Trying to deprive a merchant of his profits would be like forcing a ravenous wolf to vomit up the food in its stomach. Nonetheless, under the right conditions, these thin slices will serve.
+Paimon: What sort of conditions?
+Zhongli: While we add the high temperature susing Pyro, we can use Hydro to reinforce it from within. This way, the samples will not disintegrate immediately.
+Shitou: Oh? Oh, sir, to think you were this learned... Thank you for your understanding!
+Zhongli: Strictly speaking, asking for samples when we have not yet agreed to purchase the goods is unfair. Trade in Liyue must be based upon fairness.
+Paimon: Well, guess we just need to find a place to try this out...
+旅行者: I remember this spot in the Dadaupa Gorge...
+Paimon: Ooh! Paimon remembers! We once saw this biiiiig pot down at the Dadaupa Gorge in the camp of the hilichurls from the Meaty Tribe! It's real sturdy, and should be able to take the elemental reactions!
+Paimon: 旅行者, now, let's pack those sample sup and make a move!
+
+Look for the Meaty tribe's giant cooking pot
+Zhongli: It has been a long time since I last set foot in the nation of wind.
+Zhongli: A friend of mine from Mondstad twould always bring a few bottles of locally brewed dandelion wine whenever he came to visit me in Liyue.
+Zhongli: It must be said that the famed liquor of the Land of Pastorals is far better than Sumeru's frigid snake wine.
+
+Defeat the Hilichurls
+Approach the giant cooking pot
+Paimon: There's still soup in here. These hilichurls sure have big appetites !
+旅行者: Well,it's our lab now.
+Paimon: This soup looks like it could be used as our Hydro elemental protection. Let's fire it up and begin our experiment!
+
+You place the samples into the pot...
+Paimon: We're ready to go! Paimon will help remember which one of the three is which!
+Paimon: Use Pyro to keep making the pot hotter, until we get the results we need.
+Paimon: Mr. Zhongli said that the shinier and bluer the ore gets, the better it is, so pay close attention!
+
+Use Pyro to heat the pot
+Paimon: Whoa! That light came from the first Noctilucous lade!
+Paimon: Hilichurls are surrounding us again! Were they attracted by the light?
+Paimon: Such nosy neighbors! Let's take care of them and continue again after !
+
+Defeat the Hilichurls
+Use Pyro to heat the pot
+Paimon: That light came from the second Noctilucous lade, didn't it?
+Paimon: More hilichurls! They don't give up,do they?
+Paimon: Looks like they're mad that we ruined their food.
+
+Defeat the Hilichurls
+Use Pyro to heat the pot
+Paimon: Ow! That's bright! Too bright! That was the third Noctilucous Jade, wasn't it?
+Paimon: It was so much shinier than the rest. Let's go with that one!
+Paimon: 旅行者, let's head back to The Jade Mystery to buy some jade, shall we?
+
+Return to Liyue Harbor and find Shitou
+Shitou: You're back, my friends! I've kept the goods for you. Which of them would you like? 
+旅行者: I would like the third Noctilucous Jade.
+Paimon: Exactly, that's the one Paimon remembers too!
+Shitou: No problem. If you have your eye on this one, you can have it.
+Zhongli: Then we'll take a box of the third type of jade.
+Shitou: Done!
+Shitou: All the same... Pardon me for asking but I'm curious. Whatever do you need this much top-quality Noctilucous Jade for?
+Zhongli: Hmm. I suppose it would not hurt to tell you. We need them to make implements for the Rite of Parting.
+Shitou: Parting...!? Oh dear... I'd heard the rumors but hadn't given much thought to them. This... this means that Rex Lapis really is...
+Shitou: ...It's hard to believe. Even though the Jade Mystery has been in decline, we have always been under his protection.
+Shitou: It is said that when our Lord lost his way while going incognito in the city two hundred years ago, it was a spoon from The Jade Mystery that he had used to sample the local delights.
+Shitou: Alas, alas, all things must pass... Well if this is to be used to say farewell to Rex Lapis, then I shall sell this to you at half the price.
+Paimon: Are you sure? You didn't wanna even give us an inch before...
+Shitou: If not for our Lord's protection, this city wouldn't exist as it does now. No proprietor could earn money off such a thing.
+Paimon: Aww... I'm sure Rex Lapis will feel your sentiment, boss.
+Zhongli: In the safe hands of the Liyue Qixing and good, honest merchants such as yourself, I, for one, believe that Liyue will continue to prosper as it always has done.
+旅行者: So let's not get ourselves down just yet.
+Shitou: Alright... thank you, my friends. Hah, what's with me, getting all sentimental like this? I'll practically be giving away all my fortune at this rate.
+Zhongli: Now that we've made our choice, let's take this Noctilucous Jade back.
+Paimon: Hey, wait a minute! He said it was half price, not that we could leave without paying!
+Zhongli: Oh, right, I'm sorry. I must have forgotten to do that too. Let me see...
+Zhongli: ...As I thought, I didn't bring any.
+Paimon: Any what?
+Zhongli: Mora. My apologies, another oversight on my part.
+旅行者: What a strange take on the value of money...
+Paimon: That won't do, this isn't some small sum... Oh wait, didn't Childe give us some advance funds earlier?
+旅行者: I have them on me.
+Paimon: That's a relief. Have a look, boss, is it enough?
+Shitou: It's fine, just enough for half price...though to be honest, it'd be alright even if the sum wasn't quite enough.
+Zhongli: Well, it's settled, then. Let's take this jade to Yujing Terrace. That's where we plan to hold the Rite...
+Paimon: Look at you, bossing everyone around! You didn't cough up a single Mora!
+旅行者: Please remember to bring money next time.
+Zhongli: I will do my best. You have my thanks.
+
+Put the Noctilucous Jade in place
+Zhongli: We can leave the jade here. I have already called for a jewelsmith to shape them into the implements that we will need.
+Zhongli: Ah, yes. I have yet to go and see Childe. So as for the jewelsmith's remuneration...
+旅行者: We'll pay the jewelsmith when he arrives.
+Paimon: Guess we can't do anything else. Also is this where we're doing the Rite of Parting?
+Zhongli: Yes. I have already rented this location, and have begun making preparations for the rite.
+旅行者: The Rite of Descension took place here, too.
+Zhongli: That's right. The Liyue Qixing have acquiesced to using the same location.
+Paimon: But when something this big happened here... should suspects like us really be at the crime scene? We might get caught by the Millelith.
+Paimon: Although with that said, since we got back from Jueyun Karst, none of those pesky Millelith soldiers have come chasing after us. Wonder what that's about...
+Paimon: Also, the, uh, Rex Lapis' vessel...
+Zhongli: Traditionally, we call it the Exuvia.
+Paimon: Ah, right. That's what it was called!You seem to know everything, Mr. Zhongli.Um, so, was this Exuvia hidden away by the Oixing? I mean, we haven't even figured out who the murderer is...
+Zhongli: One must think that they already have someone in mind. Or perhaps they already know. Surely they must have found all the evidence that there is to find here.
+旅行者: It still feels very odd.
+Zhongli: These things are for the authorities in Yujing Terrace to consider. Trying to help would probably only add to their troubles
+Zhongli: Before the Rite is conducted, the Exuvia will be kept temporarily in the Golden House.
+Paimon: Golden House?
+Zhongli: The only mint in Liyue... which is to say the only mint in Teyvat. All the Mora that flows throughout the world is minted there.
+Paimon: Wow--
+Paimon: No, Paimon wasn't thinking about anything bad. Paimon thinks it suits Morax.
+Paimon: But why do you know this, Mr.Zhongli?
+Zhongli: Since the Rite of Parting has the approval of the Qixing, it is a semi-official event. As such, there is already some limited information available.
+旅行者: The Qixing provide the location, and Childe the funds...
+Zhongli: Perhaps each has their motives... but this is the capital of commerce. A little exploitation once in a while is not unacceptable.
+Zhongli: In Liyue, where the God of Contracts reigns, only contracts may not be betrayed. Ifor one have no issue with little maneuvers outside their remit.
+Zhongli: Well then, we should go and prepare the perfumes used in the Rite.
+Paimon: Perfumes? Where'll we get those? Do we buy them?
+Zhongli: No, perfumes used to honor the gods must be freshly decocted. The quality of the Silk Flowers we require is also special.
+Zhongli: Silk Flower petals contain a fibrous information available.
+Paimon: It's time for Zhongli's lectures on highsociety again...
+Zhongli: We shall not speak of the details right now. Follow me, we shall go to the merchants to purchase our ingredients.

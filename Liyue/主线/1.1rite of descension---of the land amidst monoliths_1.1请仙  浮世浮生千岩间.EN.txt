@@ -1,0 +1,152 @@
+Rite of Descension
+In the land of Liyue by the sea, a city sits atop the solid bedrock. That city is Liyue Harbor, and it has flourished under the protection of its guardian Morax also known as "Rex Lapis," the Geo Archon you have been looking for. You could not have arrived at a more fortuitous time, as the annual "Rite of Descension" has just begun. Every year on this day, Rex Lapis graces this land with his prophecy, giving guidance on theeconomic path Liyue should follow in the coming year.
+
+·Go to Liyue Harbor
+·Talk to Paimon
+Paimon: If you wanna find the Geo Archon, this is the only chance you'll get all year.
+Paimon: Guess it's a good thing Venti brought it up earlier, otherwise we definitely would've missed this year's Rite of Descension.
+旅行者: Do you know when it is?
+Paimon: Uhh... might be today, might also be tomorrow...
+Paimon: Look, we're already in Liyue so let's go ask some of the locals.
+Paimon: Oh, right. About the Geo Archon,"Morax...
+Paimon: Did you know? The Mora that we use is named after this god.
+Paimon: But it's seen as impolite for people from outside Liyue to refer to the Geo Archonby that name.
+Paimon: So we should refer to the Geo Archonby the name Rex Lapis, like the people of Liyuedo.
+
+Talk to the locals (Guanhai)
+Guanhai: Oh! Are you also visitors here for the Rite of Descension?
+Guanhai: To think I've lived in Liyue all these years and never come to see this before.
+Guanhai: I guess it's like they say. Locals never visit the tourist spots.
+Guanhai: I wish you well on your travels! Liyue always welcomes you!
+Paimon: Thanks! So we wanna know where to go if we wanna see the Rite of Descension?
+Guanhai: Hmm... You're not at all close. Not tomention that if I gave you directions, as outlanders, you'd get lost along the way.
+Guanhai: So better to head to Yujing Terrace,to the high ground.
+Guanhai: It's the highest place in the harbor sounds like the best place for trying tocommunicate with deities, no?
+
+Talk to the locals (Linlang)
+Linlang: Rite of Descension... Oh yeah, that reminds me, isn't that today?
+Linlang: Once a year, Rex Lapis bestows upon us his divine prediction, guiding us on how torun Liyue for the coming year.
+Linlang: Last year it was the Yuheng of theLiyue Qixing that was given the honor of asking for the divine prediction.
+旅行者: Liyue Qixing?
+Paimon: Ooh! Paimon knows this one!
+Paimon: Mondstadt is to freedom as Liyue is tocontracts. Liyue has a strong focus on businessand trade.
+Paimon: The Liyue Qixing - the seven leadersof the seven enterprises of Liyue - hold truecontrol over Liyue.
+Linlang: That's what outlanders always say.
+Linlang: But true control over Liyue willalways be held by Rex Lapis.
+Linlang: The Qixing is comprised of meremortals. Rex Lapis is a god. Mondstadt's god is nowhere to be seen, whilst our god is foreverwith us.
+Linlang: Stay in Liyue long enough and you'll see...
+Linlang: Given that you just left your godless city, it's time you experienced what it's like tobe in a city whose god has walked with it through all of history.
+Paimon: Great! Then we can start our experience off with the Rite of Descension.
+Linlang: Good choice. Then get going. To the high ground.
+
+Talk to the locals (Bolai)
+Bolai: You too wish to bear witness to the Riteof Descension? Me too, we all do!
+Bolai: As a businessman myself, how could Inot take interest in Liyue's most important business trends?
+Bolai: The seventeen predictions given last year made more than a few ripples throughout the industry.
+Bolai: What's more, there has been a rumor going around that the Tianquan herself,Ningguang, has been acting secretly in the shadows...
+Bolai: She wants the rocks created by GeoVision holders to be exempt from taxation.
+Paimon: Wow... that's some super professional legal stuff that is!
+Bolai: Haha. To be on the pulse of the predictions and the market is what makes this harbor what it is.
+Bolai: Among The Seven, Rex Lapis is the oldest deity.
+Bolai: His keen sense of strategy is well trusted among his people.
+Bolai: Understanding the predictions as soonas possible can make all the difference in making your fortune!
+Paimon: F-Fortune! So where can we see this Rite of Descension anyway?
+Bolai: Hmm... You're not at all close. Not to mention that if I gave you directions, as outlanders, you'd get lost along the way.
+Bolai: So better to head to Yujing Terrace, to the high ground.
+Bolai: It's the highest place in the harbor sounds like the best place for trying to communicate with deities, no?
+
+Go to Yujing Terrace
+Paimon: Paimon heard that the best time tomake a wish is today, during the Rite of Descension. 旅行者, wanna give it a try? 
+Pray and make a wish at Yuiing Terrace
+Changshun: Oh, you also want a little adepti luck too?
+Changshun: Haha, seems you know a lot! Making a wish during this time is sure to get you the blessings of both the Adepti and RexLapis himself.
+Changshun: I've already made my wish, so you can take this.
+旅行者: I wish I could find my sister soon...
+Paimon: Great, thanks!
+
+Pray and make a wish at Yujing Terrace
+Ivanovich: Your first time in Liyue? Actually, it's my first time to see the Rite of Descension too.
+Ivanovich: Ah, look! That's Ms. Ningguang of the Liyue Qixing!
+Ivanovich: Only those who have control in Liyue can preside over the Rite of Descension.
+Ivanovich: Oh yeah, not sure if you knew, but most of the adepti appear in the form of various beasts.
+Ivanovich: I heard that when attending these kinds of formal occasions, Rex Lapis himself appears as a celestial cross between two of Liyue's ancient mythical creatures...
+Ivanovich: ...Sorry, I shouldn't interrupt yourwish. Please, take this.
+旅行者: I wish I could get some leads from the Geo Archon...
+Paimon: Great! Now that we're all done with the wishing, guess we can just wait here for things to get started.
+Paimon: Hmm, who knows how long that Ms.Ningguang lady is gonna take.
+
+Join the crowd and wait for the rite to begin
+Watch the rite
+Under Ningguang's direction, the Rite beginsright on time, and Liyue's deity shows up as promised. But as the clouds disperse, the crowds watch in horror as the lifeless body of their lord drops onto the offering table. After inspecting the scene for a brief moment. Ningguang utters the unfathomable words:"Rex Lapis has been killed! Seal the exits!"
+
+Talk to Paimon
+Paimon: Wha... What's going on!?
+Paimon: Did she just say Rex Lapis is...
+Paimon: The Geo Archon... is... DEAD!?
+Paimon: Oh no, the Millelith! Looks like they're nabbing suspects who got too close.
+Paimon: Paimon's freaking out. The killer is amongst us!
+Paimon: Wait... we got close... are we suspects!?
+Paimon: Wait, where are you going?
+旅行者: (It was a god we faced off against when we first arrived in this world too...)
+
+Escape from the Millelith
+You cautiously make your way out, avoiding the watchful gaze of the Millelith, but before you make it far from the scene of the crime, one misstep alerts them to your presence. Just when it seems like there's no way out, amystery man suddenly lands in front of you and helps you escape the Millelith for good.
+
+Talk to the stranger
+Paimon: *panting* Phew... Paimon's
+旅行者: I'm even more beat.
+Paimon: So insensitive! You have no idea just how tiring floating arou Wait!
+Paimon: Just who are you exactly?
+???: Call me Childe.
+Paimon: Childe? What, so we're supposed to dote on you?
+Childe: Haha, no no, not at all. It's an alias of sorts.
+Childe: In Mondstadt, I don't suppose you came across a "Signora" by any chance?
+Paimon: Signora... Childe...
+Paimon: You're Fatui! One of The Harbingers! 
+Childe: Oh, no. Don't worry, I'm not looking fora fight.
+Childe: Signora gave you quite the bad impression huh? Tsk, that woman... Can't say i'm a fan either.
+Childe: Right, let's forget all about her, shall we? I'm here to help you.
+旅行者: Help?
+Childe: Yes. Help.
+Childe: I'm not a bad guy... Okay perhaps I'm kind of a bad guy, but I'm not here to give you any trouble.
+Childe: Would it be too much to ask for you to keep the sword sheathed?
+Childe: Haha, I thank you for your knightly nobility, 旅行者.
+Childe: I heard of your deeds in Mondstadt, so I couldn't help but notice you during the proceedings back there.
+Childe: And because I had my eye on you the whole time, I know it wasn't you. Someone elsewas clearly behind it.
+Childe: But... regrettably, given I'm a Fatuienvoy from Snezhnaya... there's no way I'd be trusted after something of this magnitude.
+Childe: The ruling Qixing of Liyue has always been overly suspicious of us.
+Paimon: Well can you honestly blame them?
+Childe: Hahaha. Guess I shouldn't try to deny that.
+Childe: Okay, sure. Maintaining a distance between strangers is probably a good idea. Either way, I'm already used to it at this stage.
+Childe: But right now, if you want to clear yourselves of any suspicion - you need to get yourselves to Northland Bank.
+Childe: Staying here isn't an option. As the old Liyue saying goes: "The walls have ears."
+
+Talk to Childe at the Northland Bank
+Paimon: Northland Bank...
+Childe: Correct. This bank was opened here in Liyue by Snezhnaya.
+Childe: Though everyone knows Liyue is the most enterprising in Teyvat, Snezhnaya is not short of change either.
+Paimon: Yeah well, poorer nations don't seem the type to have diplomats that come around acting the way yours do towards the Knights of Favonius.
+Childe: Eh-hehehehe...
+Childe: Here, let me give you this.
+Paimon: This is a...
+Childe: I'm not sure, exactly. Sometimes, all money can buy is "things" and not a name for oneself.
+Childe: All I know is that it's a sigil. A sigil to keep the "mighty and illuminated adepti" from bringing harm to you.
+Paimon: Adepti?
+Childe: If you head north from the harbor, then west from Guili Plains, you will eventually reach a stone forest known as Jueyun Karst.
+Childe: The people of Liyue believe it to be the abode of the adepti.
+旅行者: They really believe that?
+Childe: Legend or not, they believe it. As such, offerings to the adepti are made at its borders. Nobody dares venture in.
+Childe: But I have no need for believing - not when I know for a fact that the adepti truly exist.
+Paimon: Hate to admit it but your Fatui intel seems alright. But, why would we go looking for adepti anyway?
+Childe: Ha, oh my little friend. There are plenty of reasons mortals seek the blessings of.
+Childe: Money, health, love... But you... you will go for justice.
+Paimon: Justice?
+Childe: The Qixing will already have dispatched the Millelith. They'll be seeking out the assassin from amongst the onlookers.
+Childe: But how could a mere mortal kill a god that can sweep aside entire armies? Rex Lapis never gave up his power as a god.
+Childe: This level of crude response is beyond what is called for. How suspicious...
+旅行者: You think they're trying to hide the true culprit?
+Childe: Or... to hide something else. Hard to say.
+Childe: Even now, the Northland Bank wouldn't be able to hold the Millelith off for long, but the adepti can clear you of any wrong doing.
+Childe: Liyue was founded by the Geo Archon and the adepti - of course, it was built by force.
+Childe: Look for them. And be faster than the Qixing's messengers, so you may give your version of events first.
+Childe: If there is anyone that can help you in Liyue now, it can only be the mighty and illuminated adepti.

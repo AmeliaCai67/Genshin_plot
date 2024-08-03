@@ -1,0 +1,73 @@
+Moulder of Mountains
+Following the instructions of Moon Carver, you arrive at Mt. Hulao in order to meet with Mountain Shaper.
+
+Seek out Mountain Shaper
+Talk to Li Ding
+Li Ding: Have mercy, O mighty adeptus! I beg you... Show mercy upon me and my brother...Spare our lives!
+旅行者: What's wrong?
+Li Ding: Who are you? What's going on?
+Paimon: We asked you first!
+Li Ding: ...Oh! You enjoy safe passage in Jueyun Karst... It can only mean one thing!
+Li Ding: You must be adepti messengers! Sent here to rescue me and my brother!
+Paimon: What is he talking about?
+Li Ding: ...Oh, have mercy, mighty messengers of the illuminated adepti! I beg you to save us... My brother and I, we only came here because our family is poor, and we heard tell of treasures hidden in the amber of Mt. Hulao.
+Li Ding: It was stupid of us... but all we wanted to do was find enough treasure to sell and support our family...
+Li Ding: We followed the path up the mountain but suddenly, the amber... it swallowed up my brother, Li Dang!
+Li Ding: I ran away, and made it this far before it dawned on me: We were trespassers in the abode of the adepti, and this was our punishment...
+Li Ding: I had no idea how to rescue my brother, so I just started praying for the adepti to have mercy, right here on the spot. And now, at long last, two messengers come to my aid...
+Paimon: What? We're not adepti messengers..We just wanna find the adepti, like everyone else!
+Li Ding: No no no, you must be messengers...You have to be!
+Li Ding: I have no idea which amber trapped him... Please, you have to rescue him! I beg you, show me some adepti mercy!
+旅行者: Oh, fine. Ill go have a look..
+Li Ding: Thank you, thank you! O mighty messengers of the illuminated adepti, I promise that we will never be so foolish.
+
+Shatter the amber on the mountain road to save the trapped person
+Talk to Li Dang
+Li Dang: *coughing*
+Li Dang: Wh-What happened? ...Y-You rescued me? Thank you...
+Li Dang: Oh! And have you seen my brother? His name is Li Ding, we were climbing the mountain together.
+Li Dang: I just hope he didn't get trapped in amber too...
+旅行者: He's the one who sent us looking for you.
+Li Dang: Phew... so he's safe then...?
+
+Talk to Li Ding and Li Dang
+Li Ding: Thank you for rescuing my brother, O mighty messengers of the illuminated adepti.
+旅行者: Have you ever seen the adeptus here?
+Li Ding: What? No... I mean, like everyone else, we've heard that there's an adeptus living in Mt. Hulao.
+Li Ding: But regular folks like us would neve rhave the chance to meet them. No way.
+Li Ding: Unlike you guys... You're adepti messengers, so it's a whole different story.
+Li Ding: Anyway, we have trespassed in the realm of the adeptus for long enough. We should get going. Thank you, mighty adepti messengers...
+Li Dang: Yes, thank you, messengers..
+Paimon: ...Boy, it'd be super helpful if we actually were adepti messengers.
+Paimon: 'Cause it seems like this adeptus has got a real temper problem...
+Paimon: But it's not like we've done anything wrong, so... hopefully we'll be okay... hehe...
+Mountain Shaper: Who dares trespass on my mountain? Who is it that frees the thief from his incarceration?
+Mountain Shaper: Foolish mortal, come forth and receive your punishment at once.
+
+Meet Mountain Shaper
+Mountain Shaper: ...You intrude upon the sanctity of Mt. Hulao, you destroy the amber of my mountain, and you free a thief whose freedom is not yours to give.
+Mountain Shaper: The thieves' ignorance was an affront to the adepti... but your actions are an abomination of the highest order!
+Paimon: Wait! We can explain...
+旅行者: Here, look at this...
+Mountain Shaper: ...A Sigil of Permission? One was unaware that such things still exist in the mortal realm.
+Mountain Shaper: In the beginning, Rex Lapis cast them for the mortals with his own hand. Few were made then, and thousands of years on, fewer still remain...
+Mountain Shaper: Speak. One shall listen to the matter which brings you here, then one shall verify the truth thereof.
+Mountain Shaper: You would be wise to speak the truth, for Liyue is not so far from here that one would be easily deceived.
+You tell Mountain Shaper what took place in Liyue Harbor...
+Mountain Shaper: Rex Lapis... Assassinated?
+Mountain Shaper: At the Rite of Descension!?
+Mountain Shaper: What mortal in Liyue- nay, in all the world, would conspire to commit such foul treason? Or perhaps the more pertinent question is, what power in this world could aspire to achieve it?
+Mountain Shaper: Rex Lapis charged the adepti with the protection of Liyue, and we have always honored this duty. As the people have prospered, so have we gradually withdrawn into the mountains. Indeed, this was a gesture of good will towards humanity.
+Mountain Shaper: But now... Alas! Rex Lapis, gone...
+Mountain Shaper: Traveler, of the matter you have relayed, one has become aware. One now knows why Moon Carver has sent for us.
+Mountain Shaper: Once one has dealt with certain matters here that require my attention, one shall convene with the other adepti.
+旅行者: Can someone explain the amber situation to me?
+Paimon: Paimon can! Adepti always have magical powers in storybooks, seems it's true in real life too.
+Paimon: You know, like how grass is actually adepti hair, and rivers are actually adepti saliva... There must be something similar going on with the amber.
+旅行者: So is rain... adepti tears?
+Mountain Shaper: ...Your nonsense knows no bounds. This amber is produced by a flower that one has planted here, called the karst crawler.
+Mountain Shaper: The majority of the plant is hidden underground. When stepped on, it produces amber to trap the invader.
+Mountain Shaper: After taking up residence here, one planted many karst crawlers to ensure that the tranquility of the mountain would remain undisturbed. Over the years, they have helped to prevent many disturbances, but in the process they have also trapped many curious things...
+Paimon: Oh, so the amber is... alive?
+Mountain Shaper: Correct. Thus, one may not leave this place in its current state, for fear of the risk to innocent lives in one's absence.
+Mountain Shaper: One will depart as soon as one has attended to this matter. One trusts that the manner of your departure will be swifter in nature.

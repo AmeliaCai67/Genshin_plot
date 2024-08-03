@@ -1,0 +1,78 @@
+An Organization Known as Wangsheng
+Upon your return from visiting the Adepti, you discover that the Qixing have hidden the Geo Archon's vessel away. Childe promised he'd find someone to break the stalemate, so you pay another visit to Northland Bank.
+
+Wait until the following day
+Talk to the bank staff
+Ekaterina: Welcome, 旅行者, friend of Childe. And congratulations on the first day of your illustrious career with the Fatui.
+旅行者: I don't consider Childe a friend.
+Ekaterina: You sound remarkably sure of yourself... Remember, we are mere mortals our ideas are fluid like water. Only the Tsaritsa truly has a will as solid as the
+Ekaterina: But back to the matter at hand. Childe tells me that he has upheld his end of your agreement.
+Paimon: What agreement? Oh, the thing about him helping us find a guy?
+Ekaterina: Correct. Childe promised he would find someone to break the stalemate. And the Harbingers do not break their promises lightly.
+Paimon: Ah. Where is that guy, anyway?
+Ekaterina: Childe is currently at Liuli Pavilion.
+旅行者: Liuli Pavilion?
+Paimon: Ooh, ooh Paimon knows this one!
+Paimon: *clears throat* There are two styles of cooking in Liyue, known as Li style and Yue style. They have been competing for centuries but neither has emerged as the clear winner.
+Paimon: The flagship restaurant of the Li style is the Liuli Pavilion. The owner especially chose to open the restaurant at Feiyun Slopeso they could compete face-to-face with the Xinyue Kiosk, which is the flagship restaurant of the Yue style.
+旅行者: Trust you to only know these sorts of things...
+Paimon: Don't talk to Paimon like that! Anyway, Paimon's hungry. Let's get moving.
+
+Find Childe
+Childe: Aha, you made it.
+Childe: As promised, I have found someone who can help you. Someone who can solve the mystery of why the Liyue Qixing would hide the Geo Archon's vessel.
+Paimon: So where is he? In Liuli Pavilion?
+Childe: He certainly is. Come, I'll introduce you.
+Childe: I took the liberty of setting up a business dinner, as per the Liyue custom.
+
+Enter Liuli Pavilion
+Childe: Allow me to introduce Mr. Zhongli, consultant to an organization known as Wangsheng... and a trusted associate of the Fatui.
+旅行者: Associate of the Fatui?
+Childe: Indeed. Wangsheng's line of work can be... sensitive at times. Let's just say they understand when discretion is needed.
+Childe: And we, the Fatui have always been glad to do business with friends who walk in the shadows.
+Paimon: W-Walk in the shadows?
+Zhongli: It is an honor to meet you. I have heard tell of you from Mondstadt.
+Paimon: Discretion... shadows... Ah! Is Wangsheng some kind of business involving...dealing" with people?
+Zhongli: Indeed, it is as you have guessed.
+Paimon: Ahh-!
+Zhongli: The Wangsheng Funeral Parlor organizes burials.We ensure that those who pass on do so in peace.
+Paimon: Eh?
+Childe: Haha, did you think he was some sort of hired killer?
+Childe: The Fatui calls many such people friends, but the Wangsheng Funeral Parlor does not dabble in such business... well,(?)
+旅行者: Ostensibly...
+Childe: Well, they are still- Ah, I shouldn't say too much. In any case, l brought you to meet Mr.Zhongli because...
+Zhongli: Because I can bring you to see Rex Lapis' vessel.
+Paimon: What!?
+Childe: Ha, don't be so surprised. Sure, the Geo Archon's body has been squirreled away by order of [天理]... but first let's hear what Mr. Zhongli has to say, shall we?
+Zhongli: Rex Lapis may be the Prime of Adepti,but he is ultimately an adeptus. Many adepti have left us over the millennia - this is the inexorable trend.
+Zhongli: The times have changed - you must have felt it too when you were at Jueyun Karst
+旅行者: That's true. The adepti are staying away from Liyue.
+Zhongli: As you have seen, the time of the adepti is ending, and the time of mankind is slowly dawning.
+Zhongli: In years past, Liyue's tradition was that a huge memorial service be held to mark the passing of every adeptus. But this time, the Qixing have made no attempt whatsoever to respect this tradition. It is sacrilege. 
+旅行者: Well, they do have a decide to deal with...
+Paimon: Yeah, the killer hasn't even been caught yet.
+Zhongli: Deicide or not, the concern of the Wangsheng Funeral Parlor is this: When the ritual to receive this god is so kingly, it is all the more egregious for his final send-off to go unattended to.
+Zhongli: Traveler, Childe has told me a lot about you. Since you have had dealings with the Anemo Archon, could I ask you to help me prepare the Geo Archon's last rites?
+旅行者: I'm going to have to think about it...
+Paimon: Well... if you really think about it,旅行者,we don't have any other choice...
+Childe: Indeed, no amount of consideration can change this outcome.
+Childe: The Tianquan, Ningguang, has forbidden anyone from accessing Rex Lapis’ vessel... Which of course you would need to access if you are to achieve your goal of meeting all of The Seven.
+Zhongli: Precisely. Only by participating in the Rite of Parting will you be able to see the form of Rex Lapis again. 
+旅行者: Looks like there's no other choice.
+Zhongli: If we are agreed, come with me. We will speak of the details as we walk.
+Childe: Alright, my bridge-building work here is done. Turned out well, didn't it?
+Childe: You can go if you want to, don't worry about me. I might just have a few more drinks... and get acquainted with these things they call "chopsticks" in the meantime. 
+
+Talk to Zhongli outside
+Zhongli: After having experienced the land of the absentee archon, Traveler, how does it feel to know that our archon and adepti are here all around you in Liyue?
+旅行者: I prefer the atmosphere in Mondstadt.
+Zhongli: I see, so you're that sort of person. It's not a bad thing.
+Zhongli: But I suppose you have yet to experience the substance of Liyue's three thousand and seven hundred years of divinity.
+Zhongli: Organizing the Rite of Parting should prove to be an enlightening part of your travels.
+Zhongli: Liyue is the most prosperous of the seven nations, defended by deities and ruled by the Qixing. As such, the diplomatic maneuverings of the Fatui have gained no purchase here.
+Zhongli: Ningguang of the Qixing has always been on her guard against the Fatui. That is in all likelihood why Childe wants to make use of the Wangsheng Funeral Parlor's connections.
+Paimon: Huh... what would Childe get out of us doing the Rite of Parting anyway?
+Zhongli: I neither know nor do I wish to know.As far as I am concerned, the Fatui are merely financial sponsors. I only wish for Liyue's traditions to endure.
+Zhongli: These are the advance funds that Childe has provided, If you use them up, you can go to him to apply for any subsequent funding.
+Paimon: Wow...
+Zhongli: Well then, let us be off. The first step in our preparations shall be to obtain some prize Noctilucous ]ade worthy of a deity.
