@@ -1,0 +1,1382 @@
+The Unexpected Guest
+Concerned about the situation down in The Chasm, you and Paimon decide to go investigate the area, only to run into someone altogether unexpected there...
+Go to the lower levels of The Chasm
+Paimon: Hey Traveler, remember that pit at the bottom of The Chasm? You know, the one that the giant pillar smashed into.
+Paimon: Paimon took a quick peek before we left last time... There was some kind of light coming from inside. Don't you think that's a little strange?
+Paimon: Oh, so you've been wondering about that too, huh? Now that we have some time on our hands, let's go and take another look.
+Talk to Yanfei
+Yanfei: Oh£¿Traveler and Paimon? I didn't expect to see you two here.
+Paimon: Yanfei? Shouldn't you be at work in Liyue Harbor? What are you doing out in the middle of nowhere?
+Yanfei: Well, to be perfectly honest, this case is a little out of the ordinary.. In fact, this is the first time I've ever witnessed the bottom of The Chasm.
+Yanfei: Oh, but before I forget! Could you do me a favor, please? If anyone happens to ask about me or my present whereabouts, just tell them you haven't seen me!
+Paimon: Huh? What are you talking about?
+Traveler£ºYanfei, you didn't...
+Yanfei: No, no, it's not like that. Look, it's quite a long story.
+Yanfei: So if you could, please just cover for me. I'll see you later.
+Paimon: Hey! And there she goes. Huh, what in Teyvat was that all about? Paimon's starting to feel nervous all of a sudden...
+Paimon: Do you think she did something illegal and now she's gone into hiding here? *gasp* Or maybe something super scary happened..
+Traveler£ºDoubt it, Yanfei is a legal adviser, after all.
+Paimon: Don't be so naive! The world is complicated these days, you know. We should be prepared for the worst, if something really did happen, we might find ourselves becoming her accomplices!
+Paimon: Oh, what a dilemma... Should we really cover for her...?
+Traveler£ºPaimon, you are the one that's both naive and complicated...
+Arataki Itto: Hey! You over there! Yeah, you!
+Paimon: Ahhh! Someone's coming!
+Paimon: But that voice sounds pretty familiar...
+Arataki Itto: Haha, it's you two. So uh, what are you two doing in a place like this, huh? Wait, don't tell me... you're on vacation!
+Traveler: It's the one and oni Itto.
+Arataki Itto: I must say, you two are lookin' pretty good, things been going your way lately 'cause I have been doing amazing.
+Paimon: Uh, Itto, who's that behind you?
+Kuki Shinobu: Hey there, I'm with the Arataki Gang, Kuki Shinobu. Nice to meet you!
+Arataki Itto: Ahahaha, right, I almost forgot she was back there. Let me introduce you to Shinobu, the pride and joy of the Arataki Gang!
+Paimon: Oh! Another member of Itto's gang!
+Arataki Itto: Lemme tell ya, she's one of Hanamizaka's best and brightest, so of course she's in the gang. Shinobu takes care of practically everything in the Arataki Gang. She can protect you guys, too, you know.
+Kuki Shinobu: A friend of the boss is a friend of mine. You must be it and Paimon.
+Paimon: Yep yep! Nice to meet you too, Shinobu!
+Traveler£ºNice to meet you, Shinobu.
+Kuki Shinobu: The pleasure is mine. I have a feeling that we'll be working together soon enough.
+Paimon: So, uh, Itto, if she's the one that takes care of everything in the gang, then doesn't that kinda make her the gang's real boss?
+Arataki Itto: Pff, are you kidding!? Of course I'm the boss. To the four corners of Teyvat, there is only one boss of Hanamizaka's legendary Arataki Gang. Me!
+Paimon: Hmm, okay Paimon gets the dynamic now. A useless boss with an ultra-capable subordinate...
+Arataki Itto: Hey, you...! Ugh, you know what, forget it. The average person couldn't possibly understand the dynamics of the Arataki Gang. As the leader, I can't let myself stoop down to your level.
+Arataki Itto: Anywayyy, have you seen a pink-haired legal... uh, mage lady? Wears a goofy hat, knows everything, kinda short.
+Paimon: Uh-oh!
+Kuki Shinobu: Her name's Yanfei, she's a legal adviser from Liyue. I thought perhaps you two would know her.
+Paimon: Oh, no... we haven't seen her! We don't know this person at all! Hehe...
+Traveler£ºSeriously, Paimon..
+Arataki Itto: Aha! So you have seen her.
+Paimon: Uh, no, what gave you that idea!? Paimon didn't say anything!
+Arataki Itto: Aww, look at you getting all antsy. Ha! Seems I was able to get to the truth after all.
+Kuki Shinobu: When someone is lying, their eyes often start wandering subconsciously.
+Kuki Shinobu: Anyway, don't worry. I assure you we don't have any ill intentions.
+Paimon: So uh, you guys know Yanfei?
+Arataki Itto: Well, she uh, kinda saved my life. So yeah, you could say we've met.
+Paimon: She's saved your life? Wait, hold on, what are you two doing in The Chasm anyway?
+Traveler£ºSorry, Paimon can be a bit slow...
+Arataki Itto: You know that the Sakoku Decree has been lifted recently in Inazuma, right?
+Arataki Itto: Well, Shinobu wanted to come to Liyue and pick up her graduation certificate. I came along because it's safer to travel in numbers.
+Paimon: Graduation certificate? Did you study in Liyue?
+Kuki Shinobu: Yes, I studied law at the Tongwen Academy in Liyue. Unfortunately, the Sakoku Decree was implemented just when I was home visiting my family before graduation... so I'm a few years late getting my graduation certificate.
+Kuki Shinobu: We were taking care of some errands in Liyue and the boss got tangled up with some Millelith while we were standing in a line... He was about to get arrested when, luckily, Yanfei happened to be walking past and helped us out.
+Arataki Itto: Yep. If it wasn't for her, our trip to Liyue would've ended with me in the slammer, hehe. So, you know, I just wanted to do something nice to show my heartfelt gratitude.
+Arataki Itto: But she said she didn't need my help with anything. I thought there's a chance she might run into trouble here on her own, so I followed her here... just in case she needs me to come leaping to her rescue.
+Traveler£º So, you're forcing her to accept your help.
+Arataki Itto: What? No, it's not like that at all! Look, I just want to protect her, OK? She looked like she was in a hurry, so I thought she must be out doing something important.
+Arataki Itto: People can get into trouble when they're out in the world dealing with serious business, you know? I'm just being considerate, really.
+Kuki Shinobu: Ahem, Traveler.
+Traveler£º(ls Shinobu trying to hint at something?)
+Kuki Shinobu: ...(that way)
+Traveler£º(Maybe she's hinting for me to distract Itto..)
+Traveler£ºUh, Yanfei went that way.
+Arataki Itto: Ah, great, thanks! I'll go after her. Shinobu, time to roll!
+Arataki Itto: Fear not, my savior! Itto's coming to your rescue!!!
+Kuki Shinobu: Appreciate the help. Until next time.
+Paimon: Uh Traveler, did you just send Itto the wrong way on purpose? Shinobu seemed pretty sharp, Paimon doesn't think you can pull one on her like that.
+Paimon: Or maybe, she knows that Itto can be a big nuisance, so she's trying to stop him from bothering Yanfei... Oh if that's the case, then wow, she really knows how to call the shots.
+Paimon: Well, at least this way, nobody will be bothering Yanfei. If we run into her again later, we should let her know that we helped her out!
+Paimon: Alright, now let's go take a look at the crash site from last time.
+Go deeper within The Chasm
+Paimon: Look, Yanfei is here, too!
+Paimon: Hey Yanfei, we've sent away the people that were following you.
+Yanfei: Oh, good, thanks a lot. The guy with the weird outfit seemed super outgoing. Normally, I don't mind making friends, but I've got work to do today.
+Paimon: Oh? So what kind of work are you doing in a place like this? Don't tell Paimon you're thinking about becoming an adventurer, too!
+Yanfei: Well, as a legal adviser, sometimes I also have to travel in person. I came to The Chasm to deal with a will.
+Paimon: A-A will...?
+Yanfei: That's right. I found a will inside an old book, I'm guessing it was left by someone of great importance. It appears he lost a magical device and wished to retrieve it.
+Paimon: Paimon didn't know legal advisers have to deal with that kind of thing. What a job..
+Yanfei: Will execution is also part of my work as a legal adviser. Of course, cases like this are quite rare. The Chasm is not the kind of place you can just waltz into whenever you want.
+An athletic figure leaps down from above...
+???: Oh? So, you do know what kind of place this is...
+Paimon: Eek! Who's that?
+Yanfei: Ah, I thought I might find you here.
+???: Whatever case you're working on in The Chasm, I'm sure Liyue's top legal consultant can handle it without my input.
+Yanfei: Huh, that's funny - I thought we'd established that my legal opinion doesn't count for anything when Yelan's around?
+Paimon: Uh, who is she?
+Yanfei: This is Yelan. Liyue's uh... Well, let's just say she works in the Ministry of Civil Affairs. I can at least say that much, right? Anyway, she's a friend of mine.
+Yelan: Sure. Coincidentally, I have something to do here as well. Seems chance has brought us all together.
+Yelan: You may not know me, Traveler and Paimon, but I've certainly heard about you.
+Traveler£ºOh really? I guess I do have many friends in Liyue..
+Yelan: You're all here on business, and it's my job to monitor The Chasm. According to regulations, I should accompany you.
+Yelan: But as it turns out, I have other things that require my attention. I'm afraid I can't join you this time. You may go about your business, just try to not make a ruckus.
+Yanfei: Aww, that's most unfortunate, I was about to ask for your assistance.
+Yanfei: Could you spare a little time to help me take care of this will... for old times' sake?
+Yelan: Hmm, I dunno... depends what's in it for me...
+Yanfei: Fair enough, I suppose even a guide needs to get paid. It just so happens that Madame Ping gave me some nice tea. I'll treat you to a cup, if you agree.
+Yelan: Hehe, why don't you tell me a little more about how you got here first? Then I'll...
+???: Hey! You!
+Paimon: Uh... Itto? What is he doing back here!?
+Arataki Itto: I know what you two did... You really tried to throw me off, didn't you? Hmph, and I thought we were buds,Traveler£¡
+Traveler£ºWell, they're also my friends, so...
+Yelan: That's close enough.
+Arataki Itto: Huh? Who are you?
+Yelan: Sorry, this area is part of The Chasm. It's closed to the general public.
+Arataki Itto: Are you kidding me? I don't see any warning signs or fences, what gives you the right to keep me out?
+Yelan: Kid, where there's real danger, you'll never see a warning sign.
+Paimon: Uh, Paimon never knew this place was so important.
+Traveler£ºIt really is an unusual place..
+Yanfei: It's true, this is not a place you can just go in and out of as you wish. That's also why I didn't want anyone to follow me. Unfortunately, you didn't listen...
+Yelan: The Traveler has done a lot for Liyue in the past, and Yanfei is a renowned legal consultant in Liyue, so I can trust their intentions. As for you two.
+Arataki Itto: Hey, what's that supposed to mean!? You trying to say I'm not famous enough and my intentions are no good?
+Yelan: I don't know your background, so I can't give you free passage here. Besides, Yanfei doesn't seem to need your help, does she?
+Arataki Itto: Hah! How would you know what Yanfei needs? What, are you two joined at the hip or something?
+Yelan: Right... Anyway, I don't need to be a mind-reader to see that...? In any case, as a visitor from Inazuma, I'd suggest you defer to a local when in doubt. Stick to the local rules and keep yourself out of trouble.
+Arataki Itto: Argh! Why you..
+Kuki Shinobu: Please, try not to be impulsive. She is right, you know.
+Paimon: Uh-oh, things are starting to get a little heated here¡­.
+Yanfei: Not good... He really shouldn't start butting heads with Yelan.
+Kuki Shinobu: It's true that we don't know anything about the unique conditions of this place, so we'll heed your advice and leave immediately. But if this really is a dangerous area, seriously, you should put up a sign.
+Yelan: Thanks for the suggestion, I'll consider it.
+Arataki Itto: Oh yeah? And what if we don't leave? Hmm?
+Kuki Shinobu: Boss!
+Yelan: Then I'm afraid things might get... unpleasant.
+Arataki Itto: Is that so? You really think you can take the two of us? Gotta admit, I like your optimism.
+Yelan: Although you're friends with the Traveler and Yanfei, I'd still suggest you heed my warning.
+Arataki Itto: Haha... thanks for that, but too bad I'm not buyin' it! If you're so strong, then why don't you show me what you got!
+Kuki Shinobu: Hold on. Boss. There's no need to start a fight here!
+Arataki Itto: Oh, no, I'm going in whether she likes it or not.
+Yelan: Heh... You think I was joking around, huh?
+Paimon: Oh no, these two are about to go at it!
+Yanfei: Please wait a minute, you two. This whole thing started because of me. Why don't you save me the embarrassment and just.. huh?
+Traveler£º(The ground is shaking!?)
+Yanfei: Uh oh, it's a... Ahh!
+Arataki Itto: Hey stop trying to change the subject! I'm gonna¡­. huh?
+Following the violent shaking, the ground collapses and all of you fall underground...
+Discuss matters with everyone
+Paimon: Ugh... Ouch...
+Paimon: Wh-What happened? Hey, Traveler, are you alright?
+Traveler£ºI'm fine.
+Yanfei: Oww... putting my books under me to break the fall didn't help at all.
+Yelan: What's this?
+Paimon: Wh-Where are we...?
+Arataki Itto: Ugh, gonna feel that in the morning... Hey, Shinobu, Traveler¡­.. and my savior! Is everyone okay?
+Kuki Shinobu: *sigh* Well, this is an unfortunate turn of events.
+Paimon: Hey, so uh, how far down did we fall?
+Yelan:...
+Yelan: It seems the ground collapsed during our little confrontation up there. Perhaps because we triggered the elemental forces...
+Arataki Itto: Well, don't look at me. If you weren't so rude, maybe I wouldn't have gotten mad. Who can put up with that kind of 'tude?
+Yelan: It's my duty to stop intruders from breaking into important places. If telling the truth sounds rude, then I'm afraid you're just a little too fragile.
+Arataki Itto: Hey! Life's too short to give in all the time!
+Kuki Shinobu: Boss, I'm afraid you're not going to win this argument. I suggest we stop provoking her.
+Arataki Itto: Hey, whose side are you on here?
+Kuki Shinobu: I'm simply pointing out the facts. I understand how you feel, but you're making my life difficult by starting random fights with everyone.
+Paimon: Heh, looks like Itto can't argue against either Yelan or Shinobu... He's in a real tough spot now...
+Traveler£ºSo ltto and Shinobu are kinda like you and me.
+Paimon: Huh? Hey! What do you mean? Don't you dare compare Paimon to Itto!
+Arataki Itto: Whoa, whoa! What do YOU mean? You lookin' for a fight too?
+Paimon: P-Paimon was just saying how it is... Everyone knows you're a bit of an idiot.
+Arataki Itto: You calling me an idiot!? Oh yeah, well you're a puny little flying Lavender Melon. Hah!
+Paimon: Flying Lavender Melon? Ohhh that's it, Paimon's mad! Time to give you an ugly nickname... Uh, Bull-Chucker! Hmph, you better mind your manners, Bull-Chucker.
+Yanfei: We seem to be a long way down from where we fell. It's impossible to see what's going on up above.
+Yelan: It's unlikely we'll be able to climb back up that far. We'll need to find another way.
+Yelan: I'm sorry to interrupt your lovely little chat here, but I think there's something you may need to know.
+Yelan: The Chasm is regarded as a mysterious area in Liyue. It was sealed off for years due to a mining accident. Whatever goes on down here, I suggest you remember this: You didn't see anything, you didn't hear anything, and you're not gonna ask any questions. Save you from getting caught up in things you shouldn't know about.
+Yelan: I won't treat you as hostiles, and in exchange, I hope you won't make things difficult when it comes to keeping secrets. I'll do what I can to find a way out.
+Arataki Itto: Huh? Where does she think she's going?
+Yanfei: Like she said, to search for an exit. Chances are that Yelan is the best among us at survival and handling emergencies, we should just let her go.
+Yanfei: I'm afraid I must apologize... I don't typically disclose details of a client's will to third parties, which is why I couldn't tell you the truth. I'm sorry.
+Yanfei: I came to The Chasm in search of the Fantastic Compass, which is mentioned in the will. Many years ago, my client gave this magical device to someone ambitious, hoping that it'd be handy in times of need.
+Yanfei: According to an eye-witness account, the person who received the device took it into The Chasm and has been missing ever since.
+Yanfei: Throughout history, many wars have been fought in the vicinity of The Chasm. Even if that person died in one of the wars, I still wish to do my utmost and find the device, and fulfill the client's wish.
+Yanfei: Yelan's words of caution were not unwarranted. There are dangers lurking in The Chasm... I'm sure you've all realized that by now. Given that we're all caught in this mess, let's try to find a way out together.
+Arataki Itto: Whatever you say, my savior... I'll do whatever you ask. From now on, we're a team, all of us. And as for that big jerk... Well, hmph, I guess that includes her, too.
+Paimon: You said Yelan works for the Ministry of Civil Affairs, huh? Paimon could tell she's tougher than most, but wow, her job sounds demanding.
+Yanfei: Well, that's what she tells outsiders... I can't disclose too much about her identity, but I'd say she's the only person who can handle this type of work.
+Arataki Itto: What kind of lame job would have someone go out to the middle of nowhere?
+Paimon: Oh, Paimon knows! An adventurer!
+Traveler:???
+Paimon: Hey, what's with the face? Did Paimon sav something wrong? That's literally what the two of us do, isn't it?
+Traveler£ºI'm the adventurer, Paimon. Not you.
+Paimon: Ugh, you're so stingy these days... Just let Paimon be an adventurer by association, okay?
+Arataki Itto: Yeah, she's got a point, tRik, you're Paimon's boss. Take it from me, as a great leader, you should learn to be a little more generous... You know, let your sidekick share some of the glory.
+Paimon: Ugh, you really don't understand anything about us!
+Kuki Shinobu: Paimon, don't take him too seriously. He's just joking.
+Paimon: Hmph, for the sake of Shinobu... Fine.
+Arataki Itto: Hmph, I'm the boss, so I'll let it slide.
+Yelan:...
+Yelan: Perhaps this was another sealed location, but an undocumented one... What could be in here?
+Kuki Shinobu: I've got some food and water on me. If anyone needs some, just let me know.
+Paimon: Great! You know, Bull-Chucker, you may not be the sharpest tool in the shed, but your subordinate here seems super capable and reliable!
+Arataki Itto: Hehe, I know, isn't she the best.. Hey! I am too a sharp tool!
+Yelan: There seems to be an entrance up ahead with a path inside.
+Paimon: Wonder where it leads to... Well, let's go take a look.
+Go to where Yelan is
+Paimon: Who woulda guessed we'd find a Domain entrance in a place like this...
+Arataki Itto: If there's a way in, then there's a way out. Let's go and take a look.
+Yanfei: The rocks here seem to be old Liyue Mountain Rocks, they're similar to what I've seen in books. This domain must have existed for quite some time now.
+Yelan: ...!
+Yelan: (What's that sound?)
+???: ...
+Traveler£º
+Paimon: Ah! Oh, it's Xiao!
+Yanfei: Conqueror of Demons? What are you doing here?
+Yelan: ...
+Xiao: Oh, I came down from above. I heard a noise, so I followed it here.
+Paimon: So you're not here by accident. Wanna team up?
+Xiao: No, I have something else to do.
+Traveler£ºIs it something important?
+Xiao: ¡­..I'm looking for someone.
+Xiao: You shouldn't be here. I would urge you to go back as soon as possible.
+Xiao leaves¡­..
+Paimon: Well, that's Xiao for ya... Shows up without warning and disappears without a trace.
+Arataki Itto: Heh, that guy looked pretty tough, maybe almost as tough as me. Seems like a solid dude.
+Paimon: Seriously, Bull-Chucker, where do you get your confidence from..?
+Kuki Shinobu: Should we really be letting him go off on his own?
+Paimon: Oh, he wouldn't listen, no matter how much you tried to talk him out of it... He is super tough, though, so don't worry about him.
+Yelan: Everyone, keep your eyes and ears peeled from here on out. We don't know what lies ahead, so we have to be ready for anything.
+Arataki Itto: Oh, look, I'm happy to say we're all on the same team and everything, but... could you cut the little speeches and the whole follow-the-leader act? I, for one, think I should be able to look after myself..
+Kuki Shinobu: Boss!
+Arataki Itto: Ugh, okay, okayyy!
+Paimon: Besides, Yelan is just looking out for everyone. You know, Bull-Chucker, you're a guest here, so maybe try to get along with everyone.
+Arataki Itto: Hah! Please! You're not a local either, Flying Lavender Melon, so stop trying to sound like one!
+Chasmic Maze
+The ground at the bottom of The Chasm suddenly collapsed, causing everyone to fall in. As it turns out, there is an unknown space further below, and everyone works together to investigate...
+Enter the Domain
+Ascertain if the Domain leads outside
+Leave the Domain
+Talk to everyone
+Arataki Itto: Wh- Huh? Wait, this ain't right!
+Paimon: Uh, how did we end up back here!?
+Arataki Itto: So we've been here already?
+Kuki Shinobu: Yes, this is exactly where we started.
+Arataki Itto: But we couldn't have taken a wrong turn, we were headed in the same direction the entire time. We never turned around...
+Yelan: Yes, that's what I thought, too.
+Arataki Itto: Traveler, we were going the right way, weren't we?
+Traveler£ºYes, I thought we were headed in the right direction.
+Paimon: How strange.
+Arataki Itto: There's a legend in Inazuma about a merchant who was tricked by a bake-danuki one evening and kept circling around the same place the whole night. Even by dawn, they still hadn't found a way out...
+Paimon: Yeah, Paimon's heard that one before too.
+Arataki Itto: So we're all familiar with the story then? Good, because I'm pretty sure that's what's happening to us right now.
+Arataki Itto: But fear not, I happen to have a certain sidekick who can exorcise youkai and spirits and whatnot. Let me summon him real quick.
+Paimon: Unbelievable. An oni who's friends with an exorcist.¡­.. What an open-minded guy.
+Kuki Shinobu: For the boss, ignorance is a virtue.
+Arataki Itto: You're up, Ushi, go get that spirit!
+Ushi: Moo!
+Arataki Itto: This is Ushi, an auxiliary member of the Arataki Gang.
+Ushi: Moo, moo.
+Arataki Itto: Haha, oh, Ushi says hello everyone. You can just call him "Ushi" or "Beefcake." Yeah, he's got a keen sense of direction, so I'll let him lead the way.
+Yelan: I didn't know gangs could have auxiliary members.
+Yanfei: This does not have the trappings of something that's gonna work.
+Yelan: You're telling me.
+Arataki Itto: Alright, go Ushi! Go find us a way outta here!
+Ushi: Moo!
+Ushi begins looking around for a hidden exit..
+Ushi: Moo... Moo, moo... Moo!
+Arataki Itto: Huh? What's that... Really!? Aw, no way!
+Paimon: What's wrong?
+Arataki Itto: Ushi says he's searched everywhere but there's no exit.
+Arataki Itto: That doesn't add up, if we were able to come in, then there must be a way to get out. Here, lemme take another look.
+Yanfei: Has anyone else noticed this? We initially thought we fell here from above. At that time, there was a way out high overhead¡­.. But now, it seems even that exit has disappeared.
+Yanfei: Inexplicable, if you ask me...
+Kuki Shinobu: It seems there's more than meets the eye with these underground structures.
+Yelan: ...I'm gonna take another look around.
+Paimon: Everywhere we look there are just more and more rocks. Uh, maybe we've just misremembered, maybe this isn't the place we started from!
+Arataki Itto: What, you scared now?
+Paimon: N-No, Paimon's super brave...
+Ushi: Moo...
+Arataki Itto: Oh yeah? Well Ushi also thinks you're scared. It's okay, don't be scared to admit you're uh... scared. You've got us here to protect you.
+Traveler£ºI'm here for you too, Paimon.
+Arataki Itto: We can't just sit here twiddling our thumbs, let's keep looking for a way out. Shinobu, you stay here with my precious savior, I'll take Traveler and Paimon with me.
+Kuki Shinobu: Got it. Be careful, everyone.
+Yanfei: Please, there's no need to keep calling me "savior," just Yanfei is fine. Mr. Arataki, it seems that as the head of the Arataki Gang, you possess a strong sense of leadership.
+Arataki Itto: Too kind, too kind. And just call me Itto. Since we're a team now, we should have each other's backs.
+Paimon, if you feel scared again, I can cover your eyes for you. You split into teams to investigate the surroundings, but fail to find anything...
+Arataki Itto: ...*sigh*
+Paimon: Seems there's really no way out...
+Ushi: Moo!
+Arataki Itto: I can't shake the feeling that there's something off about this place.
+Kuki Shinobu: Boss, did you guys find anything over there?
+Traveler£ºNo, nothing.
+Arataki Itto: Not only that, I coulda sworn I saw someshadows moving a second ago... This place better not be haunted.
+Paimon: Probably not the right time to ask this, but Paimon just can't help it. Itto, you're an oni... Doesn't that kinda mean everywhere you go is haunted?
+Arataki Itto: No! ¡­Ignore the red horns, okay? I'm talking about spooky, floaty ghosts, now-you-see-'em, now-you-don't kinda haunted.
+Paimon: Uh, Itto? Are you... afraid of ghosts?
+Kuki Shinobu: Oh no, Boss. You've been found out.
+Arataki Itto: What, me? Hah, no way! You kidding? Stop joking around¡­. seriously though.
+Paimon: Hehe, looking at you, Paimon suddenly doesn't feel scared anymore... Hey, Bull-Chucker, if you're scared, Paimon can cover your eyes for you.
+Kuki Shinobu: ...
+Kuki Shinobu: Maybe I should make better use of my time.
+Traveler£º(Hmm? Shinobu walked off to grab a few stones, then she took out some twigs and Lavender Melons from her pocket... What?)
+Kuki Shinobu: Add a little salt¡­. and some pepper.
+Traveler£ºAre you roasting Lavender Melons?
+Kuki Shinobu: Yeah. Roasted Lavender Melon is delicious. You can try some when it's done.
+Traveler£ºOkay.
+Kuki Shinobu: Oh right, there are two types: sweet and savory. Which would you prefer?
+Traveler£ºI'm happy with either.
+Kuki Shinobu: Alright, you can try them both then. It's important that we remain calm, especially when we are in the throes of a tough situation like this.
+Kuki Shinobu: If I'm reading the situation correctly, there seems to be some secret here that the boss and I are not supposed to know about. But don't worry, I'll distract the boss while you discuss things with the others.
+Yanfei: Ooh, I thought I smelled something cooking.
+Kuki Shinobu: Would you like some, Yanfei?
+Yanfei: Thank you, but I'm not hungry. You guys go ahead.
+Yanfei: Oh, and by the way, I haven't seen you in a while, Shinobu.
+Kuki Shinobu: Yeah, it has been a while, hasn't it? The last time I saw you was when you taught one of my classes as a substitute while I was studying in Liyue.
+Yanfei: Substitute teacher... Ah yes, now I remember. It was during winter, wasn't it?
+Kuki Shinobu: Yes, I remember everyone said your lecture was very interesting. Now that I think about it, I should call you "Senpai."
+Yanfei: Ooh, I like the sound of that! Hehe!
+Yanfei: Who would've ever guessed that we'd get caught up in such a dilemma together. It must be fate.
+Traveler£ºSo Yanfei gives lectures too? That's incredible.
+Kuki Shinobu: Not only that, she's funny and engaging while she speaks. Needless to say, she is very popular among the students.
+Yanfei: Haha! Aww, I'm flattered.
+Yelan: I see everyone is still here.
+Yanfei: Yelan, we split into groups and searched the area, but there are no signs of any way out. How about you? Did you manage to find anything?
+Yelan: No.
+Yelan: And¡­. though I'd prefer not to say it, we'd better mentally prepare ourselves.
+Yelan: If we can't find a way out, we may be stuck underground for some time.
+Yanfei: ¡­..I think you might be right.
+Kuki Shinobu: ...I understand.
+Yelan: Hmm, an underground space with an entrance but no exit... it just doesn't make any sense. I'll figure something out, just give me some time.
+Yelan: If anyone happens to find a potential exit, please be sure to take every precaution before exploring further.
+Traveler£º(Come to think of it, Xiao is here, too. He said we can always call his name if we get into trouble.)
+Traveler: (Maybe it's worth a try...)
+Paimon: Hey, Traveler? What's with the serious face? Do you have a plan?
+Traveler£ºWell, I was just thinking that Xiao is also here, remember?
+Paimon: Xiao... oh, right! Do you want to get him to help us?
+Traveler£ºI think it's worth a try.
+Paimon: Sure, let's give it a shot!
+Traveler£º...
+You try reciting Xiao's name in your heart.
+Traveler£ºXiao, can you hear me?
+Paimon:...
+Traveler£º¡­.
+Traveler£ºUh, Xiao?
+Paimon: Huh, no response... Paimon thought Xiao would come no matter where we are.
+Paimon: Oh no, does that mean even Xiao can't sense our presence here?
+Traveler£º(...)
+Traveler£º(Wonder what that could mean.. What's the deal with this place?)
+Talk to everyone
+Yanfei: Who could've ever guessed we'd get trapped in a place like this. It's quite the predicament...
+Yanfei: For all the studying I've done in my life, all I know is how to land people in prison... I don't know the first thing about breaking out of one..
+Yanfei: I've even made a contract with my father to "live a happy life"... I can't give up hope now.
+Yanfei: Try and stay positive... At least I've explored a new place and seen more of the world while reuniting with some old friends.
+Yanfei: Uh-huh.¡­. Yeah, there's still a silver lining. I guess...
+Yelan: Our situation is grim. There doesn't appear to be a way out for now. We should be prepared to stay for a while.
+Yelan: Fortunately, we don't seem to lack supplies, and even our motley crew has people who can keep their cool when the stakes are high.
+Yelan: Just focus on taking care of yourselves, I'll figure out the rest.
+Arataki Itto: That's it, I wanna take another look. And this time, I, Arataki "The One and Oni," will...
+Kuki Shinobu: Boss.
+Arataki Itto: Whoa! What's up, sourpuss?
+Kuki Shinobu: Time for some Roasted Lavender Melon.
+Arataki Itto: Huh? We're trapped in a life and death situation underground, and you're telling me it's time for Roasted Lavender Melon?
+Ushi: Moo, moo.
+Arataki Itto: Interesting, you hear that? Ushi says you're completely right... Wait, hold on, whose side are you on, Beefcake?
+Ushi: Moo...
+Kuki Shinobu: It's important to stay replenished. We must keep our energy and morale up in preparation for facing the unknown.
+Kuki Shinobu: Even Ushi knows that.
+Arataki Itto: Fine, you two... Hey are you already eating?
+Arataki Itto: Hold on. is it still warm? Oh. that does smell good... Mmm..
+Arataki Itto: Fine, yeah, we'll have a quick snack and then we'll keep looking for a way out. Hey, don't eat them all, leave a couple for me!
+Danger All Around
+In order to escape from underground, the party keeps searching for a way out after getting some rest...
+Wait till the next day
+After what feels like a long time has passed, everyone's concept of time has become hazy. No one can tell exactly how long they've been trapped...
+Paimon: Uhh, there's nothing for Paimon to do here. So boring...
+Paimon: Oh, how Paimon longs to stretch her legs and run free in the world outside again!
+Traveler£ºYou mean, fly?
+Paimon: Ugh, alright "fly free" then! Basically, Paimon just wants out of here.
+Traveler£ºJust like that, a whole day has gone by...
+Paimon: Just a day? No, it feels like we've been down here for months.
+Paimon: Maybe not months, but at least like 20 days, surely?
+Arataki Itto: Yo yo, thought I heard you chatting over here.
+Paimon: Oh, hey Bull-Chucker.
+Yanfei: Well everyone, I just completed another survey of the surrounding area, still nothing has changed today.
+Kuki Shinobu: Here, have some water and take a rest.
+Yanfei: Thank you, Shinobu. It's easy to forget to keep hydrated down here.
+Arataki Itto: Argh! Out! I want out! All I want is to cruise the streets and have beetle fights again!
+Kuki Shinobu: Boss, remember there's your image to consider.
+Arataki Itto: But it's so boring, walking around this hole every day! If only I could slurp some ramen and see the beautiful flowers again...
+Yanfei: Ramen? Wait a minute...
+Yanfei: Speaking of ramen, Traveler, are you hungry?
+Traveler£ºNot really.
+Yanfei: I'm not hungry either... But let me pose the question this way: Who is the biggest eater among us?
+Kuki Shinobu: It's definitely not me.
+Arataki Itto: Hey, what's everybody looking at me for? It's definitely not me, if anyone it's this one right here.
+Paimon: Huh? Wh-What are you looking at Paimon for?
+Yanfei: Paimon, are you hungry?
+Paimon: Um, no, Paimon's not hungry. Why do you ask?
+Traveler£º¡­
+Kuki Shinobu: Hmm, if that's the case...
+Arataki Itto: Huh? Wh-What am I missing here?
+Traveler£ºPaimon said she feels like it's been at least 20 days.
+Yanfei: Yes, I heard that too, as I was walking over. The question is, how can you not feel hungry... even after 20 days?
+Traveler£ºAnd I feel like it's only been about one day.
+Kuki Shinobu: That's also strange. Of course, everyone has different perceptions of the passage of time... but how could one person feel like it's only been 1 day and someone else 20 days?
+Arataki Itto: Yeah, now that you mention it, I feel like we've been here three, four, five days, but I don't feel hungry or thirsty at all.
+Kuki Shinobu: Although I cooked some food, it wasn't because I was hungry, I just wanted to keep our spirits up. I was planning on saving our rations so we could survive a few more days, but I haven't really felt hungry since.
+Kuki Shinobu: Now that I think about it, not only am I not hungry, but I don't feel any real signs of fatigue either... Whether I sleep or not doesn't seem to have any effect on how I feel.
+Yanfei: Yes, I concur. Resting doesn't make me feel more refreshed, and staying awake doesn't make me any more tired. Very peculiar... It's almost as if our physical state has been suspended.
+Paimon: Ooh, the more you say, the scarier it sounds... Paimon doesn't even want to think about it.
+Traveler£º(I wonder if Xiao is experiencing the same phenomenon...?)
+Paimon: Hmm? What's wrong, Traveler? Did you think of something?
+You tell everyone that you were unable to summon Xiao...
+Arataki Itto: That's pretty weird... Sounds like the little dude must be in danger.
+Kuki Shinobu: But he is an adeptus, this kind of situation should be no trouble for him. I fear that this problem underground is bigger than we thought.
+Yelan: I found something, everyone.
+Yelan: I just discovered a new path over there that seems to lead to an unknown area.
+Arataki Itto: You mean a way out? Oh, finally!
+Traveler£ºLet's go have a look.
+Paimon: Yay! You found something! Ooh, please, please be the exit!
+Kuki Shinobu: I still suspect things can't be that simple. We should all stay prepared for whatever comes.
+Paimon: Huh, Paimon doesn't see anything out of the ordinary here...
+Yelan: Appearances can be deceiving. As I was examining the wall just now, I noticed there was something unusual about this stone.
+Yelan: Seems to me that it's been created using some illusory magic... Hidden behind it lies a passageway.
+Yelan shatters the illusion.
+Paimon: Whoa, so there really is a path behind here!
+Arataki Itto: Gotta hand it to ya, that sure wasn't easy to find, but at least we can finally get outta here.
+Traveler£ºYeah, thanks to Yelan.
+Kuki Shinobu: Ms. Yelan's determination and eye for detail are certainly impressive... not to mention, you've hardly had any rest the whole time we've been trapped here.
+Yelan: It doesn't matter. I'm not tired.
+Yelan: Well, given we're all already here, we might as well go in and explore.
+Paimon: Right behind ya! Paimon can't wait to get out of this place!
+Continue exploring
+Confirm the situation inside the Domain
+Go to the breach on the platform
+Paimon: The ground... has dissolved? What's down there...
+Arataki Itto: Is that little dude called Xiao down there? We gotta help him!
+Yelan: Hold on! Something's not right here.
+Yelan: ... What's this...
+Yanfei: It appears to be a small fissure...
+Arataki Itto: What can you possibly find inside? It can't be a living person, can it, hahaha... Whoa!
+Yanfei: Conqueror of Demons!?
+Paimon: Xiao? Is that you?
+Xiao: ...
+Arataki Itto: Quit tryin' to scare us, okay?
+Paimon: Huh? Wait, is this some kind of illusion? Paimon can't touch him...
+Yanfei: Conqueror of Demons, can you hear us?
+Traveler£ºWhat happened? Are you okay?
+Arataki Itto: Hello? Little dude! Anyone home?
+Paimon: He isn't responding... What's going on here?
+Xiao: You...
+Paimon: Oh, he finally said something!
+Arataki Itto: Oh!
+Paimon: We followed your voice and found you here. But it's kinda strange, we can't touch you... How did you become an illusion?
+Xiao: An illusion...?
+Arataki Itto: Talk about a coincidence. We were just thinking you went missing and stuff, and then we heard the sound of you fighting. Pretty lucky we found you if you ask me, haha. You didn't get hurt, did ya?
+Xiao: A coincidence? Wait...
+Xiao: Something's not right... *cough* Something's wrong with this domain... Leave, now! Get out of there!
+Traveler£ºWait a minute.. xiao, are you hurt?
+Yelan: If we can, we should have him regroup with us as soon as possible.
+Yanfei: Tell us what happened and where you are now. We'll come find you immediately.
+Xiao: No, your safety is the top priority. It seems this space can...
+Yanfei: Huh? He disappeared...
+Paimon: Where'd he go? It sounded like he might be injured. We need to go help him!
+Kuki Shinobu: It seems the only option we have to explore any further is through that entrance over there.
+Arataki Itto: Heh, he's injured and telling US to be careful? It's not like we're in any danger here.
+Arataki Itto: Anyway, the secret behind whatever's going on should be in this cave, right? Don't worry, little dude, Itto's on the way!
+Kuki Shinobu: Boss, please don't go charging ahead, you're an oni, not some hunting dog.
+Arataki Itto: Don't worry, I'm invincible. Ahhh! My butt!
+Arataki Itto takes a fall.
+Kuki Shinobu: ...Looks pretty deep. Be careful, everyone.
+Jump into the breach
+Examine the mysterious door in front of you
+Paimon: Well, Bull-Chucker, how's your rear?
+Arataki Itto: It's fine... my butt is tough...
+Kuki Shinobu: Go ahead, you can cry if it hurts. I promise I'll try not to laugh.
+Arataki Itto: What! What do you mean, try not to laugh!? You should be feeling some serious sympathy for me right now!
+Kuki Shinobu: But wouldn't feeling sorry for you be a violation of your dignity? Besides, it's harder not to laugh when I'm not the one in pain.
+Paimon: Pff... hehe...
+Yanfei: Paimon, don't laugh... Pfft...
+Kuki Shinobu: It's okay, everybody. If you want to laugh at him, just let it out.
+Arataki Itto: Don't you have a heart, Shinobu? Huh, and people think I'M the monster...
+Yelan: Wait a second...
+Yelan: Xiao is not here, but...
+Traveler£ºHmm? Is that a door?
+Paimon: Seems a little out of place here, don't you think?
+Arataki Itto: Maybe it's some sort of... I dunno, an emergency shelter? There was a picture book I read once that said nice people sometimes build cabins in dangerous places, so that anyone in trouble can take shelter inside.
+Arataki Itto: Our little dude must be inside then!
+Paimon: Yeah!
+Kuki Shinobu: I wouldn't be too sure about that. Any person with a normal sense of danger wouldn't be so optimistic.
+Paimon: Wow, Bull-Chucker, looks like your subordinate is telling you what's what.
+Arataki Itto: Oh, I believe she was talking to both of us, yeah, so you can wipe that smug smile off your face!
+Arataki Itto: Aight, watch and learn, Shinobu. This is why I'm the boss and you're the deputy. If no one is macho enough to open the door, then allow me.
+Arataki Itto: Step aside.
+Arataki Itto: Once this door's open, we are outta here!
+Reiichi: Evil oni, begone... You heard me, get out of here!
+Arataki Itto: Waaah!!!
+Arataki Itto closes the door.
+Yanfei: Uh, am I seeing things, or was there someone behind the door?
+Arataki Itto: Nah! Can't be. You're just seeing things!
+Paimon: Why don't we just open the door again and see?
+Arataki Itto: Who? Uh, me?... Oh, a-alrighty, I'll open it again!
+Reiichi: All you do is goof around all day. You're a bad influence to our child... begone...!
+Arataki Itto: Aaaaah!!!
+Arataki Ito closes the door without hesitation.
+Yelan: Those people are carrying bowls... bowls full of beans. What's that all about?
+Kuki Shinobu: People throw beans to drive out oni. Boss is an oni, so they throw beans at him to get rid of him.
+Arataki Itto: Gave me the fright of my life... What are people from Inazuma doing in a place like this anyway?
+Yanfei: Calm down, now, you're a person from Inazuma too vou know...
+Arataki Itto: Hey, let's get one thing straight, alright? I'm not a person, I'm an oni!
+Kuki Shinobu: Right. but that's not the point. The question is, does this door lead to Inazuma?
+Paimon: Huh? How could that be possible? Ugh, this place is so weird. Paimon's starting to think it really is haunted
+Traveler£ºOpen the door again and see if anything changes.
+Arataki Itto: You guys go right ahead, I'm not opening it again. So, who's up? Oh, how about Paimon? Why don't you open it!
+Paimon: N-No way! Somebody else do it, Paimon's scared...
+Kuki Shinobu: Alright, I'll try.
+Arataki Itto: That's our Shinobu! Now, don't let whoever's behind that door push you around, okay?
+Kuki Shinobu: Alright, let's see what's behind the door this time.
+Gentle Woman's Voice: Still reading, Shinobu? Listen, young lady, you should keep your nose out of those books and start taking my advice... I've already found you a perfectly good job as a shrine maiden at the Grand Narukami Shrine. You'll be far better off there than...
+Kuki Shinobu: ...
+Kuki Shinobu closes the door.
+Paimon: Uh, Shinobu? Who was that?
+Arataki Itto: No way, was that who I think it was?
+Kuki Shinobu: Well, this is embarrassing. That voice was my mother...
+Kuki Shinobu: This is one place I wasn't counting on having to hear that speech again...
+Yanfei: Your mother wanted you to become a shrine maiden?
+Kuki Shinobu: The whole reason I came to study in Liyue was because I didn't want to become a shrine maiden. My family never approved of my studies, so they wanted me to work in the Grand Narukami Shrine after I returned to Inazuma.
+Paimon: From what we know about Lady Guuji, it seems being a shrine maiden is a pretty cushy job.
+Kuki Shinobu: Think of it this way: Some cats can be domesticated and kept in the house, while other cats are meant to survive in the wild... As for me, I need complete freedom and space. Although I do admit that being a shrine maiden is a decent job, it's just not for me.
+Arataki Itto: That's right, your calting is with the gang.I mean, just look at you. You rock. You're totally hardcore. C'mon, am I the only one with chills right now?
+Yanfei: It's true. You've got a good thing going. What's most important is that you enjoy what you do.
+Yelan: Gotta agree with you there.
+Arataki Itto: From the look of it, what's behind the door can change, and not only that, it always changes to something that nobody wants to see. So uh, how are we gonna get through that?
+Arataki Itto: And don't forget, we have that little dude waiting for us to save him. We need to get our rear in gear.
+Kuki Shinobu: Would any of you like to give it a try?
+Yelan: No thanks. I'd prefer not to open it if only something terrible awaits. If anyone's going to find a way . through, it's not going to be me.
+Paimon: Uh, why?
+Yelan: Because I don't buy it, that's why. I don't believe for one second that we're gonna find the Conqueror of Demons by going through that door, so I'm sure as heck not gonna be the one to get us through.
+Arataki Itto: Not gonna lie, you don't sound like you have much of an imagination.
+Yanfei: Alright, I'll try.
+Arataki Itto: Yeah! My savior, show 'em what you're made of!
+Traveler£ºDo you have any phobias, Yanfei?
+Yanfei: I'm sure I probably do... But nothing springs to mind right now.
+Yanfei: Anyway, I suppose I'll find out once I open the door.
+Ruyi: You old geezer! Out of eight pounds of salt, today you gave away three for free, sold two, and exchanged three for booze. How much money did you actually make in the end?
+Guangzhu: Huh? But didn't you tell me to sell things as I pleased? Why can't I give the customers something for free?
+Ruyi: You fool! You told the old man next door to come and fetch the salt. Well, he broke his leg on the way over, and now his son is asking for compensation! Seriously, *sigh*...
+Yanfei: ...
+Yanfei closes the door.
+Yanfei: Huh, a civil dispute... Didn't see that coming.
+Paimon: Who were they?
+Yanfei: No one in particular, but it is a prime example of the many difficult civil cases that I've had trouble handling before.
+Yelan: Hmm, so you mean you don't like handling disputes over petty matters?
+Yanfei: Not exactly, what I mean is that I don't like working with people who cannot let go of trivial grievances, especially of the kind you saw just now. They start with good intentions, but end up making a big fuss...
+Yanfei: It's not long before those good intentions plunge into injury and accidents. *sigh* It's always a shame...
+Yanfei: It's my desire to solve problems for people, that's why I became a legal adviser. It just seems that I still can't fully comprehend the complicated minds of some people.
+Kuki Shinobu: I understand what you mean... The human mind is probably both the most complicated and tragic of things.
+Yanfei: I suppose there's no need to discuss this any further. Does anyone else wanna try the door?
+Yelan: Don't look at me, I told you I'm not taking a chance with that thing.
+Arataki Itto: C'mon, Yelan! We're a team here. If you're not gonna try, then at least give us a convincing reason why.
+Yelan: In that case, then let me be perfectly clear.
+Yelan: I serve Ningguang, the Tianquan of the Qixing. The scope of my work includes some of Liyue's biggest secrets.
+Yelan: The chances are, if I open this door, there can be no witnesses left alive. Is that a sufficient reason for you?
+Arataki Itto: Oh, uh y-yeah... s-sounds impressive... Um, hey...Shinobu, who's Ningguang?
+Kuki Shinobu: She's someone who won't let you walk out of The Chasm alive if she finds out that you're prying into her secrets.
+Kuki Shinobu: Boss, you really do need to work on learning who's who in the world these days.
+Arataki Itto: Look, I knowS what I need to knowS, it's called being a free oni!
+Paimon: Oh, now Paimon gets it... Yelan works for Ningguang.
+Yanfei: Haha, yes, which is precisely why I was trying to keep her secret. We should avoid letting Yelan open this door.
+Yanfei: What about you, Traveler? Would you like to try?
+Paimon: Yeah, go for it, Traveler. Besides, you never know who could be behind that door. Maybe it could even be Xiao!
+Arataki Itto: I say give it a shot. Who knows? Maybe little dude is waiting for us on the other side.
+Traveler£º¡­
+Traveler£º(Hmm, maybe.. I'm always looking for someone...)
+Traveler£º...
+Paimon: So, wait.. What's Paimon looking at?
+Traveler£º(Is this... the Abyss!?)
+Enter the door
+Escape from here
+Talk to everyone
+Paimon: Hey£¡There you are, Traveler£¡ Whew, you sure had Paimon scared!
+Paimon: We couldn't open the door after you went in! Everyone was super worried about you. Are you okay?
+Yanfei: Did you find anything, Traveler?
+Arataki Itto: So? Did you find the person we want to rescue inside?
+Traveler£ºNo...
+Yelan: Judging by the look on your face, I'm guessing you saw something a little unpleasant in there?
+Traveler£ºYeah, I did.
+Traveler£ºBehind the door, I saw..
+Traveler£ºThe darkness of the Abyss that took my twin away.
+Paimon: Huh? How could that be?
+Paimon: Aww, don't worry. Paimon will keep searching for her with you. Cheer up!
+Arataki Itto: Ugh, stupid door! I'll smash you to pieces!
+Paimon: If Paimon wasn't feeling so exhausted, she'd help out, too... *yawn*
+Arataki Itto: Hey, what is this, nap time?
+Paimon: Whew...
+Yelan: So, let me get this straight, not only did we not find Xiao through that door, we saw all the things that we wish to avoid.
+Yelan: I'm starting to have a very ominous feeling about this domain. It's constantly changing, and its changes seem to be targeted at us.
+Paimon: Huh? What do you mean?
+Kuki Shinobu: I feel the same way. We need to watch our every step, there is definitely more to this place than meets the eye.
+Yanfei: I concur. We came here following the Conqueror of Demons, but we ended up only finding a strange door.
+Yanfei: The things we've encountered on the other side of that door are equally strange. It shows us whatever we fear the most. We are in a space that defies common logic.
+Kuki Shinobu: On top of that, Im starting to feel tired after that experience. But I thought we'd established that getting tired doesn't happen down here...
+Yelan: The phenomenon hasn't reached a lethal stage just yet, otherwise, we would have starved to death without eating for so long.
+Kuki Shinobu: I'm starting to worry that we're being affected by the changes in this space. In order to avoid the sudden accumulation of hunger and fatigue, we should eat and rest regularly from now on.
+Traveler£ºSure, that makes sense.
+Paimon: Ugh... Paimon suddenly feels exhausted. It's really tiring going through all this...
+Arataki Itto: Now that you mention it, I'm starting to feel tired too... No, no, NO! It's all just an illusion! I will not let my mind play tricks on me.
+Paimon: Whew... Paimon's whole body just feels so heavy now...
+Yanfei: Hmm, according to the current evidence, it seems our physical condition was suspended in this space before, which granted us immunity to the effects of fatigue and hunger.
+Yanfei: But now it seems that mental fatigue is unavoidable...
+Yanfei: Though we have yet to locate the Conqueror of Demons, I suggest we go back and get some rest. It'll be difficult to rescue anyone if we're on the verge of collapse ourselves.
+Arataki Itto: She's right. Hey, Lavender Melon, you okay? Want me to carry you?
+After a persistent search, you find a shortcut that takes you back to the entrance. You then return to the camp for a rest...
+Talk to everyone
+Kuki Shinobu: It's hard to believe what we've encountered...
+Traveler£ºAbout the door...
+Kuki Shinobu: Well, I suppose there's no use hiding it anymore now that everyone's seen it. What you all saw really was my biggest fear. I never want to become a shrine maiden... Who could tolerate such a boring life!?
+Kuki Shinobu: After these last few years with the Arataki Gang, I suppose you could say I've seen it all. It's taken every skill in my arsenal to constantly clean up the messes they make.
+Kuki Shinobu: Though the list of annoying things to deal with is practically endless, I am totally free in the Arataki Gang.
+Kuki Shinobu: Strolling around the streets, roasting Lavender Melons with friends in the open country... I know it sounds pretty silly, but that's the life that I want.
+Kuki Shinobu: Just don't laugh at me, okay? Otherwise, you might find yourself on the receiving end of a good beating.
+Talk to everyone
+Arataki Itto: Ushi, you sure you can't find a way back to that door again?
+Ushi: Moo...
+Traveler£ºAbout the door...
+Arataki Itto: Ah, perfect timing! I was just having a chat with Ushi about that!
+Arataki Itto: You know what? I can handle those mean people behind the door throwing beans at me. But causing trouble for you? Nah-uh, that ain't gonna fly with this guy!
+Ushi: Moo...
+Arataki Itto: What? There's nothing we can do? Listen here, Beefcake, you shouldn't give up so easily.
+Arataki Itto: Can't you have one last look for it? If you really can't find it, we'll just have to find another door. With any luck, one that connects to the outside world. You feel me?
+Talk to everyone
+Yanfei: You haven't slept at all, are you sure you're okay? This place seems even more perilous than we first thought.
+Yelan: Don't worry about me. Staying focused under pressure for as long as it takes is my specialty.
+Yelan: Now, if I'm not mistaken, looks like you've got some new ideas.
+Yanfei: Hehe, how could you tell?
+Yelan: It's my job to keep tabs on people.
+Yanfei: I figured as much. They're just preliminary ideas at this point, but I haven't completely thought them through yet. I'll tell you more once my ideas have taken shape.
+Yelan: Sure, sounds good.
+Yelan: I also have some ideas of my own. I'll fill you in after I've confirmed some things.
+Traveler£º Seems like a productive conversation.
+Yelan: Hehe, you think so?
+Yanfei: As they say, two heads are always better than one.
+Head to the place Yanfei mentioned
+Talk to Yanfei
+Yanfei: Thanks for coming to speak with me, Traveler¡£
+Yanfei: I've been thinking about this place... Since we still don't know just what kind of danger we're up against, we can't afford to delay any longer. We have to find the Conqueror of Demons as soon as possible.
+Traveler£ºThat's just what I was thinking.
+Yanfei: Don't you think it's a strange coincidence that as soon as you told us about the Conqueror of Demons, we heard his voice in that place?
+Yanfei: It almost seems deliberate... As if something was trying to convince us that the Conqueror of Demons was there in order to lure us into the unknown.
+Traveler:...
+Yanfei: I have a theory, but I can't tell the others just yet...I don't want anyone to panic.
+Yanfei: Judging from the Conqueror of Demons' reactions, I think that he was somewhere else, but his voice and image were projected to our location.
+Yanfei: ...Is it possible that we've entered into a chaotic space?
+Traveler£ºChaotic? What do you mean?
+Yanfei: We're seeing things and people that shouldn't be here... even ghosts.
+Yanfei: And we don't feel hungry because the state of our bodies is suspended. It's as if... time itself has stopped for us.
+Yanfei: If that's true, it means we've entered into a place where normal logic doesn't apply...
+Yanfei: When you put it all together, everything points towards one possibility.
+Yanfei: This is a place where time and space are thrown into chaos.
+Traveler£ºSo, when we saw him at the domain entrance...
+Yanfei: And yet - if it's truly chaotic, how did we find our friend's voice even when we had no idea where he was? It doesn't make any sense...
+Yanfei: Unless this space wanted us to hear it.
+Yanfei: Which brings me to my next point. I also have a theory about our encounter with the Conqueror of Demons earlier.
+Yanfei: I submit that we didn't actually see the Conqueror of Demons, he was somewhere else - but his status was transmitted to us through some kind of mind-bending spatial alteration.
+Yanfei: Traveler, you said you saw the Abyss in that room, didn't you, Traveler£¿
+Yanfei: At first glance, that door may seem like a prank. It shows you whatever you're afraid of. But if it manages to lure you inside...
+Yanfei: ... There's no way of knowing what might be in there. One minute, it's playing a joke to get you to lower your guard, the next, the danger is real, and it's trapped you.
+Yanfei: This space is a powerful opponent. It wants to use our minds against us.
+Yanfei: But I'm not gonna sit here and do nothing. Do you remember that small spatial rift next to the dissolving ground?
+Traveler£ºI think so.
+Yanfei: It felt like spatial magic, but it seemed much more powerful than usual.
+Yanfei: When we saw that illusion of the Conqueror of Demons, it seemed like he wasn't expecting our spaces to intersect at all, and was even more surprised that we could hear and see him.
+Yanfei: I think that this space purposely transmitted the Conqueror of Demons' voice to lure us into a trap...
+Yanfei: But I also think it didn't count on that spatial rift happening. In other words, the fact that we saw and spoke with the Conqueror of Demons was never part of its plan.
+Traveler£ºThat's why we were interrupted?
+Yanfei: Yes. Also, I had a good look around after coming back. I have a feeling that these chaotic spaces are constantly intersecting with each other, meaning that anything is possible...
+Yanfei: I think this gives us an opportunity. If the space creates phenomena meant to deceive us based on our imaginations, then we have to keep imagining, Traveler.
+Yanfei: If we try to stay calm and listen carefully... Maybe, just maybe, we'll hear the Conqueror of Demons* voice again.
+Yanfei: ...
+Yanfei: Can you feel that? Let me see... I think it's here.
+Yanfei: ...And break!
+Yanfei: Phew! I secretly learned Yelan's illusion-breaking method without her knowing. Haha, really didn't expect that to work.
+Yanfei: The sound came from behind this illusion. Let's go in and take a look.
+Try to make contact with Xiao
+Yanfei: If we try to stay calm and listen carefully... Maybe, just maybe, we'll hear the Conqueror of Demons* voice again.
+Talk to Xiao
+Yanfei: The voice is much clearer now. We're close.
+Traveler£ºIt's a spatial rift!
+Yanfei: Conqueror of Demons, can you hear me? It's Yanfei. Traveler and I are trying to find you.
+Traveler£ºXiao, are you there?
+Xiao: ...Traveler? Yanfei?
+Yanfei: It worked!
+Yanfei: Are you okay?
+Xiao: I'm fine.
+Traveler£ºWe heard the sound of you fighting.
+Yanfei: Listen to me, it's chaotic here. We may not be in the same space, but sometimes the sound can get through, which means these separate spaces intersect from time to time.
+Xiao: ...Everything is chaotic here.
+Traveler£ºFind a way to get to us.
+Xiao: No.
+Xiao: The darkness that sullies my soul is harmful to mortals.
+Yanfei: Right now, we have more dangerous things to worry about than that. This space is using our urge to find you to lure us into traps.
+Yanfei: Without you here with us, our search for you could very well lead us into danger.
+Traveler£ºPlease come.
+Xiao: So you're in danger, too?
+Traveler£º(Uh-oh, he said "too¡± ...)
+Xiao: ... There was no need for you to search for me.
+Yanfei: But we're worried about you. And earlier,Traveler was tricked into entering a dangerous place...
+Traveler:It's true.
+Xiao: ...
+Xiao: How do we meet?
+Yanfei: Conqueror of Demons, can you find out where our voices are coming from? Find the spot where our voices are the clearest and try something there, it might work.
+Xiao: ...I see. The spaces may intersect amidst the chaos....
+Xiao: ...By "try something"... Do you mean...
+Yanfei: Hurry! If we miss this chance, we might not get another one!
+Xiao: ...
+Traveler£ºXiao?
+Xiao: Stand back.
+Yanfei: ...!
+Traveler£º£¡£¡£¡
+Xiao: Phew... Hmm.
+Traveler£º(Oh no.. he looks badly injured.)
+Yanfei: Let's get him back to the camp!
+Xiao: ...
+Xiao: Now, we can avoid getting split up.
+Yelan: Oh?
+Traveler£ºThank you.
+Yanfei: A lot's happened here. But this wasn't just for our own safety. You're injured, we can't just leave you alone.
+Xiao: It's just a flesh wound. I am fine. I shouldn't let myself be a burden to you.
+Yanfei: You're not a burden. Don't think that for one second. We need you, all of us. For our sake, please, stay here. Please?
+Xiao: Fine... As you wish.
+Yelan: You're injured. Get some rest. Everything else can wait.
+Traveler£ºYes, wait until you get better.
+Xiao: Alright.
+Traveler£º (Xiao has closed his eyes and seems to be resting.. Could he be dreaming? This is quite astonishing.)
+Traveler£º(Is a yaksha who never lowers his guard capable of having dreams?)
+Talk to Yelan
+Yelan: Hmm... As expected, something strange is going on here.
+Yelan: Oh, Traveler?
+Yanfei: You're both here. Great, I want to talk to you.
+Traveler:Let's all talk. we'll put our heads together.
+You, Yelan, and Yanfei share all the information you have with each other...
+Yelan: I  also felt that the space was targeting us, but Yanfei managed to exploit its weakness. Leave it to Yanfei to find a loophole.
+Yanfei: Based on what just happened, we can now confirm our suspicions that space and time function chaotically here. In addition, we must stay vigilant to avoid the traps set for us by this place.
+Yanfei: Now that we've found the Conqueror of Demons, the next thing we need to do is find a way out.
+Yelan: I went back to the domain again just now. Although I couldn't find a new route, it wasn't a completely fruitless trip.
+Yelan: My clan has practiced magic for generations and has created some catalysts that only we know how to use.
+Yelan: I recognized something like one of these catalysts in the domain. Unfortunately, it disappeared as soon as I approached it.
+Traveler£ºWas it an illusion?
+Yelan: I think so. But it's hard to distinguish between reality and illusion here. I can't be sure.
+Yelan: Also... I am the only one out of all of us who could know what it would look like. To me, that confirms that this place really is reading our minds.
+Yanfei: Just like with that door. It's like it's alive, and testing us.
+Yelan: By reading our minds and showing us what we want, it creates the reality that we want to be true... Everything it does is either to get us to lower our guard or to wear us down.
+Yelan: If that's the case, it can only have one goal: To trap us here until we die. What else could it be?
+Traveler£º¡£
+Yanfei: ...We should prepare for the worst, but we mustn't give up.
+Traveler£ºAgreed.
+Yelan: I've always known there were secrets hidden in The Chasm. But even the Qixing have never heard about anything like this.
+Yanfei: Yelan, when we first ran into you, you said you had something to do. What were you referring to?
+Yelan: ...
+Yelan: I was looking for the truth behind the monster invasion from Khaenri ah.
+Traveler:(...Khaenri'ah!?)
+Yelan: Please keep everything I'm about to say to yourselves. No one else can know. Otherwise...
+Yanfei: We got it.
+Yelan: 500 years ago, a wave of dark beasts from Khaenri ah attacked the seven nations of Teyvat. Naturally, Liyue was also affected.
+Yelan: Under Rex Lapis's command, the Millelith fought hard to hold the frontline near The Chasm. But these were vicious beasts, and this was the most desperate battle Liyue had ever faced.
+Yelan: At a critical moment, someone distracted the monsters and led them away. Just when all hope seemed lost, the tide turned.
+Yelan: The Liyue army eventually won the war, but there were many who never returned.
+Yelan: Two of my ancestors took part in that war. and the one who made it back went insane... Everything about it was strange.
+Yelan: The current generation of Qixing knows very little about these events, and very few came back from The Chasm alive. Finding out the truth has been a waiting game.
+Yelan: The day The Chasm was unsealed, I put in a request to be transferred here so I could finally learn the truth of what happened back then.
+Yelan: But this place we've ended up in, and the possibilities we are facing... it's all far more terrifying than I'd imagined.
+Yanfei: ...
+Yelan: ..We can't give up. Right now, our number one priority has to be getting out of here alive.
+Traveler£º(The Chasm, Khaenri'ah.. What happened 500 years ago?)
+Traveler£º(And what did Xiao see back in that other space? Who was he fighting against?)
+Traveler£º(Can we really get out of here in one piece?)
+End of the Line
+After rendezvousing with Xiao, you and the others go over the curious and unsettling things you have seen underground...
+Talk to Paimon
+Paimon: *yawn*¡­..
+Paimon: Wait... Where are we..
+Traveler£ºWe're still underground.
+Traveler£ºPaimon, are you feeling better?
+Paimon: Yup, way better! Paimon just got a little fright because she's never seen a crazy place like this before...
+Paimon: Who would've thought the best guide in all of Teyvat could end up so out of their depth... Hahaha...
+Traveler:Fatigue and fear are normal.
+Paimon: Yeah. Heehee...
+Paimon: So anyway, Paimon just had the weirdest dream. There were cattle mooing constantly...
+Ushi: Moo!
+Paimon: Yeah, just like that!
+Paimon: Aw, Ushi, you were looking after Paimon?
+Ushi: Moo, moo.
+Xiao: ...
+Yanfei: Traveler, it looks like the Conqueror of Demons is awake.
+Traveler£ºHow do you feel?
+Xiao: ¡­I'm fine. Don't worry.
+Xiao: The karma I carry is dangerous to humans. Keep your distance.
+Yanfei: Well, I have adepti blood in me. So, I wouldn't worry too much.
+Xiao: ¡­ Even so.
+Paimon: What happened while Paimon was sleeping? How did Xiao get here?
+Xiao: With a little help, I was able to find my way here.
+Traveler£ºAll thanks to Yanfei.
+Yanfei: Conqueror of Demons, could you tell us what happened before you joined us?
+Xiao: No need to be so formal. Just call me Xiao.
+Yanfei: Oh, sure.
+Xiao: ...
+Xiao: It was a senseless battle.
+Xiao: I came here looking for someone, but when I found them... they weren't anything like how I expected.
+Yanfei: Madame Ping says that you usually base yourself at Wangshu Inn to guard the main road through Dihua Marsh. It's unusual for you to go looking for someone yourself... Are they an adeptus?
+Xiao: ...
+Xiao: I'm looking for a yaksha called Bosacius.
+Traveler£º(I'm sure Ive heard that name somewhere before..
+Yanfei: Bosacius... Is that one of the Five Yakshas, like you?
+Yanfei: I thought that you were the only one left. Aren't the other four... gone from the world?
+Xiao: You could say that. But Bosacius's body is the only one that was never found.
+Xiao: Yakshas deal with god's remains all the time, and w become tainted by karma. Over time, it inevitably drives us to madness... The last time I saw Bosacius, it was the day he lost his mind.
+Xiao: He left. No one knew where he went and I never heard from him again.
+Xiao: But Bosacius was the eldest of us. He once told us, as Yakshas we will experience countless wars. Whether we live or die, we must promise to take care of each other and know each others' fate, to the very end.
+Yanfei: Did he forget his promise because he lost his sanity...
+Xiao: It's possible. But I did not.
+Xiao: I am the sole survivor. So it is my duty to find out the fates of the others.
+Paimon: What made you come to The Chasm? Did you hear something about Bosacius being here?
+Xiao: Did you know that five hundred years ago, the beasts of Khaenriah invaded The Chasm?
+Traveler£ºI¡¯ve heard a thing or two.
+Xiao: That war lasted a long time. It is said that in the midst of the battle, a brave yaksha was seen putting up a heroic fight.
+Xiao: But no one knew the yaksha's name.
+Yanfei: But... there were many more than five yakshas in total. so there's no guarantee it was Bosacius.
+Paimon: Wow... But you must think it was probably him if you came here to investigate, right?
+Xiao: I am by no means certain. And I didn't have any other clues except for this one.
+Xiao: But Bosacius was proud. If he had taken part in that war, he would have announced his name. So at first... I thought the nameless yaksha couldn't be him.
+Traveler£º...You found Bosarius?
+Xiao: ...
+Yanfei: Wait, so it was Bosacius you were fighting with? Did he injure you?
+Xiao: ¡­Yes.
+Paimon: No way...
+Yanfei: The invasion of monsters from Khaenri'ah, the battle in The Chasm, and Yelan's ancestor... I have a feeling that somehow, these are all connected.
+Yanfei: Life is full of coincidences, but this is too much of a coincidence. Could this all be related to the Fantastic Compass mentioned in the will, too?
+Xiao: What will?
+Yanfei: Oh, right. I came here because of a will.
+Yanfei: Maybe it's not something you've come across much before? But both mortals and adepti sometimes write out their final wishes so somebody else will carry them out after they've passed. It's known as a last will and testament.
+Xiao: And this... can be done at any time?
+Paimon: Whoa, whoa, you wanna write a will now!?
+Xiao: It was no accident that you saw my illusion that day. This place used your desire to find me to create a trap that you would willingly walk into.
+Xiao: Pure deception is easy to spot, but the truth laced with lies can be a fatal combination. What you heard were really things that I said.
+Xiao: It made sure you heard my real voice to create panic. This one-way communication was the bait.
+Xiao: If we hadn't managed to get in touch through the spatial rift, we may well have lost someone by now. Rather than murdering in cold blood, this space seems more intent on consuming souls.
+Paimon: How is this even possible...
+Xiao: Our opponent is very clever. It is not safe to stay here.
+Xiao: Everyone, whether I accomplish what I came here to do or not, I must find a way to get you out safely.
+Yelan: ...
+Xiao: I rejoined to warn you that it's extremely dangerous here. If you stay here too long... this space may well devour you.
+Paimon: But how do you know?
+Traveler£ºWhat happens if we get "devoured"?
+Xiao: ...You might become a shadow of your former self, wandering the underground like a lost soul.
+Yelan: Sounds like you saw them too...
+Yanfei: Yelan, you're back.
+Yelan: I've been back a while. I was listening to the conversation.
+Yelan: I've seen some strange things here, too. Objects that shouldn't be here, strange figures appearing then vanishing... I don't think any of it's real.
+Yanfei: So they're just illusions?
+Xiao: At first, I had the same thought.
+Xiao: But it's not that simple. There may come a day when these illusions become real and attack you.
+Yelan: From what you were saying a moment ago, it sounds like you know a way out of here?
+Xiao: I can't say for sure... it's just a guess.
+Xiao: As Yanfei said, this space is chaotic and unstable, but it has its weaknesses. By attacking the point where both spaces connect, I was able to create a rift and move from one to the other.
+Xiao: So... If I use all the energy I have, I may be able to tear a passage out of this chaotic space.
+Yelan: Really... So powerful attacks can affect the space itself. I'd wondered if that was a possibility.
+Yanfei: Whoa whoa whoa, but what do you mean by all the energy you have?
+Xiao: ...I mean, it will take everything I've got.
+Paimon: Wait a minute, when you said you were gonna get us out safely, you mean... you're gonna stay here?
+Yelan: You can't be serious...
+Xiao: ...
+Xiao: I saw Bosacius underground. That's when I realized the horror of this place.
+Xiao: A single blast can only create a very small opening. To send you back to the outside world, I may need to continuously channel power in order to keep the tunnel open.
+Xiao: ...I know how to fight to the bitter end. I can do this.
+Traveler£ºBut if this takes all the energy you have, you' ll...!
+Yanfei: No... No way. Even if what you're saying is true, I can't agree to this.
+Paimon: Paimon neither! It's not much of an escape plan if we've gotta leave someone behind!
+Traveler£ºWe should leave together.
+Xiao: It's only a good or bad plan if there are other options to compare it to. But that's not the situation we're in right now. I doubt you'd still be stuck here if anyone had a better idea.
+Yanfei: But can you be certain that your plan will work?
+Xiao: I cannot.
+Paimon: What is wrong with you? You can't bet your life on something if you don't even know it's gonna work. It's not worth it!
+Yanfei: To conclude, I'm not agreeing to this plan.
+Xiao: What if I told you... this is my last will?
+Yanfei: You...
+Yelan: That's your strategy, huh?
+Yelan: No offense, but we have no guarantee this plan of yours will succeed, or even that it's safe.
+Yelan: You said it yourself, yakshas pose a danger to humans. You really expect us to accept your self-righteous plan just because you say so?
+Xiao: The battlefield is a treacherous place. Every opportunity you take, you put everything on the line for. If you fear sacrifice and failure, you can never be victorious.
+Yelan: I've been in my fair share of treacherous battles. So I know full well that you never bring up extreme measures like this until the very, very end.
+Xiao: ...
+Yelan: You say these things in the hope that we will understand and accept them. But if you don't even know that your self-sacrifice is going to pay off, all you're doing is hurting morale.
+Yelan: Besides, if you were really so determined to end it all, you wouldn't have given us the opportunity to share our opinions. You think you're oh-so cold and ruthless, but I'm not buying it.
+Yelan: And anyway, losing one of us so the rest can escape? Some victory that is.
+Yanfei: Yelan... Don't be so harsh...
+Yelan: ...
+Yelan: Point is, it's not time for drastic measures yet. It's possible there's a hidden passage leading to the exit that we just haven't discovered.
+Xiao: What if there isn't? Or if we don't find it? And in the . end, I'm so weak that I don't have the strength left to sacrifice myself... what do you propose we do then?
+Yelan: As things stand, there's no difference between sacrificing you and trying to find another way out in terms of the likelihood of success. If we can't say that one strategy is better than the other, we certainly shouldn't be rushing into a risky course of action.
+Traveler£º(Is Yelan seriously getting annoyed..)
+Arataki Itto: Did someone say a strong enough strike can break us outta this place? Yeah, that's right, I heard ya.
+Arataki Itto: No one's staying behind to let anyone else out. alright! Enough talk. it's time... for action!
+Arataki Itto: C'mon, whatever you are, let's see how long you manage to keep us trapped in here after I'm finished with you!
+Yelan: Easy now...
+To put an end to Yelan and Xiao's argument, and also to gain even the slimmest chance of survival, Itto drains all . . his strength to break the stone wall in front of you. Behind it lies a new path...
+Talk to Kuki Shinobu
+Kuki Shinobu: *sigh* Why do you always have to do things like this...
+Yanfei: Shinobu...?
+Paimon: What happened to Itto? Did he pass out?
+Ushi: Moo!
+Kuki Shinobu: The boss used up all his strength in one punch. Maybe that's the reason he managed to tear open a passage.
+Yelan: ...Let me see if there's any way I can stabilize it.
+Yanfei: He did this because he heard us arguing, right?
+Kuki Shinobu: The thing with Boss is, he just can't stand conflict between teammates.
+Kuki Shinobu: Whenever we get into an argument in the Arataki Gang, he always goes and does something shocking to calm everyone down.
+Kuki Shinobu: Today, he's done it again. He may not have known you for very long, but when he said he sees everyone as part of the same team, he truly means that.
+Ushi: Moo.
+Kuki Shinobu: Another thing with Boss is, he hates it when other people sacrifice themselves, but he always seems to end up doing it himself... That said, there's a slight distinction to be made with him.
+Kuki Shinobu: When he does things like this, he doesn't really think he's sacrificing himself, because he genuinely believes that he's strong enough to defeat any obstacle he's facing.
+Paimon: Giant ego alert... And wasn't he just doing the same thing Xiao suggested? So stupid!
+Traveler£ºWhy didn't you try to stop him?
+Kuki Shinobu: The boss is hardly open to persuasion. Besides, he always acts without thinking. There's no doubt that he really thought he was about to solve everything in one hit.
+Kuki Shinobu: It's not just him either. The other guys in the Arataki Gang are more or less the same. That's why they need someone like me to clean up after them.
+Kuki Shinobu: I couldn't stop him if I tried, so I might as well just let him do his thing. Besides, often his hare-brained intuition is surprisingly on point. We might punch our way out of here yet.
+Paimon: Uhh... Itto... Please tell Paimon you're okay....
+Xiao: ...I'm sorry.
+Kuki Shinobu: Don't be, you have nothing to apologize for. Both you and Yelan made some very good points.
+Kuki Shinobu: Still, if this was an Arataki Gang issue and you were one of our members, I have to say I'd side with Yelan on this one.
+Kuki Shinobu: The boss definitely wasn't sacrificing himself. He firmly believed that we'd be able to find a way out through the passage he opened up, and he's certainly not expecting to be left behind.
+Kuki Shinobu: Everyone's important. We have to support each other if we're going to get out of here. Your survival is of huge importance to some people... no, to a whole lot of people.
+Paimon: .. Shinobu...
+Kuki Shinobu: Everyone, let's all do our best to try and find a way out. There's still a chance... I'm sure we can escape.
+Kuki Shinobu: Leave the boss to me. Don't worry.
+Xiao: ...
+Yelan: Everyone, it seems this passage doesn't lead to the outside world, but deeper inside.
+Paimon: What the... so Itto's efforts were in vain...
+Yelan: No, it's still worth exploring. I'll go and take a look first.
+Yanfei: ...Aha, I see! I'm with you.
+Paimon: Uh, what?
+Yanfei: So far, I still haven't found the thing I came looking for. That magical device. Remember?
+Yanfei: If this domain has the power to project our imaginations or the things we're searching for into reality... Well, maybe I can use that to my advantage to track it down.
+Paimon: Oh, right! No wonder she keeps telling us to keep going... If it's a magical device, it must be super powerful!
+Yanfei: Well, I can't guarantee that, but it's worth a try.
+Xiao: I will find a way.
+Traveler£ºWait...
+Yanfei: Let them go. But if you were planning on going into that domain too,Traveler,then come with me.
+Yanfei: After all, I'm just a lawyer, hehe. We'll be safer if we team up.
+Yanfei: By the way, um... You and Xiao seem pretty close, huh? Yelan got a bit worked up just now, so I just wanted to apologize on her behalf.
+Yanfei: I have to say, though, if Yelan hadn't spoken out like she did, I'm not sure she would've gotten through to him. Also... self-sacrifice is something Yelan feels strongly about. She'd try to stop whoever it was.
+Yanfei: From what I know, she's lost comrades in the line of duty before, and then was rescued herself. Maybe being a survivor is what makes her so against seeing other people sacrifice themselves.
+Yanfei: How can things ever be the same again, knowing that your life was saved when others weren't? In a way, salvation can also be a burden.
+Yanfei: ...If I were her, I'm not sure if I would have done anything different.
+Traveler£º¡­
+Yanfei: Oh! Wait, one second, I'll be right there.
+Yanfei: ...Hya!
+Yanfei: Right, that's much safer. Since Itto can't fight right now, I've cast a spell to protect you guys.
+Kuki Shinobu: Thank you, Senpai. Please be careful.
+Yanfei: We will, same to you.
+Yanfei: Alright, Traveler, let's go.
+Enter the new Domain
+Talk to Yanfei
+Yanfei: What's this?
+Traveler: What a weird and wonderful scene..
+Yanfei: Look at that huge disc in the distance... Hold on, is that the Fantastic Compass?
+Traveler: It's even bigger than a cooking pot..
+Paimon: What? That's the best description you can come up with? It's way, way bigger than that!
+Yanfei: Huh, well, it seems our theory checked out. In my humble legal opinion, that's almost certainly the magical device I've been looking for. It really showed up...
+Yanfei: But, if this really is the Fantastic Compass... It's so huge! How the heck am I gonna lug that back to my office!
+Yanfei: ...Ahem, I mean, come on Yanfei, don't give up now. Let's investigate the area first, Traveler.
+Yanfei: What the...! Are they... are they Treasure Hoarders?
+Traveler£ºWhat are Treasure Hoarders doing here?
+Yanfei: They look familiar... Oh, yeah, I bumped into these rapscallions a few days ago.
+Defeat opponents
+Talk to Yanfei
+Yanfei: Phew, easy peasy. Just like last time.
+Yanfei: You know, when I ran into them before, I was working on a big commercial case. The defendant hired them to attack me, just to get back at me.
+Traveler£ºBeing a legal adviser sounds tough..
+Yanfei: Eh, happens all the time. Luckily, I'm well trained in martial arts, so taking them down was a piece of cake.
+Yanfei: But these are the exact same guys as I met last time... Is this space recreating scenes from my memory?
+Yanfei: Maybe this is one of the ways our adversary intends to devour us... unbelievable.
+Find more clues in the space
+Talk to Yelan
+Yanfei: I thought we might run into some other people here, but apparently not...
+Traveler£ºYanfei, what's that sound?
+Yanfei: The Fatui? Whose memory is this?
+The Fatui show up...
+Yanfei: Aaah, watch out!
+Yelan: Hmph, just as I thought.
+Yanfei: Yelan, you're here!
+Yelan: I will take you down no matter how many times you show up.
+Yanfei: Hey, relax, we're all together now.
+Defeat opponents
+Mysterious Voice: I mustn't give up... but can I... out of here?
+Mysterious Voice: ...I will record... thing I see... and... in the... compass..
+Mysterious Voice: ...I just... home... I'm so tired...
+Talk to Yelan
+Yelan: Amateurs. And still they dare to come after me.
+Yanfei: You've still got it.
+Traveler: That voice just now..
+Yelan: Remember how I said I'd seen some illusions myself?
+Yelan: Those were the same words I heard last time. The space seems to be reproducing that memory...
+Yelan: Now that you know, at least we're all on the same page.
+Yanfei: He said the word "fantastic"... was he talking about the Fantastic Compass?
+Yelan: Yanfei, see that thing on the ground?
+Yanfei: Yeah, we tinkered with it, that's how we met up with you. I guess it's a miniature version of the Fantastic Compass in the distance... It has a close connection to the entire space.
+Yelan: Hmm. It looks somewhat familiar, let me think...
+Enter the new space
+Talk to Xiao
+Yelan: ...Another new space.
+Yanfei: If everywhere within this space follows the same rules, there must be another small Fantastic Compass somewhere around here.
+Xiao: ...Bosacius, I can't believe someone like you would end up as a lost soul underground.
+Traveler£ºXiao£¡
+Yelan: No enemies? Hold on...
+Yanfei: Wait... is the enemy hiding itself? Oh no, we should go help him-
+Xiao: Stay back!
+Xiao: This is my fight... do not come near me.
+Defeat opponents
+???: Filthy monsters, so many people have died at your hands...
+???: I lured you here to this underground space because I found your weakness.
+Xiao: Hiding and ambushing from the dark is Bosacius's signature tactic.
+???: Die here with me!
+Xiao: Hmm...!
+Xiao: Hah... How did a valiant warrior like you die here...
+Paimon: Uh-oh, this is not going well for Xiao...
+Xiao: No matter... I know how this ends.
+???: ¡­*panting*... *panting*...
+Yanfei: Look! Bosacius is showing signs of fatigue!
+Xiao: Bosacius, Marshal Vritras... even your strength is finite.
+Xiao: But your illusion is not as mighty as you. This is not you in all your glory.
+Xiao: I wonder what Rex Lapis would think... if he saw what had become of the First Yaksha.
+??? Leave! I'll deal with the rest. We can't let the monsters get to the surface.
+???: Everyone, remember, we must hold the line at 60 miles outside The Chasm at all costs!
+Talk to Xiao
+Xiao: Ugh! . *cough*
+Xiao: Enough... phantom, be gone!
+???: Argh!
+Paimon: Xiao, are you okay?
+Traveler£ºYou haven't even recovered from your injuries yet...
+Xiao: This is my purpose. Don't worry about me.
+Yelan: So your invisible opponent was the legendary Bosacius, Marshal Vritras?
+Xiao: Yes.
+Xiao: So excuse my stubbornness. Bosacius has been missing for centuries... This may have been the last time I will ever see him.
+Paimon: He was saying something about holding the line at all costs...
+Xiao: He fought here. The nameless yaksha from the legends... it was him.
+Paimon: But didn't you say he'd always announce his name? How could his name be lost to time? ... What happened?
+Xiao: ...
+Xiao: I don't know. Maybe he forgot who he was.
+Yanfei: Because the karma you spoke of drove him to madness?
+Xiao: Bosacius had already gone mad before he disappeared. There was no way of knowing if his memories were intact.
+Yelan: He still took part in the battle of The Chasm, despite having gone mad?
+Traveler: ¡­
+Xiao: We yakshas are not a race that thrive in peacetime. It's likely that he was drawn by the scent of bloody war.
+Xiao: Slaughter is what we do best... Maybe it's the only thing we know.
+Traveler: ...
+Xiao: This battle confirmed my suspicions. As we had speculated, this space reflects information from people's minds.
+Xiao: In other words, despite going mad, Bosacius came here. The illusion we saw just now is the impression he left behind.
+Xiao: This space recreated him as he was during the battle. The way he fought was so self-destructive... He couldn't possibly have survived.
+Traveler£ºHe fought the monsters...
+Yelan: Bosacius's illusion said he'd discovered the monsters weakness and lured them underground.
+Yelan: What kind of place could this be? Defeating Khaenri'ah's monsters is no small feat, that's for sure.
+Yanfei: Guys, it could just be me, but... I think I'm suddenly feeling more tired than I was.
+Yelan: This space is really starting to affect us.
+Xiao: I believe Bosacius stayed here, underground. But now he is gone, and only his illusion remains.
+Xiao: If we don't leave, we may meet the same fate.
+Traveler£ºLet's go.
+Xiao: Time to move on.
+Xiao: You fought well, Bosacius. Goodbye.
+Enter the new space
+Talk to everyone
+Paimon: Looks like there's some information here. Shall we take a look?
+Yanfei: Okay, let's see.
+According to the letter, you can roughly conclude that several Millelith soldiers once came to patrol the area, but they became trapped just like you. No matter how much they missed home, they could never return above ground.
+Yelan: ...
+Yelan: It looks like these were letters written by the Millelith soldiers who stayed here.
+Paimon: So who's this "Boyang" they mentioned?
+Yelan: Boyang was... one of my ancestors. The one who didn't make it back.
+Yanfei: You mean, Boyang fought alongside Bosacius?
+Yelan: I believe so.
+Xiao: And the Millelith soldiers were their brothers-in-arms.
+Yelan: ...I guess now we have a pretty good idea of where everyone that went missing ended up.
+Xiao: Yes.
+Paimon: Uhhh... So scary. What happened...
+Yelan: Come on. Let's not stay here.
+Yelan: I have a gut feeling that sooner or later we'll connect all the dots... and then, we'll finally know the truth.
+Yelan: Still, who knows how this space is planning on revealing the answer to us.
+Enter the new space
+Talk to everyone
+Paimon: There's nothing here at all!
+Yanfei: What a creepy space.
+Yelan: It has the feel of the Abyss.
+Yelan: But... where are the opponents?
+Xiao: ¡­
+Traveler£º¡­.
+Traveler£ºI think this is my memory.
+Paimon: Your memory? Of what?
+Traveler£ºOf emptiness. That's the power of the Abyss.
+Paimon: The Abyss? So... this place is created purely based on your memory?
+Traveler£ºI'm afraid so. Because I will always remember...
+Travel through the Abyss
+Keep up with "the one to find"
+Paimon: *gasp* It's... it's...
+Traveler£ºLumine! Wait!
+Catch up with "her"
+Talk to everyone
+Paimon: Huh? What's that shiny round thing on the ground?
+Traveler£º(t looks like..)
+Yanfei: ... The Fantastic Compass?
+Yelan: In the other spaces, the Fantastic Compass was always partially buried in the ground. But this one is lying flat, intact... as if somebody left it here.
+Paimon: Oh... she was just a figment of your imagination.
+Traveler: ...?
+Paimon: So she appeared as an illusion because you miss her so much, huh?
+Traveler£ºI can sense that she is not here.
+Traveler£ºBut at least we found this.
+Paimon: Mmm...
+Yelan: Yanfei, are you sure this is the Fantastic Compass you're looking for?
+Yanfei: I think so. There were no pictures in the will, but based on the description, it seems to check out.
+Yanfei: Yelan? What is it?
+Yelan: From the design and build, this Fantastic Compass looks extremely similar to the catalysts used by my clan. I just need to do this, and...
+Yelan: ...Hmph, someone's used this before. There may be a hidden message inside.
+Yelan: Let's get out of here and find somewhere safer.
+Leave the place you are in
+Xiao: Bosacius was the leader of the Five Yakshas under Rex Lapis's command. He could control Electro energy.
+Xiao: Unlike me, he was both a formidable warrior and a talented commander.
+Xiao: ...
+Yanfei: Now that I've found the Fantastic Compass, my work here is done.
+Yanfei: But if the Bosacius we saw was just an illusion, will we really be able to take anything we find here back to the outside world? Hmm...
+Yelan: Within Yin and Yang, among the five regions, water, fire, wind, and thunder cycle like the seasons. Grasp the seven heavens from the ground, open wide the three gates, all the world within reach...
+At Tunnel's End, Light
+You and the others make a valiant joint effort and finally manage to escape from the underground at the very last minute...
+Talk to Yelan
+Yelan: Well, well... This is not what I was expecting...
+Paimon: Ooh, seems like you've made a new discovery?
+Yelan: This information was left by a thaumaturge called Boyang... who, as you know, is the missing ancestor that I came here to investigate.
+Paimon: All this information... it was left by your ancestor?
+Yelan: Hundreds of years ago, two of my ancestors, brothers, were gifted the Fantastic Compass by someone of great importance. They brought this device to The Chasm and joined the war against the monsters of Khaenri'ah.
+Yelan: They set out together, but only one of them made it back... minus his sanity.
+Xiao: Karma.
+Yelan: Correct. One possibility is that when they fought alongside Bosacius, they were tainted by his karma. Neither of them had Visions, so they wouldn't have been able to resist its effects for very long.
+Yanfei: From reading through this, it sounds like Boyang... ended up staying here for good, too.
+Yelan: ...
+Yelan: Ugh, well this is just wonderful! So that's it, there's no way out?
+Paimon: What do we do? Are we going to die here? But Paimon doesn't wanna die!
+Seized by fear, Paimon accidentally knocks the compass down in panic. When Yelan and Xiao both reach out to pick it up, the compass seems to react to their touch. Seeing this, Yanfei has realized something...
+Yanfei: I just had a thought. Gimme a second, I just need to double-check.
+Yanfei: Aha. Mm-hmm.
+Yanfei: Traveler£¬I just realized something. Okay, so on my way here, I was studying the will the whole time, but I didn't give any thought to the book that the will was inside of.
+Yanfei: I don't know it verbatim, but I have read it before. The gist of the story goes like this:
+Yanfei: Millennia ago, an adeptus made a magic device to seal away evil monsters. Later, he made good friends with a human, and gave the device to him to use as a catalyst.
+Yanfei: A few years later, great demons haunted the mountains. The mortal and the adeptus joined forces to exorcise them using this same device.
+Yanfei: And that's not all. The book also says this: "When mortal and adepti powers are combined, one can move the heavens and shake the earth. This contraption is proof that mortals and adepti may coexist, that there is unity between heaven and humanity.'
+Yanfei: I have both adepti and human lineage. Maybe my power can work...
+Yanfei: It worked! I mean, the effect only lasted an instant, because I'm not strong enough... but still, we must be on the right track.
+Yanfei: And look! Something seems to have been activated inside the Fantastic Compass...
+Bosacius: By heaven's might and the gods of the five regions, yaksha and mortal together take this contraption in hand...
+Yelan's Ancestor: By heaven's might and the gods of the five regions, yaksha and mortal together take this contraption in hand...
+Yelan: That's their voices from when they made the seal. Bosacius and my ancestor... they sealed off this space at the top together.
+Xiao: ...
+Yanfei: ...I see. It makes sense now.
+Traveler£º(Hold on, that huge crystal I saw in the bottom of The Chasm...)
+Traveler: (I remember when the crystal hit the Ruin Serpent... there seemed to be an opposing force.)
+Traveler£º(Was it that opposing force that delayed the awakening of the space that has now swallowed us? Or did the impact weaken the entrance on the ground?)
+Traveler£º(Also.. We haven't seen any Abyss monsters in here. Could this all be connected?)
+Yanfei: Everyone! Let's go back and meet up with Itto and Shinobu. I have a suggestion to make.
+Paimon: Paimon can barely move anymore... Wah, why can't we get out of here, Paimon doesn't wanna die, Paimon wants to stay with you, Traveler¡­
+Yanfei: Paimon, just hang in there, okay? Trust me. There's still hope.
+Xiao: Let's go.
+Go back and meet up with the ones left behind
+Yanfei: Shinobu, Itto, we're back!
+Traveler£ºHow's Itto doing?
+Kuki Shinobu: He must be exhausted, because he still hasn't woken up yet. But he's not in any serious danger. So don't worry.
+Kuki Shinobu: What about you guys? You found something, didn't you? It's written on your faces... but whatever it is, it's bad news, isn't it?
+Paimon: Umm...
+Yelan: We found the Fantastic Compass. The previous owner left a message inside, and from the looks of it... there really is no way out of this space after all.
+Yelan: It seems like the previous owner was stuck here forever, too.
+Kuki Shinobu: Shoot.
+Yanfei: This isn't over yet. Listen to me, just now I tried channeling my power into the Fantastic Compass, and it responded.
+Yelan: But all that did was activate the records from when the seal was created.
+Yanfei: Right, but the issue wasn't with the compass. It was with the method.
+Yanfei: Remember what the book says? "When mortal and adepti powers are combined, one can move the heavens and shake the earth."
+Yanfei: Only when a mortal and an adeptus combine their powers can the Fantastic Compass be fully activated.
+Yanfei: I'm a mix of human and adeptus, so the fact that the Fantastic Compass responded to me shows that the system is still functional. Lucky for us, we also happen to have a full adeptus and a human with training in the magic arts.
+Yelan: ...Interesting. So that's what was going through your head.
+Traveler£ºXiao and Yelan need to cooperate?
+Kuki Shinobu: So an adeptus and a human need to channel their power at the same time?
+Yanfei: Yes. If my guess is correct, then when both of you put your full power into the Fantastic Compass, we should be able to completely reactivate it... maybe even reverse it.
+Yanfei: Last time, it was used to seal the intersection between this place and The Chasm. If we can reverse it...
+Kuki Shinobu: Then we're home free.
+Paimon: Awesome! So there's still hope?
+Yanfei: You bet.
+Xiao: ... Your idea seems reasonable.
+Yelan: Okay, well let's all take a quick break. We'll give this thing a try once we're ready.
+After everyone has had a rest...
+Paimon: Oh boy£¬Traveler£¬Paimon's so nervous...
+Traveler£ºDon't be afraid. This is going to work.
+Yanfei: Yelan, Xiao, how are we looking?
+Yelan: I'm all set.
+Xiao: I'm ready.
+Yelan: Oh, but Yanfei, there's one thing you might need to mentally prepare yourself for.
+Yanfei: Hmm?
+Yelan: I'm afraid you probably won't be able to take the Fantastic Compass out of here. From what I can tell, everything within this domain is the result of disordered spacetime and memories.
+Yelan: We all came here for different purposes, and everything that's happened here has been in response to our own imaginations and conjecture. Terrifying, but also a miracle.
+Yelan: This "space"... well, it's more than just a space. Whether there's some kind of higher power at work here, I don't know, but... the whole time, it's been reading our minds and responding to us in the form of illusions.
+Yelan: Also, according to the history of The Chasm, this place must've existed for a very long time... What could've created it?
+Traveler£ºI remember a giant snake just outside this space..
+Yelan: Oh, that. Yeah, I was there, too.
+Paimon: Huh? Wait a second... it was you that shot that arrow!?
+Yelan: Who else did you think it was...?
+Traveler£ºWhen the crystal attacked the giant snake..
+Yelan: That snake is probably a remnant of Khaenri'ahn civilization... And crystals are highly effective against it... Maybe there was some sort of opposing reaction between those two forces?
+Yelan: If so... I'm extremely sorry, everyone. It looks like I might be the one responsible for all of this.
+Paimon: No, no, you're just trying to help us and solve the problem! You're definitely not to blame for what happened.
+Yelan: ...If you say so.
+Yelan: You could almost liken this bizarre space to a living being that throws all kinds of hallucinations at us to deceive us. Everyone we've seen here, and all the paths we've walked... it all ceased to exist 500 years ago.
+Yelan: Additionally, most of the things here are static. So if we really do manage to escape, then once time starts moving normally again... the Fantastic Compass will likely disappear.
+Yanfei: That's actually what I think, too. That's precisely why it's such a miracle that we even found the Fantastic Compass to begin with.
+Xiao: This whole thing feels like we're breaking free from our shackles using a spear that by rights should not exist. .
+Yelan: This is a long shot, but it may be our last chance... so, whose wish was it that summoned this device?
+Traveler£ºPerhaps it was all of us.
+Yanfei: Perhaps it was. But maybe there's another reason: your incredibly strong commitment to your search.
+Yanfei: It's a shame that we couldn't find your family... But if they were here, I'm sure they'd want nothing more than to see you being rescued from this place.
+Traveler:...Yeah.
+Yelan: I gotta say, it does intrigue me, the way we all ended up here together.
+Yelan: If this is fate, then let's grab it in our hands and turn it around.
+Kuki Shinobu: Leave the boss to Ushi and me. We're ready.
+Yelan: Traveler, take care of Paimon. Yanfei, you might need to come closer to me when the time comes.
+Yanfei: Sure.
+Traveler£ºAlright.
+Xiao: ...
+Yelan: ...
+Yelan and Xiao activate the compass together. Then, Xiao enters the formation to maintain its energy flow while Yelan wards off the ominous shadows drawn by the changes. Amidst the fight, a piece of memory resurfaces in your mind and seems to evoke a foggy image of something. Xiao, too, recalls the meeting with Zhongli before his departure.
+With an increasing amount of energy channeled into the formation, it opens up a path but also plunges you into danger. Blurry, shadowy figures, which are formed from an unknown and ominous power, launch wave after wave of attacks. Knowing that time is running out, Xiao drains the last ounce of his energy to send everyone out - except himself, who falls into the darkness in exhaustion. At this dire moment, a bolt of energy brings Xiao out of danger as if by miracle, but none seem to know who the mysterious savior is. Meanwhile, far away on the top of The Chasm, someone leaves quietly.
+Talk to everyone
+Finally out of the danger zone, everyone rests and starts chatting...
+Yanfei: That was close! I thought you were gonna get left behind... I'm so glad you're okay, that was terrifying...
+Xiao: ¡­Hm.
+Yelan: I know what you were thinking, but...
+Yelan: Never mind. I know I can't talk you out of a mindset that's been built up over a lifetime.
+Yelan: I don't think we were ever going to reach an agreement over the final strategy. But in the end, it was thanks to you that we managed to escape. So thank you for saving us all.
+Xiao: ...
+Xiao: No. I could not have done this on my strength alone.
+Traveler£ºSo thanks to you, too, Yelan.
+Yelan: Don't mention it.
+Yelan: Looks like everyone got out unscathed, but you all look pretty exhausted. Rest up, there's no hurry to move on from here.
+Yelan: As for me, I'm gonna check the area for any unusual activity.
+Paimon: She's gone... Paimon didn't even get to say thank-you.
+Yanfei: Maybe Yelan really doesn't believe she made a contribution. It seems like she's convinced Xiao saved us all... including her, and she doesn't know what to say to that.
+Yanfei: And since it's not easy to persuade Xiao of anything. Maybe Yelan's just given up trying to talk to him.
+Paimon: Xiao, she's criticizing you.
+Yanfei: Am not!
+Xiao: You speak only the truth. I have no quarrel with that.
+Xiao: I will keep your words in mind.
+Traveler£º Seems like you got through to him.
+Yanfei: Really? Well, that's great. I count that as quite an achievement.
+Yanfei: It was a perilous situation we were faced with underground, and it took every single one of us for any of us to make it out alive. I feel lucky that we didn't lose anyone along the way.
+Paimon: Hey, so Bull-Chucker still hasn't woken up yet... surely he's not gonna stay asleep forever? Is he?
+Traveler£ºI doubt it.
+Paimon: Let's go check on him!
+Arataki Itto: *yawn*! Ah, I slept like a rock, good times... Huh? What're you doing? What's going on? Why you looking at me like that?
+Kuki Shinobu: Are you in any pain?
+Ushi: Moo, moo!
+Paimon: Mm-hmm, mm-hmm, the head? What about it? Is there any brain damage from the impact?
+Yanfei: You need to tell us if you're not feeling well.
+Paimon: You weren't that bright to begin with. so if we add brain damage to the equation... oh brother...
+Arataki Itto: The heck are you guys talking about? I¡¯m fine! I had an epic power nap, and now I feel like a million Mora.
+Arataki Itto: I feel like I'm forgetting something, though...Oh, yeah! Wait... Weren't we underground? How did we get back up here?
+Yanfei: It's a long story. We'll fill you in later.
+Yanfei: Itto, we're indebted to you, Shinobu, and Ushi. We couldn't have escaped this predicament without your help.
+Yanfei: I'm the reason you all got caught up in this. Please accept my apologies and let me find some way to compensate you for the trouble!
+Arataki Itto: Ah, crazy talk. You helped us first, of course we were gonna return the favor.
+Arataki Itto: Hey, if it weren't for you, we'd still be in a Liyue jail cell right now!
+Kuki Shinobu: That's not quite correct. You'd be in jail, not me.
+Ushi: Moo.
+Yanfei: Hahaha, good point. Well, okay then, how abot this: To celebrate our newfound friendships, how about you let me take you to Liyue Harbor for some sightseeing and a proper meal?
+Arataki Itto: I like the sound of that! Now that you mention it, whew... I am famished... I can barely walk here...
+Kuki Shinobu: I'm hungry too, Senpai. Why don't we head straight over?
+Paimon: Paimon too, Paimon wants to come too!
+Traveler£ºPaimon, we have other things to do.
+Paimon: Huh? Ugh, fine...
+Yanfei: Alright£¬Traveler£¬well I promise Tu take good care of your friends from Inazuma. Take it easy, okay? What we just went through was a lot.
+Traveler£ºYeah. This has been tough on everyone.
+Yanfei: Oh wait, Yelan left already... I was gonna treat her to some tea, but I'll take this to mean we're square, hehehe.
+Ushi: Moo! Moo, moo, moo!
+Arataki Itto: Hmm? Oh yeah? Is that right, whoa... Okay, I'll let them know.
+Arataki ltto£ºTraveler£¬Flying Lavender Melon, Ushi has a couple of words he'd like you to pass on for him.
+Traveler£º?
+Paimon: What?
+Kuki Shinobu: Oh, I wanna hear this.
+Yanfei: Me too. Count me in!
+Itto translates what Ushi said for everyone...
+Paimon: Good idea. Let's do that!
+Traveler£ºOkay.
+Paimon: Paimon never would have guessed that Ushi was so gentle and thoughtful... Never judge a bull by its cover, huh.
+Ushi: Moo.
+Kuki Shinobu: Sometimes the profoundest truths can also be the simplest. I think Ushi's words may well come in handy.
+Paimon: You betcha, just leave it to us.
+Yanfei: Alright, Itto, Shinobu, Ushi, let's go.
+Arataki Itto: Aw yeah! Grub time!
+Ushi: Moo!
+Kuki Shinobu: See you next time.
+Xiao: ...
+Traveler£ºXiao.
+Xiao: Finished taking care of business?
+Paimon: Oh, there wasn't any "business"... we were just saying goodbye to our friends.
+Yelan: Huh, you're still here.
+Yelan: I saw the two Inazumans leave with Yanfei, heading towards Liyue Harbor.
+Yelan: Aren't you going with them?
+Paimon: We still had some stuff we wanted to say to Xiao.
+Yelan: Hmm, I figured as much.
+Yelan: I've checked the area, nothing strikes me as out of the ordinary. Looks like this chapter has come to a close.
+Yelan: Now I just need to take care of the confidentiality issues. Hehe... Let's hope our friends from overseas can keep their mouths shut, for their own sakes.
+Paimon: Uhhh, we got it, we got it! We'll make sure they don't say anything, please don't hurt them!
+Yelan: Oh?
+Traveler£ºYou' ve got a mean streak, Yelan.
+Yelan: You've figured me out, huh? Hahaha. Alright, I'll quit pulling your leg.
+Yelan: Everyone really rose to the occasion this time. I won't ever forget what we went through.
+Yelan: Where could that strange space have come from... and how has it existed down there undetected for so many years...
+Yelan: I have to investigate this further. I have a feeling that whatever lies behind all this runs deep... maybe so deep that no one can be allowed to know.
+Yelan: Also, I think someone helped us out at the last minute... They did a good deed, of course, but somehow I couldn't tell anything about them. It must've been someone of great importance.
+Xiao: ...
+Yelan: Anyway, these questions will have to wait for another time. I have some follow-up work to do and reports to make, so it's back to Liyue Harbor for me. See you when I see you.
+Paimon: Bye, Yelan!
+Traveler£ºAlright.
+Xiao: You knew I was waiting for you?
+Traveler:Yes, it was obvious.
+Xiao: Really...
+Xiao: There's somewhere I want to go. If you have the time, you can join me.
+Paimon: Where is it?
+Xiao: A place that has to do with the yakshas.
+Go to the place Xiao mentioned
+Talk to Xiao
+Xiao: The temple up ahead was built to remember Pervases.
+Xiao: ...Maybe I came here because I had a realization.
+Paimon: You mean back when we were underground?
+Traveler£ºWhat did you realize?
+Xiao: It's hard to put into words... Seeing Bosacius gave me the false impression that I'd traveled back into the past.
+Xiao: ...You could dress up the yaksha's life and call us valiant warriors, veterans of war, but... the truth is, we are slaughterers, and nothing more.
+Xiao: For Bosacius, perhaps dying in the heat of a great battle was no tragedy.
+Xiao: And perhaps the same is true for me. After living for so long... to die in the act of saving others would not have been a terrible thing.
+Traveler£ºI think you know that that isn't true.
+Xiao: Mm. So maybe... these thoughts are my own form of insanity.
+Paimon: Hey, don't say that...
+Traveler£ºXiao, we've got something to tell you.
+Paimon: Oh, yeah! Ushi wanted us to tell you. It's very important.
+Xiao: Hmm?
+Paimon: Ushi said he has the power to exorcise demons, so people use him to fend them off. But after he met Itto, he's never left his side.
+Paimon: He also said that he doesn't have any grand philosonhies he inct thinks we should spend our lives around the people who make us happiest.
+Paimon: Maybe there aren't so many rules about how we should or shouldn't live our lives in this world after all. So... he hopes you can come to understand that even though the power of a yaksha may be harmful to other people, it doesn't mean you shouldn't hang out with them.
+Traveler£ºThere will always be someone willing to be by your side.
+Paimon: Yep, like people with Visions - they have more resistance against your power, right? And, and... Well, anyway, there's loads of people out there who really care about you!
+Xiao: Hah. Suddenly, you sound a lot like Bosacius and the others.
+Xiao: They used to talk about how they hoped to live a mortal's life once the world was at peace. I think... I was the only one who didn't think that way.
+Xiao: The Bosacius recorded in the Fantastic Compass had lost his sanity. He addressed the people around him as "Alatus," "Menogias," and others. These are the names of the Five Yakshas.
+Xiao: I am Alatus, and Menogias is General Kapisas.
+Xiao: The others are Bonanus, or "General Chizapus," and Indarias, or "General Musatas." I heard that people call the five of us "Yakshas: The Guardian Adepti"... Hah.
+Xiao: Bosacius and elan's ancestor stayed underground to the end. So that space must have read their minds in their last moments as they approached death.
+Xiao: Yelan was right in everything she said. Both of our proposals had their drawbacks. and both were sensible suggestions. But the power of that space was far beyond all of us.
+Xiao: I couldn't have done all I did without everyone's help. Even in the final moments, it took every bit of my power to break free from that place..
+Paimon: Well Paimon still thinks you were amazing!
+Xiao: ... Yanfei and Yelan are correct. I always prepare for the worst-case scenario. This mindset is deeply rooted in me... Even so, it was the most optimistic solution I could think of.
+Xiao: If Rex Lapis hadn't saved me in that moment, I don't think I would've been able to escape.
+Traveler£ºSo that was Zhongli's power back there..
+Xiao: In the end, I still had to burden another.
+Paimon: But that's how it should be, right? You've known Zhongli... uh, Rex Lapis for such a long time, and you've helped him before. So he helped you back, what's the big deal?
+Traveler£ºAgreed.
+Xiao: ¡­Perhaps.
+Xiao: In the moment that we escaped from that space, I could sense what was left of Bosacius's memory. If I had to say what I gained from this trip, I think that would be it.
+Traveler£ºI think I felt it too.
+Xiao: ¡­It's good that one more person will remember him.
+In the depths of The Chasm, the yaksha Bosacius and the thaumaturge Boyang once supported each other when all hope seemed to have been lost. Bosacius - overtaken by madness and had forgotten his identity and past - often mistook Boyang for his brothers and sisters in arms. As time elapsed quietly, Boyang eventually realized that he could never reunite with his family, and that Bosacius, his only companion here, was reaching the end of his life. Bosacius might have been seeing visions on the wall, for his family - four yakshas each holding a light in hand who were now in the form of shadows - walked past him. In Bosacius's last moments, the yaksha finally recalled his name and past: that he was Bosacius, and his name means he was destined to make the ultimate sacrifice.
+Xiao: I've said so much today. But I don't need to hold back as much when I talk to you.
+Xiao: Have you ever had a moment where you felt like you were aware of your destiny? The potential of life, the approach of death... whatever it might have been.
+Xiao: By now, I have accepted that destiny is the one disaster that the yaksha knows most keenly of all. We are destined to misery... and yet we have no fear.
+Paimon: ¡­ Xiao...
+Traveler£ºAre you sure it's okay for you to tell me all this?
+Xiao: It matters not. Rex Lapis had said that you are a witness. It is right that the events of the world are relayed to you.
+Xiao: Bonanus, Menogias, and Indarias all perished, and only Bosacius's fate was unknown. This has always stung my heart like a thorn. That is why I went to The Chasm, despite being fully aware of the danger.
+Xiao: ...Now that I know what happened in The Chasm back then, I can finally put this matter to rest.
+Xiao: Before we left that place, I picked up a stone. I thought if I could take it out with me, I would place it in the temple to Pervases in memory of Bosacius.
+Xiao: Unfortunately, the stone did not survive.
+Xiao: Pervases died in the Archon War thousands of years ago. He was younger than us, and Bosacius was very sad when he passed.
+Xiao: Too many yakshas have become casualties of battle. We are like a flock of birds scattered to the four corners of the world. And in the end, as Bonanus said... it's rare for a yaksha to find repose for their soul.
+Xiao: Bosacius, Boyang, and all those soldiers...
+Traveler£ºNo, Xiao... They are all heroes.
+Xiao: Heroes...
+Xiao: ¡­I like that word.
+Xiao: Maybe the world will never be free of disaster. But there is good in the world, too. Even the darkest hearts have room for those they cherish.
+Xiao: I accept your advice. From this day on, heroes will always look out for each other.
