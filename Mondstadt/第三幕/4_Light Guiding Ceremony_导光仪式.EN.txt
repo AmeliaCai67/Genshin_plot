@@ -1,0 +1,24 @@
+Light Guiding Ceremony
+The entrance to Stormterror's Lair is just ahead, but the light seals bar the way in. You must once again face a trial in order to break those seals
+Investigate the seal at the top of the tower
+Venti: Oh, we can't advance any further. The ruins seem to be guarded by ancient seals.
+Paimon: Is this the work of Dvalin?
+Venti: No. These ruins were once part of an ancient city. Dvalin just happens to be nesting in these ruins for now.
+Venti: These ruins even predate the existence of The Four Winds.
+Venti: Mondstadt is a city without a ruler. However, before it was...
+Venti: It was ruled over by a tyrant.
+Venti: Anyway... I'll sing you that story when we have a chance in the future.
+Diluc: The markings on this seal... If my archaeological knowledge is not mistaken, this appears to be a light actuator.
+Diluc: If we retrieve and reintegrate all the parts, we should be able to get it working.
+Jean: We should be close to completing the ceremony for this actuator.
+Jean: Let's put the last part back and see.
+Talk to Venti
+Venti: Looks like we're right.
+Venti: There are three more halos circling the tower.
+Jean: Which means, there are three more corresponding light actuators to activate.
+Jean: I can see one from here.
+Jean: The rest must be scattered within the ruins around here. Let's go find them.
+Paimon: ...Why did Dvalin pick a place filled with puzzles and seals as his lair? Doesn't he get annoyed coming back home?
+Venti: He doesn't walk in, he flies in.
+Paimon: ...You do have a point.
+Unlock the three Light Actuators

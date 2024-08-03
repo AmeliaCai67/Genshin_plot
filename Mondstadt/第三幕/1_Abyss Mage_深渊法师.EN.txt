@@ -1,0 +1,61 @@
+Abyss Mage
+You used the Holy Lyre der Himmel to summon Stormterror, only to be prevented from saving it due to the interference of the Abyss Order. But you haven't given up yet - and Diluc has been able to swiftly obtain a new lead...
+Meet Diluc at the Winery
+Talk to Diluc
+Diluc: The Abyss Order... Enemies of the human race. Even the underground networks rarely come across any information on them.
+Diluc: With that said, it was a bit of a hassle, but I managed to dig up a few clues.
+Venti: Really? That quickly? You really are well connected, Master Diluc.
+Paimon: Come to think of it, Mr. Big Anemo God Barbatos - why exactly do you need the help of mere humans...?
+Venti: Ahh... How do I put it...
+Venti: "The Seven" as people now know them, were once known as "The Seven Archons."
+Venti: Each archon presides over their own part of Teyvat. That is the role the archons play.
+Venti: Only in performing this duty can we attain power, but I don't like the idea of "ruling" Mondstadt - and I don't feel Mondstadt would really like it either.
+Jean: "Go forth and establish a city of freedom without rule." We have not forgotten Barbatos' wish for Mondstadt.
+Paimon: Jean... You're such a devotee!
+Paimon: Maybe someone got a little too free and is just too lazy to care...
+Venti: Ahh... However it may have come to be... I haven't been back to Mondstadt for an extended period of time.
+Venti: Without a doubt, I am now the weakest archon among The Seven!
+旅行者: And yet you sound almost proud...
+Venti: Aww, you flatter me.
+Diluc: Oh, such a humble god... Is it a blessing, or a curse?
+Diluc: But we digress. Let's get back to the topic at hand: the common enemy of all mankind.
+Diluc: We have tracked the Abyss Mage to the vicinity of the winery.
+Jean: I cannot stress enough how important it is to not let it escape.
+旅行者: Let's hunt it down!
+Defeat the assailants
+Venti: Huh? What's this...
+Venti: After the Abyss Mage was defeated, a certain energy dispersed from its body...
+Venti: It seems that energy was being used to cut off the connection between me and Dvalin.
+Venti: ...
+Venti: 旅行者, do you know of Stormterror's Lair?
+旅行者: Nope.
+Venti: But Jean and Master Diluc are no doubt aware of it.
+Venti: After Dvalin woke up, he took the ancient ruins as his lair
+Venti: As it was with the storms that previously cut Mondstadt off from the outside world, the entrance to the ruins is also sealed by a special barrier.
+Venti: But now, as the energy dispersed from the Abyss Mage, I was able to read the rhythmic flow of how the barrier's magic was woven.
+Venti: I must admit, it sounds even more horrendous than a chorus of hilichurls, but...
+Venti: ...lt should be enough to let us break through the storm barrier and reach Stormterror's Lair.
+Diluc: Which means we're going to confront Dvalin?
+Diluc: I'm fine with that... Jean is the one who wishes to avoid any direct confrontation.
+Jean: No. When there are no other options left, it is my responsibility to alter our course of action.
+Jean: If slaying him is our only choice, I will gladly become the knight that leads the charge.
+Venti: Fortunately, we have yet to need to go that far.
+Diluc: Hmm?
+Jean: By that, you mean...
+Venti: I mean that the Holy Lyre is not our trump card.
+Venti: Our real trump card? 旅行者 of course.
+Paimon: 旅行者?
+旅行者: Is it because I purified the Teardrop Crystal?
+Venti: Agreed.
+Venti: The impurities in the tears, and the curse that binds Dvalin belong to the same maleficent power.
+Venti: Which means...
+Paimon: You Tone-Deaf Bard, don't you see how crazy this is?
+Paimon: You've seen what Dvalin is like when he's ticked off! 旅行者 will be swallowed whole before she even gets to lift a finger!
+旅行者: Weren't we just talking about how I can fight?
+Diluc: ...Hey.
+Diluc: Nice plan. Worth a shot.
+Jean: I am with you, Honorary Knight!
+Paimon: Ho~! So we just need to fight monsters from the abyss... and a dragon! No pressure or anything.
+Diluc: Humans aren't without their strengths. Let's go.
+Venti: And so...
+Venti: The epic actions of brave heroes finally leads to this eleventh hour.
