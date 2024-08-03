@@ -1,0 +1,406 @@
+Shadow of Yore
+You and Paimon recognize a familiar face as you come aboard the Pearl Galley...
+Go to the Pearl Galley
+Meet Zhongli at the tableside
+Zhongli: Oh? I didn't think I would see you here.
+Wanyan: Are these two your friends?
+Zhongli: Yes, we had the fortune of meeting Traveler not too long ago. They are quite a knowledgeable and talented pair, and a pleasure to be around.
+Zhongli: Traveler£¬we were just discussing the history of Rex Lapis. Would you like to listen?
+Hanxue: This good sir seems not to appreciate the almighty power of the Lord of Geo. As a professional archaeologist, I am inclined to correct some of his erroneous views.
+Traveler£ºActually, he is...
+Hanxue: We are discussing the whereabouts of the first Mora.
+Paimon: The first Mora?
+Yixuan: As everyone knows, the Lord of Geo taught the ancient people of Liyue the craft of smelting, creating goods that allowed them to develop trade with the early nations of that time.
+Yixuan: Today, Liyue holds the sole right to cast Mora in the entire continent of Teyvat. The world's very first Mora should have been cast by the hands of the Lord of Geo himself thousands of years ago.
+Wanyan: According to my research - as well as my own hypothesis - I believe that this coin of unique historical significance has been passed down secretly through the years as a kind of token.
+Wanyan: For example, perhaps the Qixing who control Liyue use it in some kind of unknown ceremony they hold when they come to power...
+Hanxue: No, no, no... My research indicates that the first Mora coin is not such a simple thing.
+Hanxue: Mora is a catalyst - this we all know. Even today, Mora is used in the mystic arts for its curious properties of weapon enhancement.
+Hanxue: The world's first Mora would no doubt possess the strongest power. My next historical treatise will boldly expound on the newest findings from my intense, decade-long research!
+Hanxue: That is, that the Lord of Geo used this original Mora as a catalyst to enhance a dagger and a sword.
+Paimon: "A dagger and a sword"?
+Hanxue: Well, buy the book when it comes out to read the full story. For now, I will only reveal this: the one who finds the dagger shall become supreme in Liyue, and the one who finds the sword may be crowned Liyue's sovereign-
+Zhongli: I... can't say I agree.
+Hanxue: Hmm?
+Zhongli: Let us not speak of the authenticity of the dagger and sword first... But Mora and money came about simply because they are a convenient measure of a contract's value.
+Zhongli: Rex Lapis just meant for Mora to serve as "catalyst" for people to exchange and trade.
+Zhongli: The world's first Mora is probably just an ordinary coin created by Rex Lapis. As for its fate? The same as all Mora, I suspect - it was simply spent somewhere.
+Yixuan: Hmm... I think that Mr. Hanxue's hypothesis seems reasonable. Mr. Zhongli's argument, on the other hand, lacks any evidence. How can you so easily dismiss the Lord of Geo's profound foresight?
+Zhongli: No - no, I am not debating right or wrong. I am simply stating a fact.
+Hanxue: Enough! Do you think you understand the Lord of Geo more than me?
+Traveler£ºActually, he is...
+Zhongli: I know but little about history and I wouldn't dare to brag. But discussion is meaningless if everyone has the same opinion, no?
+Yixuan: Well then, answer me this: Long ago, when Liyue Harbor was being constructed, the Lord of Geo taught the people how to build houses. The model home he used to teach them was completely cast from Mora, correct?
+Zhongli: That is correct, indeed.
+Hanxue: Okay then, tell me: Why would the Lord of Geo do something so extravagant if not because of the mystical power that Mora contains?
+Zhongli: There's a simple explanation, really. To the God of Wealth and Commerce, what material is easier to get than Mora?
+Hanxue: Oh... Huh...
+Traveler£ºIt's like you're telling someone else's tale.
+Zhongli: Hehe, I mean... I am talking about Rex Lapis.
+Wanyan:...
+Wanyan: Excuse me, sir! Uh... I have some questions about archaeology. Can we find somewhere quiet to chat? I mean, if it's okay with you.
+Zhongli: Oh, it's no problem at all. But may my friend accompany us? Perhaps they could be of some help.
+Traveler£ºWho, me?
+Wanyan: Of course. They can come if that's what pleases you, sir. Let's go.
+Head to the stern and ask Wanyan about her problem
+Wanyan: What I'm about to say is a bit disrespectful of the Lord of Geo and would draw a lot of angry looks... so it's best to discuss this somewhere quiet.
+Wanyan: Your argument just now exhibited acuteness of speech and thought. Most importantly, you don't fall for the boasting and acting of the others. You remain objective.
+Wanyan: So I have a question for you, perhaps you will answer differently from other scholars... Do you think that all the gods that the Geo Archon killed were evil?
+Zhongli: ...Let's not analyze it in terms of good versus evil. Rex Lapis placed great importance on the integrity of contracts, so any gods he killed certainly must have broken some kind of contract.
+Paimon: Right, the Lord of Geo wouldn't kill the innocent.
+Wanyan: But when I was doing some research, I learned about the legend of the God of Salt.
+Wanyan: The God of Salt, Havria, was a very kind god, but she encountered Morax one day in battle...
+Wanyan: Morax used a rather underhanded trick to...assassinate her.
+Paimon: What!? No way!
+Zhongli: This... this bit of history is a long story. But you may not like the truth when you hear it.
+Wanyan: Don't worry, please tell me what you know! This event... I have already searched for answers for a long time.
+Traveler£ºYou look a bit embarrassed, Zhongli.
+Zhongli: No, it's just... Where should I begin?
+Kliment: Over here! Mr. Zhongli, I've been looking for you! Ah, so you're over here all this time.
+Traveler£ºThe Fatui?
+Paimon: Put down your weapon and stay back! Otherwise... Ah... Paimon's reporting you to the Millelith!
+Kliment: First of all, I'm not holding a weapon!
+Kliment: Ugh... There's no need to overreact, now. I'm simply an archaeological researcher from Snezhnaya, I'm not here for trouble.
+Paimon: The Fatui say that every time.
+Kliment: But this time, I registered with the Liyue Ministry of Civil Affairs. I could show you the official documentation if you want to see it.
+Kliment: I will be conducting an archaeological survey here, the results of which will all be shared with the Ministry.
+Kliment: I heard that Wangsheng Funeral Parlor had a consultant named Zhongli with immense knowledge of ancient history and archaeology. So I paid Wangsheng Funeral Parlor a handsome amount to hire Zhongli as my own consultant while I'm in town.
+Zhongli: So you mean to say that this is work for the Wangsheng Funeral Parlor, yes?
+Traveler£ºWhat should we do?
+Zhongli: Well since it's work, I don't have a choice. A consultant of the Wangsheng Funeral Parlor must respect their duty.
+Kliment: Of course you would be such a reasonable man! Well then, let's head out now, shall we?
+Wanyan: Wait, if you are studying archaeology, can I go too? I am also a scholar in this frield, so I can help.
+Zhongli: That will give us a chance to continue the topic we were just discussing. Oh, and you should tag along too, Traveler¡£
+Traveler£ºWhy?
+Zhongli: This experience may be of help to you on your future adventures.
+Zhongli: It is a story from before the rise of The Seven... Although the God of Salt has already perished, it will still be a meaningful experience for your journey.
+Kliment: This is- Wait, this is an archaeological expedition, not a tour group! That's too many people.
+Zhongli: But this friend of mine has a treasure-finding talent surpassed by no one. It will surely be of great help to us.
+Kliment: Oh? What talent?
+Zhongli: If my friend espies a treasure chest, they will absolutely find a way to open it.
+Paimon: Hey, Paimon's good at that, too!
+Kliment: Well... That is quite enticing. Alright then.
+Kliment: Well, let's go. There's no time to waste. When the Overlord of the Vortex was crushed by the Jade Chamber recently, perhaps something of interest was washed ashore...
+Kliment: An ancient artifact would be good, traces of ancient activity would be great, but a piece of the god's limb would be even better... Who knows what surprises we may find...?
+Vortex's Wake
+After your chance meeting with Zhongli, you learn that a Fatuus named Kliment is trying to organize an archaeological expedition. Zhongli is roped in as a consultant, along with an archaeologist named Wanyan who volunteers for the task. Though you distrust the Fatui, you join up at Zhongli's invitation. The first subject of this investigation is Osial, Overlord of the Vortex.
+Go to Guyun Stone Forest
+Talk to the people
+Kliment: This place looks so ordinary... Can we really find anything valuable here?
+Paimon: Huh? Paimon thinks it looks really grand!
+Kliment: I don't mean the scenery, but rather that there should be something out of the ordinary. A big battle did just occur and all... And I don't even know where to begin looking here.
+Zhongli: Guyun Stone Forest is actually the perfect place to be if you wish to learn about the gods or the history of the Archon War.
+Zhongli: Legend has it that Rex Lapis threw spears made of large rock into the sea here, piercing and crushing the Overlord of the Vortex.
+Zhongli: After many years of wind erosion, those stone spears have turned into the unique rock formations we see now.
+Paimon: These mountains were the Lord of Geo's weapons?
+Zhongli: What we see now is just the part of them that remains. The stone spears hurled by Rex Lapis, all those years ago, were much greater, both in number and in size.
+Zhongli: But due to the different angles they landed at, their large centers of mass, erosion by seawater, and years of gravity, many of them have been completely swallowed by the sea.
+Zhongli: So, besides wind erosion, the initial collapsing of the stone spears also laved a big part in the formation of Guyun Stone Forest.
+Kliment: Well... A god able to fight one so powerful as Rex Lapis was certainly very strong in its own right.
+Zhongli: Indeed, this is where the value lies in research at Guyun Stone Forest.
+Zhongli: Most of the objects from that time were lost to the sea, but the gigantic waves created by the Overlord of the Vortex have given those sunken objects a chance to see the light of day again.
+Kliment: So youi're saying that if we look carefully, we¡¯ll be able to get very, very rich-
+Rliment: Uh, I mean - rich with archaeological knowledge and historical value, yes? That's all I seek in life.
+Kliment: Well, since we brought so many people, I think it would be best to split up and look.
+Zhongli: Okay then, I will go with my friend here. Although 1 have a smattering of knowledge in various disciplines, when it comes to archaeology, I can't compete with the expert here.
+Wanyan: Huh? M-Me?
+Kliment: What's the matter? This is your profession, why are you so surprised?
+Wanyan: I get it... I'll escort him then.
+Zhongli: Okay. If we find anything valuable or rare, let's meet on the shore opposite from here.
+Zhongli: The ancient god probably left behind lots of elemental marks. Following them should make our search much easier.
+Paimon: Well, go ahead then, Traveler¡£Use your Elemental Sight to look for any marks.
+Use Elemental Sight to search for relics
+Defeat the opponents and open the chest
+Paimon: Why are there enemies here?
+Zhongli: Guyun Stone Forest is a place where a god was defeated, and its remnants still affect the area to this day.
+Continue using Elemental Sight to search for relics
+Defeat the mimic monsters and recover the relic
+Paimon: They're... gathering together here. But why?
+Zhongli: See that object in the center? Perhaps it emits the remnant strength of the god. That would certainly attract them.
+Zhongli: But, the Hydro Mimic monsters... Hmmm, I have a contract, and must put my personal feelings aside. Go ahead, defeat them and recover the relic.
+Zhongli: It's just a stone slab... but its design is quite unique.
+Zhongli: This should be enough to garner some information. Let's head back.
+Meet up with the other group
+Kliment: ...You call yourself a scholar of archaeology? You can't even recognize this or that. What are you good for?
+Wanyan: We all have our areas of expertise! I already tried very hard to explain!
+Paimon: Stop arguing! What in the world happened?
+Kliment: This girl just keeps bragging about how she's an archaeologist, but she doesn't even know anything about the surrounding ruins! I even know more than her!
+Kliment: She left me to rely solely on guessing - I mean, experience - to find anything valuable to take back. Ugh, what a waste of time!
+Wanyan: I -I've just been researching the God of Salt, so I'm not familiar with sea relics. Is that so strange!?
+Traveler£º£¨Hmm, it is a bit strange...)
+Wanyan: And you! You kept asking about how much Mora everything is worth! Can the value of relics only be measured in Mora!?
+Kliment: Uh... I mean, isn't measuring their value in Mora the easiest way? This also matches the traditions of Liyue, does it not?
+Zhongli: Now, now, calm down, no need to make a fuss. We were able to bring back some intriguing objects. Let's have a look.
+Zhongli: Oh...
+Zhongli: What a shame. *sigh* These objects were indeed washed ashore by the Overlord of the Vortex, but they have nothing to do with the god besides being in the vicinity at the time.
+Zhongli: This stone slab we found, however, has a mysterious pattern and faint aura of divine power. Perhaps it will be useful for research purposes.
+Kliment: Quick, give it to me!
+Kliment: Hehe, at least we didn't come for nothing. The power of the gods, yes! This is good... heh.
+Kliment: Oh, but these other objects are certainly worth a little something, right? It should be enough to cover the cost of hiring you - it's all mine!
+Paimon: So... it's only valuable for research if there are remnants of divine power on it?
+Wanyan: Not at all. My quest to uncover the history of the God of Salt is because history can tell us about culture and beliefs...
+Wanyan: But YOU... You're just trying to use archaeology to get rich!
+Kliment: Nonsense! I'm a professional archaeology researcher from Snezhnaya, I swear. If I'm lying, may the Lord of Geo strike me down!
+Traveler£º(No,you're trying to get rich off archaeology..)
+Zhongli: Oh, by the way. You probably don't want to sell that teacup.
+Kliment: Oh, why's that?
+Zhongli: That's not an ancient teacup. It's part of Ningguang's collection, it must have fallen here along with the lade Chamber. So unless you want to mess with the Qixing...
+Kliment: Ah, I see... What a shame. It was of such high quality, too.
+Wanyan: See!? You do want to sell these objects!
+Kliment: S-So what! Why can't I pursue wealth both intellectual and material? Don't be so simple-minded!
+Kliment: Alright then! No need to stay here any longer. Hm, I'm rather quite intrigued by the God of Salt too, actually. Let's go to Sal Terrae next.
+A Ruin Under Lock and Key
+The expedition to investigate Osial in the Guyun Stone Forest came away with slim pickings. Kliment and Wanyan also clashed vociferously over their differing perspectives, which has greatly displeased the former. During the argument, he heard Wanyan mention the tale of the God of Salt, and decided to take the party there to try their luck, lest he finishes this venture empty-handed.
+Go to Sal Terrae
+Talk to the people
+Kliment: I heard that Sal Terrae was once the home of the God of Salt's people. Therefore... hehehe. There are sure to be loads of valuable relics nearby.
+Zhongli: According to legend, the people of the God of Salt, Havria, enjoyed prosperous lives under her protection.
+Zhongli: But this legend has been around for ages. With the countless scrap collectors and Treasure Hoarders in the area, there probably aren't many valuable things left.
+Kliment: Gah, that's just great... If I knew it was picked this clean before, I wouldn't have come.
+Wanyan: About that, I know there's a ruin deep in this cave here. It's related to the God of Salt, which is actually how the area originally got its name of Sal Terrae.
+Wanyan: However, the ruin entrance has been sealed by a mysterious power. Nobody has been able to break the seal.
+Wanyan: I found a mechanism that seemed to be related to the seal. But when I undid the mechanism, the seal wasn't affected at all.
+Wanyan: So at the moment, the seal's origin and how to break it are very important topics in my research on the God of Salt.
+Traveler£ºIs it related to the God of Salt's people?
+Wanyan: I don't know, there's no concrete evidence. But I'm pretty sure the seal is meant to hide some kind of long-forgotten truth.
+Wanyan: The God of Salt was a benevolent god adored by the people, not to mention powerful. She wouldn¡¯t have any kind of shameful secrets to hide.
+Wanyan: So... the one who wants to hide some truth is very possibly her killer, Morax.
+Paimon: This doesn't sound like something the Lord of Geo would do, though...
+Kliment: Who cares about all that? It sounds like countless treasures of the God of Salt lie within this ruin.just waiting for someone to find them, right!?
+Wanyan: You weren't listening at all, were you? Argh...Even if there's a mountain of treasures inside, nobody can get in if the seal isn't broken.
+Kliment: Ah, but we have the illustrious Mr. Zhongli with us! He looks like he knows just about everything - a little seal shouldn't be any trouble for him.
+Wanyan: This seal seems to be quite ancient. Even Mr. Zhongli may not know all of its secrets...
+Zhongli: I may know something about it.
+Wanyan: Wh-What!?
+Zhongli: Over the years, I've heard various rumors with bits of knowledge about seals. Although their references seem rather disorderly, they do in fact contain the secret to breaking seals.
+Zhongli: Let's go take a look at the mechanism Miss Wanyan just mentioned.
+Wanyan: Okay, since Mr. Zhongli says so... Follow me, then.
+Go to the first mechanism
+Look for a spot from which the picture formed by the relics can be seen
+Wanyan: Here it is. There's some debris scattered here that, when put together, look like they definitely had to do with the God of Salt.
+Wanyan: According to the inscription on the side, if one looks from a certain angle, the secret to the mechanism will be revealed.
+Wanyan: See that? Although we activated the mechanism, nothing happened to the seal...
+Zhongli: That's because there's actually another mechanism that must be activated.
+Wanyan: A-Another?
+Zhongli: Let me lead the way from here.
+Go to the second mechanism
+Wanyan: This place seems familiar... Ah, I remember! I think there's some elemental monuments here - so you're saying they're related to all this?
+Wanyan: When I investigated this seal last time, I had someone with a Vision accompany me.
+Wanyan: But when we lit up all the elemental monuments, nothing happened¡­
+Zhongli: That's because you don't just need to activate them at the same time, but in a certain order as well. Otherwise, the seal will not be broken.
+Zhongli: The secret to this puzzle is hidden in the legends about the Archon War.
+Zhongli: "Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north - All desolate and devoid of life. Liyue is vast, yet even one haven is hard to find."
+Kliment: To the north... to the east... Do the people of Liyue always talk in riddles?
+Wanyan: I-I think I've heard this saying before!
+Zhongli: Certainly you have, and the contents of this saying are also related to the God of Salt.
+Zhongli: To provide a haven for her people, whose lives had been ravaged by the Archon War, this benevolent god searched all across Liyue.
+Zhongli: At that time, with the chaotic fires of war engulfing the land, even one sliver of peace was a luxury.
+Zhongli: And that haven she eventually found is right here. Today, it is known as Sal Terrae.
+Wanyan: How sad then... In the end, this peaceful place was destroyed by Morax.
+Kliment: Okay, enough with these ancient stories. Now that we have the clue, hurry up and break the seal! Whatever happened doesn't matter as long as we can get inside that ruin!
+Zhongli: Now think,Traveler, "Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north.'
+Zhongli: With this clue, you should be able to solve the puzzle.
+Follow Zhongli's instructions and light the monuments up
+Wanyan: Look! The seal really was broken! Mr. Zhongli is indeed quite remarkable!
+Zhongli: It was nothing, really.
+Zhongli: Now, it's time that people learn the hidden truth lost to time.
+Go to the site of the broken seal
+Zhongli: Before entering the ruin, I have a proposal that will help us prevent the kind of senseless arguing between you two that we saw at Guyun Stone Forest.
+Wanyan: Okay, what is it?
+Zhongli: I propose you two agree upon a contract, stipulating that we alternate who gets claim to each treasure we encounter, with only one object permitted per claim.
+Zhongli: To show my sincerity, I won't be taking any treasure - this will just be between you all.
+Traveler:I won't take any either.
+Paimon: Hey! Don't pass an opportunity like this up so easily!
+Kliment: I don't agree! I mean... You want me to split the treasure with this amateur archaeologist? No, absolutely not!
+Wanyan: I don't agree either! Hmph, he will only defile the precious relics left behind by the God of Salt! I-I can't accept this.
+Zhongli: Well then... If the contract is not agreed upon, I will no longer serve as your consultant on this expedition.
+Zhongli: You will have to rely on your own experience to find whatever treasures are hidden in this ruin, as well as traps.
+Kliment: Y-You have the audacity to demand this... Okay then. Even half of the treasure in the long-sealed ruin of the God of Salt should be enough to make a fortune.
+Wanyan: If you want me to agree upon this contract, so be it... I just have one request, Mr. Zhongli.
+Wanyan: If we discover the truth behind the God of Salt, you must judge it fairly, even if the truth harms Morax's image.
+Zhongli: I can accept this arrangement.
+Zhongli: Well then, let's go.
+Farewell, Sweet Salt
+With the aid of Zhongli's knowledge, you are able to undo the seals, but before entering the ruin, he lays a condition before Wanyan and Kliment: to alternate who gets claim to each treasure encountered, with only one object permitted per claim.
+Descend into the cave
+Explore the cave and enter the ruins
+You encounter towering white figures in the ruin...
+Wanyan: A--Are these... statues?
+Zhongli: No. These are people.
+Kliment: Urgh..
+Zhongli: They were probably followers of the God of Salt.
+Kliment: How did they become this way...?
+Wanyan: What in the world is hidden deep in this ruin...?
+Explore further and look for divine relics
+You find a strange chalice on an altar...
+Wanyan: Look at this. It's filled halfway with salt.
+Kliment: Just looks like a fancy salt holder. Seems like the God of Salt was a god lacking in treasures.
+Zhongli: According to my knowledge, it's no ordinary vessel. Although it is only half-full, it is also forever half-full - that is to say, it is bottomless.
+Kliment: What!? You're saying that even if I pour the salt out, the amount inside won't change!?
+Zhongli: Exactly.
+Wanyan: Able to produce endless salt... The God of Salt is powerful indeed!
+Kliment: Finally, after all that effort, I've found precious treasure! I claim this as mine!
+Kliment: I just need to pour the endless salt into a thousand, or ten-thousand bags... I can sell it and make a fortune!
+Wanyan: Hey! How can you use a relic of the God of Salt for such a shallow pursuit!?
+Zhongli: If Mr. Kliment wants this salt chalice, then the next object we find will belong to Miss Wanyan, according to the contract agreed upon.
+Kliment: Of course, as we agreed, hehe. But how can anything be worth more than this rare find?
+Wanyan: Since we have a contract, it's no use for me to fight with him...
+Zhongli: Then let's move on, shall we?
+Continue exploring
+You discover a strange ruler on a separate altar....
+Kliment: Ha, just a simple ruler. Doesn't look to be worth anything.
+Wanyan: This... if I remember correctly, this is some kind of measuring tool.
+Zhongli: Indeed. But the God of Salt imbued it with another power.
+Zhongli: When you stick this ruler in the ground, the surrounding area will become covered in salt, much like a rising tide covers the earth.
+Zhongli: The deeper it is stuck in the ground, the more salt will appear. It is essentially a "bumper harvest" of salt.
+Kliment: Wh- Th That's even better than the salt chalice!
+Zhongli: Well then, according to our contract, the salt ruler goes to Miss Wanyan.
+Kliment: No! Unacceptable! I paid for and organized this entire expedition. Why should I get the short end of the stick?
+Kliment: And this girl has been useless. Why would she get anything!?
+Paimon: Oh boy, here we go again...
+Traveler£º*sigh*
+Zhongli: So you are saying, you want to break the contract?
+Kliment: So what if I break it? Now that I've seen how the mechanisms in this ruin work, I no longer need you.
+Kliment: Let's not forget who hired who here. Why should I let YOU make the rules?
+Zhongli: Because you agreed to a contract.
+Zhongli: Rex Lapis once said: "Ones who break their contracts shall suffer the Wrath of the Rock."
+Kliment: That is one of your Liyue gods. I am from Snezhnaya. I-
+Zhongli: -Will "suffer the Wrath of the Rock" - you may find it rather unpleasant.
+Punish Kliment
+Zhongli: I shall confiscate your treasure as well.
+Zhongli: You are not worthy to continue any further into the ruin. Leave this place.
+Kliment: Darn you... Just you wait!
+Talk to Zhongli and Wanyan
+Paimon: Some "archaeological survey..." He could only pretend for so long.
+Traveler£ºAt least we had our guard up.
+Paimon: Yeah, good thing Paimon can smell a liar from a mile away.
+Zhongli: Kliment's wrongdoing stemmed from greed, yes. But besides greed, there are many other things that may tempt us to break contracts.
+Zhongli: When people see the object of their dreams, how many are really able to control their desire and follow the contract...?
+Zhongli: I think we should be honest with each other now.
+Paimon: Huh? Be honest about what?
+Zhongli: That in truth, not a single member of this "archaeological expedition" came here for archaeology.
+Wanyan: Wh-Why do you say that?
+Zhongli: Miss, you lack even the most basic archaeological knowledge and can recognize naught but a few simple relics. However, you are an expert when it comes to anything regarding the God of Salt.
+Zhongli: You aren't interested in archaeology or relics - what you're really interested in is the God of Salt.
+Zhongli: I believe those legends about the God of Salt that you mentioned on the Pearl Galley are passed down between generations at Yinyuan Hall...
+Wanyan: Okay, that's enough!
+Wanyan: . Sir, you are indeed a man of great knowledge and talents. I seem to have been right to seek you out, once I plucked up my courage.
+Wanyan: You're right. I'm not a scholar of archaeology. I come from one of the Eight Trades under the jurisdiction of the Qixing - Yinyuan Hall of the salt industry.
+Wanyan: Our ancestors were those protected by the God I of Salt all those years ago, when the Archon War engulfed the land in chaos.
+Traveler£ºCome to think of it, Ive never heard you say "Rex Lapis..."
+Paimon: Oh, right. Now that you mention it, the people of Liyue very seldom use the name "Morax..."
+Wanyan: During the war, Morax assassinated our god out of envy for her power! He left us alone and lost in the world.
+Wanyan: We- We hate him! But this is Morax's Liyue, after all, and its history is written as he wishes...
+Wanyan: So, I seek proof of Morax's guilt! He has blood on his hands, and cruelty in his heart!
+Zhongli: ...
+Wanyan: We agreed to a contract that we will face the truth head-on, didn't we, Mr. Zhongli!? You must judge this history fairly!
+Zhongli: Naturally, of course. But I must add, Liyue is no longer Morax's Liyue.
+Zhongli: Come with me. All the answers you seek lie ahead.
+Proceed deeper within
+Examine the broken sword
+Wanyan: This is... a sword?
+Wanyan: Aha! It's a broken sword, this is proof! This proves that the God of Salt had to fight back, fight back against the evil Morax! But sadly, she was defeated...
+Wanyan: The power of this sword surely is much greater than that of the salt chalice and the salt ruler!
+Wanyan: If we can repair this sword, then we can show the world the mighty power of the God of Salt...
+Paimon: Hmm... It does look like something left behind after being defeated in battle.
+Zhongli: Two pieces of a broken sword. From an archaeological perspective, these are two separate relics. According to the contract, you can only claim one.
+Wanyan: Wh-Why? We were alternating claims to treasure, true, but Kliment is no longer here...
+Zhongli: Yes, but the "only one object per claim" clause still holds true. You cannot take two relics at the same time.
+Wanyan: Th-This logic...
+Paimon: Um... Zhongli, she seems like a good person, and no one is fighting over the treasure. How about you let this one slide, huh?
+Zhongli: When there's a contract, nothing can be allowed to "slide." If the contract is not followed, then it is broken.
+Wanyan: No! If I only take one half, then it can't be repaired, and the power of the God of Salt cannot be restored...
+Wanyan: No matter what, I must be faithful to her...
+Wanyan: Even if it breaks the contract, I don't care.
+Zhongli: So you are already decided? Hmm... Then there is a price to pay for breaking the contract.
+Paimon: Zhongli!
+Zhongli: That is to say, you consign yourself to "suffer the Wrath of the Rock."
+Wanyan: That... that's okay. The God of Salt gave up her life to protect her people. My sacrifice is nothing compared to that.
+Wanyan: Punish me however you want. Just let me take this proof of my faith!
+Paimon: No, you can't hit her!
+Zhongli: ...Perhaps that punishment would be easier for her. but...
+Zhongli: As punishment, I will tell you the truth.
+Wanyan: Huh?
+Wanyan: The truth? You mean the truth is my punishment?
+Zhongli: Yes. The truth that I am about to tell you shall be your price to pay for breaking the contract.
+Zhongli: I'm afraid to say that the God of Salt, Havria, was not the powerful god you imagine her to be.
+Zhongli: Rather, she was a small and weak god who yielded to all other gods. When it came to war, she lost... never able to win a seat among The Seven.
+Wanyan: Wh-What..!?
+Zhongli: During the Archon War, the gods of this world used all their strength and cunning to vie for control of Teyvat.
+Zhongli: But Havria instead chose to flee She thought that by giving up before a fight could start, she could save herself and her people from the war.
+Zhongli: However, during such a long war, there is no end to the advances of aggressors.
+Zhongli: After making countless concessions, Havria had lost all of her lands until only one small haven remained.
+Wanyan: No... no... it can't be so...
+Zhongli: In her last days, she had not even a single blade to defend her people with.
+Wanyan: "Not even a single blade?" Then, this sword...
+Zhongli: This sword is not a relic belonging to the God of Salt... but is instead the murder weapon used to kill her.
+Wanyan: Murder weapon?
+Wanyan: No! That's not true, that can't be true! You are trying to test my faith in the God of Salt!
+Zhongli: As I said before, I only state the facts.
+Wanyan: Preposterous! Y-You are a follower of Morax, don't try to trick me!
+Wan' yan cannot accept Zhongli's words. She storms off further into the ruin...
+Paimon: Hey! Heyyy! Come back!
+Traveler£ºThat was too much for her to take.
+Zhongli: It is a punishment, after all. I did not want to tell her such cruel facts, but the contract was broken...
+Zhongli: Let's follow her deeper into the ruin. There, I fear, we will find something that will leave her no choice but to face the truth.
+Catch up to Wanyan
+Paimon: Uh... Are these statue thingies... running?
+Paimon: What will we find ahead...?
+Zhongli: Salt. And betrayal.
+Wanyan: ..What are all these?
+Wanyan: What did they see... What did they do?
+Wanyan: What... What happened?
+Zhongli: Since you do not trust me, let us continue onward.
+Zhongli: That which lies beyond this door will show you all that happened back then.
+Talk to Wanyan and witness the truth
+At the end of the ruin, you see motionless white figures, their postures suggesting they are battling to escape. In the center of the room, the one they ran from has disappeared, leaving behind only traces of white salt...
+Zhongli: This is the scene of the crime. Havria's body dissipated, leaving nothing but these traces of salt. Her dying moments have since been frozen in time to this very day.
+Wanyan: ...
+Zhongli: The story continues that some among her people realized at last that this gentle, kind, but weak god could never protect anyone in wartime.
+Zhongli: The Archon War was cruel in the extreme. Instead of consigning her to the agony of defeat, they thought, perhaps it would be better to give her a quick release.
+Paimon: But... what about these statue thingies?
+Zhongli: No matter how weak the god, the power that flows forth when they are slain is beyond the strength of mortal coils to bear.
+Zhongli: Those who could not flee were thus transformed.
+Zhongli: Those of her people who were untouched by this disaster left for Liyue, where they sought refuge with Rex Lapis.
+Zhongli: Their descendants feared Havria's remnants and lived in terror that she had laid upon them an eternal curse...
+Zhongli: So they risked their lives to come here to break the sword, and offer up obeisances in hopes that her anger might be appeased.
+Zhongli: But they need not have done so. For how could a god who had never once resisted - even till the end - nurse hatred for her people in her heart?
+Wanyan: I-I... Even if this is so, I can't...
+Wanyan: This must be a lie... a false history... all of it!
+Wanyan: Don't you dare try to... shake my faith!
+Wan' yan runs off again, this time in despair...
+Paimon: Yikes, Zhongli didn't show any mercy this time, either...
+Zhongli: This is the price she must pay... Yet I would not call it a bad thing.
+Zhongli: Judging by how she appeared, I fear that she will struggle for a time. But even if she may not escape that struggle immediately, simply recognizing the truth is good enough for now.
+Traveler£ºYou seem all too familiar with what happened to the God of Salt.
+Zhongli: Indeed. In ages past, Havria's story served as a warning to me as well.
+Zhongli: Faith in a god who has already passed will do you no good.
+Zhongli: So it is for Havria, and so it is for Morax also.
+Traveler£ºThe people of Liyue will understand that one day.
+Zhongli: Alright, then. Now, would you like to accompany me in taking a trip to Guyun Stone Forest?
+Paimon: Huh? What do you want to do, Zhongli?
+Zhongli: *sigh* ...
+Zhongli: Treading old ground, telling old stories...
+Zhongli: ...One cannot help but be reminded of old acquaintances.
+A Record of All Things
+Within the ruins, Kliment and Wanyan each betray the contract in turn for personal reasons. As punishment, Kliment is cast out of the ruin and deprived of his reward. Wanyan is made to witness a truth that shatters her beliefs - the God of Salt was gentle but weak and was betrayed and slain as a result. Bearing witness to this incident and filled with conflicted feelings as a result, you follow Zhongli back to Guyun Stone Forest.
+Go to Guyun Stone Forest and talk to Zhongli
+Zhongli: Now, I mentioned before that many gods of old have been sealed beneath the Guyun Stone Forest.
+Zhongli: The adepti have presently handed Liyue over to mortals, and Havria's time was even further in the past. The salt chalice and salt ruler that she left behind should not return to Liyue.
+Zhongli: To leave them here is to let them slumber, and it is also a homecoming...
+Traveler£º So,what would you like us to do?
+Zhongli: I ended an era with my own two hands. I have always wondered how I should... remember that which I ended.
+Zhongli: History records, but history may be changed. This incident proved that. Time is a mighty force, and histories twist in its flow...
+Zhongli: I need to find a better way of recording history in order to engrave its truth.
+Zhongli: Stone carvings were one such ancient method. But unchanging stone, immovable earth, even one such as myself... Someday, we may all disappear.
+Paimon: Zhongli...
+Zhongli: Therefore, I thought of you, Traveler.
+Zhongli: You are one who crosses the celestial atlas, and who passes through countless worlds. If our history is engraved in your memory, it will one day accompany you into another world.
+Zhongli: As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
+Traveler£ºSo that's why you wanted us to come with you.
+Paimon: Sounds like tough work.
+Zhongli: Now then, it is time that we consigned both the salt chalice and salt ruler to the sea.
+Paimon: Huh? Why do we need to throw them into the sea?
+Zhongli: As I said before... This is the place to which the remnants of many bygone gods are consigned.
+Zhongli: This includes Osial, Overlord of the Vortex, who the Jade Chamber most recently returned to this ocean prison...
+In the sea breeze, Zhongli tells you tales from Liyue's long history. Gazing down at the blue ocean surface and the jagged backdrop of Guyun Stone Forest, Zhongli finally casts, the relics of the God of Salt into the part of the sea where the Overlord of the Vortex lies. Perhaps another spark of divinity has now parted from Liyue, but the question of what it all means will be left to the judgment of those who are yet to come.
