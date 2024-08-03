@@ -1,0 +1,915 @@
+Jade Chamber Rising
+Liyue Harbor is all abuzz with the news of the Jade Chamber's rebuilding. Go to Yujing Terrace and ask Ningguang for the details.
+Go to Yujing Terrace to listen to Ningguang's speech
+Ningguang: I have gathered everyone here today to make an important announcement.
+Ningguang: Perhaps some of you will have heard the news already. I am, in fact, planning to rebuild the Jade Chamber.
+Hongfei: Rebuild the Jade Chamber?
+That's a huge project...
+Changgui: So the rumors are true. No wonder the price of building materials has gone up so much lately.
+Zhicheng: The Jade Chamber means a lot to Lady Ningguang. Getting involved in this would be a huge opportunity.
+Hongfei: Lady Ningguang, is there any way we can be of service?
+Ningguang: Patience. Since the news made it out a few days ago, I have already had many people contacting me to declare an interest in joining the project.
+Ningguang: Nevertheless, I do have a few matters I should like to entrust to you here today.
+Ningguang: The building site has been chosen, and most of the materials have been assembled. Three key items are, however, still outstanding.
+Ningguang: They are as follows: Sunset Vermillionite, Wonder Cores, and Adepti Sigils.
+Changgui: Uh... Excuse my ignorance, Lady Ningguang. I'm familiar enough with Plaustrite, but I've never even heard of those other two.
+Ningguang: Only sufficiently large pieces of Plaustrite or specifically, Vermillionite - may earn themselves the "Sunset" moniker. This stone is what allows the JadeChamber to float. Wonder Cores, meanwhile, are the central components of the mechanical structure of the Jade Chamber.
+Ningguang: Adepti Sigils serve as a means of integrating the mechanical devices with adepti art. They are as indispensable as the mechanical core itself.
+Ningguang: Although these three items are rare, I trust that with your connections and capabilities, procuring them will not be a question of "if," but of "when.'
+Ningguang: I take the saying "Time is money" more seriously than most. Efficiency is everything. I will pay a generous price for the materials that you find, and in addition, the first three people who collect all the materials will have the opportunity to ask me a question.
+Ningguang: You may ask me anything, and I will give you an honest answer. I trust that this means of compensation will be to everyone's satisfaction.
+Changgui: These things won't be easy to get hold of, but if it means a chance to get some inside information on Liyue Harbor's development plan for next year...
+Zhicheng: ...Then it's the deal of a lifetime. Information from Lady Ningguang is priceless. Whoever gets to it first takes the market.
+Hongfei: Haha, what a coincidence! I won't divulge too much, but I heard some murmurings about some Plaustrite just the other day. So excuse me, all, but I have some business to do!
+Changgui: Ah, no¡­.. We'd better move quickly, or this opportunity will be snatched away from us!
+Paimon: Ningguang's rebuilding the Jade Chamber!? This is a huge deal. Let's get involved!
+Ningguang: So you heard my announcement, did you? What do you think? Interested?
+Traveler£ºCan I really ask you anything at all?
+Ningguang: Yes, providing the question pertains to something I am knowledgeable about.
+Traveler£º(Maybe I can find out more about my sister...)
+Paimon: Really? Ooh, then Paimon will ask you about how to run a business!
+Paimon: Then we will never be short of Mora ever again!
+Ningguang: Hehe, of course. But how much information I share with you will depend on your performance.
+Ningguang: The construction of the Jade Chamber requires a great deal of space. The abandoned mine outside the Golden House has been selected as the building site. Once you have collected the materials, please take them there.
+Ningguang: I have other business to attend to now, otherwise I would gladly escort you to the site in person. When you do arrive, please seek out my secretary.
+Ningguang: Remember, this is a race against the clock. A rare opportunity presents itself to you... Do not let somebody else snatch it from your grasp.
+Paimon: Ningguang seems super busy... C'mon, we'd better get going.
+Paimon: First we gotta get out of Yujing Terrace...
+Huh? Look, Traveler, it seems like there's something kinda fishy going on over there.
+Scar Liu: Ma'am, you seem like an eminent and distinguished young lady to me. I can see that you're easily gonna win this procurement contest Lady Ningguang has set up.
+Scar Liu: As it happens, we have some information about the materials that I really think might interest you. Come on, let's find somewhere a little more private, and we can get down to brass tacks..
+???: No. I don't need it.
+Scar Liu: Aww, don't be like that. Hey, come on, don't go!
+Scar Liu: Well don't just stand there, after her!
+Qiang the Brave: Oh, right, yeah!
+Follow the "information peddlers" to figure out what's going on
+Observe the disagreement between the unknown young lady and the information peddlers
+Scar Liu: Hehe. Well, will you look at that, Ma'am. Nowhere left to run.
+Scar Liu: Don't worry. We're not bad guys. You give us some Mora, we give you a little info, everybody's a winner.
+Qiang the Brave: Boss, I got a bad feeling about this. Look at her, the white hair, the energy she gives off... I'm telling you, there's something different about her...
+Scar Liu: So what? She's loaded! How are we ever going to repay those gambling debts if we just let money walk away from us, huh?
+???: I've already told you. I don't need your information.
+???: If you still can't grasp that, I'm happy to repeat it in a way that won't be so easy to forget.
+Scar Liu: *sigh* ¡­Come on, Ma'am. You seem like an intelligent lady. I shouldn't have to spell this out to you.
+Having seen what is happening, you and Paimon immediately understand the situation.
+However, things like this fall under the jurisdiction of the Millelith.
+Scar Liu: It's not about whether you need the info or not, okay? It's about you taking out your money and handing it over and nobody getting hurt.
+???: I won't-
+Scar Liu: No more excuses!
+I know you have money. I saw you.
+Scar Liu: Yeah, I saw you, strolling into Liuli Pavilion,ordering a table full of food, and only taking a few bites.
+Scar Liu: Then Xinyue Kiosk, then Wanmin Restaurant. Same story each time - you order all the signature dishes, take a few bites, then you're on your way again.
+Scar Liu: How could you afford to be so wasteful if you weren't from a rich family? And since you're so rich, what's the loss to you in giving us a little spare change, huh?
+???: Master warned me not to lay a hand on anyone in Liyue Harbor.
+???: But here we are. Perhaps... Yes. Let's call it "fate."
+Qiang the Brave: Boss, I'm telling you, something's not right...
+Scar Liu: What are you afraid of? We're just selling information, it's not illegal. If she lays a finger on us, all the better - we'll sue her for everything she's worth!
+You and Paimon arrive with the Millelith.
+Traveler£ºThere they are.
+Zheng: Oh?
+You again.
+Scar Liu: The Millelith? Wh--What are the Millelith doing here? Did you do this? Hmph! You oughta mind your own business! I swear--
+Zheng: Silence! How dare you threaten innocent civilians! You're coming with us!
+Scar Liu: Hehe... Don't be angry, Sir. Please, let me explain.
+The Millelith takes away the hooligans who were surrounding the young lady with white hair.
+???:...
+Traveler£ºAre you alright?
+???: ...Shenhe.
+Paimon: Shenhe?
+Shenhe: My name.
+Paimon: Ohh, so your name's Shenhe!
+Paimon's name is... well, Paimon! And this is Paimon's travel buddy£¬Traveler£¡
+Shenhe: I've heard about you two before. Thank you for helping to defuse the situation.
+Shenhe: I could've dealt with it myself, though. I suspect smashing his head against the ground a handful of times is all it would have taken to get him to surrender.
+Paimon: Aaaah! Y-You can't do that! That's way too violent!
+Paimon: This is Liyue Harbor. There are laws against that kinda stuff you know!
+Shenhe: ¡­..Laws?
+Traveler£ºHave you not heard of the law, Shenhe?
+Shenhe: No. Apparently not.
+Paimon: Really!? So how exactly have you-
+Traveler£ºUm.. What was that noise...
+Shenhe: That would be my stomach growling. I haven't eaten enough.
+Paimon: She's so honest...
+Paimon: Wait, that's right - they said you went around all the restaurants ordering this and that and the other, but only took a small bite of each dish...
+Paimon: Then of course you're still hungry!
+So.. anything in particular you're hungry for?
+Shenhe: Qingxin, Glaze Lily, Violetgrass.
+These are my usuals.
+Traveler£ºThose are all medicinal herbs...
+Shenhe: ¡­Medicinal herbs?
+Paimon: Kinda hard to explain... Anyway, Bubu Pharmacy's not far away. Let's take Shenhe there for a big medicinal meal!
+Paimon: After all, you can't work on an empty stomach!
+Bring Shenhe to Bubu Pharmacy to purchase medicines
+Herbalist Gui: Are you here to buy some herbs?
+I do hope you brought your prescription?
+Shenhe: Qingxin, Glaze Lily, and Violetgrass, please. Half a pound of each.
+Herbalist Gui: What kind of prescription is this?
+Sounds more like a lunch order, hah... Oh, here you go, that's everything we have in stock.
+Shenhe: Thank you.
+Paimon: She's... really eating them..
+To everyone's astonishment, Shenhe polishes off all the medicinal herbs.
+Shenhe: My hunger has now abated. Thank you.
+Traveler£ºHow did they taste...?
+Shenhe: Rather awful.
+Shenhe: Though they were not completely devoid of sweet fragrance, after consuming a large quantity of them, bitterness is all that remains.
+Paimon: ..So how come you chow down on these and barely touch the restaurant food?
+Paimon: If Paimon had enough Mora, Paimon would go to the fanciest restaurant in town, and order a whole table of food, and eat it all in one go!
+Shenhe: Because I'm not sure whether I will remain here in the future.
+Shenhe: The food of the mortal realm is most delicious. But should I return to the mountains, yearning for the food here shall only pose an obstacle to my continued spiritual development.
+Shenhe: Sampling each dish in order to appreciate its taste is enough.
+Paimon: "Return to the mountains"... That proves it.Traveler£¡Paimon knew she was an adeptus!
+Shenhe: Enough about me. What are your plans from here?
+Paimon: Oh right!
+Paimon almost forgot. We came out to take part in the rebuild-the-Jade-Chamber competition!
+Paimon: And... and now we're probably super behind because we've been held up for so long...
+You tell Shenhe about what Ningguang said at Yujing Terrace...
+Shenhe: I see.
+I heard something about the contest when I was passing by.
+Paimon: Hehe... Yep, you get to ask Ningguang any question you want if you win!
+Paimon: Were you interested in the contest too, Shenhe?
+Shenhe: I came for the rebuilding of the Jade Chamber. But until this point, I had no intention of joining a contest.
+Shenhe: However, you have shown me your kindness, and I would now like to lend you my assistance.
+Don't worry. I ask for nothing in return.
+Paimon: Wow! You really don't have to...
+Paimon: ¡­..but having an adeptus help out will make things a whole lot easier, so...
+Traveler:Sure. Then let's join forces.
+Shenhe: Then let's not delay. I have a plan.
+Paimon: Great!
+Paimon bets this is gonna be the awesomest plan ever!
+Shenhe: I am not sure whether, or to what extent, this plan can be classified as "awesome." I do, however, believe it will be highly effective.
+Shenhe: We simply need to dispose of everyone who is currently ahead of us. Then, we alone shall become the victors.
+Paimon: ¡­Veto!
+That is not acceptable, not by a long shot!
+Shenhe: Really?
+But I hear that competition is in essence about conflict and one-upmanship¡­.
+Paimon: Look, we want to win this competition fair and square, okay!
+Paimon: Sunset Vermillionite, Wonder Cores, and Adepti Sigils... Let's start at the top of the list and work down. So for Plaustrite
+Baizhu: I was wondering who I could hear arguing over there. So, it's you.
+Paimon: Baizhu!
+What are you doing out here?
+Baizhu: Lady Ningguang wishes to purchase a large batch of wound dressing. We're running low at the store, so I came out to fetch the ingredients personally.
+Paimon: Huh? How come Lady Ningguang needs so much wound dressing all of a sudden?
+Baizhu: I'm not too sure. I did hear that she's looking to rebuild the Jade Chamber, maybe for its first aid on site?
+I didn't ask, though - far be it from me to pry into my customers' personal affairs.
+Baizhu: Oh, and she also borrowed Qiqi.¡­ meaning Bubu Pharmacy is very short-handed right now. I don't suppose any of you are looking for part-time work, by any chance?
+Paimon: No, no, we've got other stuff to do... While you're here, though, you seem to know a lot - have you ever heard of something called "Sunset Vermillionite"?
+Baizhu: Ah, the variety of Plaustrite used in the Jade Chamber, yes?
+There is some mention of it in the "Seven Mountain Treatises." When activated, Sunset Vermillionite rises up all the way into the clouds. It's very rare indeed.
+Baizhu: As far as the records show, virtually all Sunset Vermillionite in existence has been mined and taken possession of.
+But the Feiyun Commerce Guild would know far more about this than I do.
+Paimon: Okay then! Let's go ask at the Feiyun Commerce Guild.
+Paimon: Thanks, Baizhu!
+Baizhu: You're quite welcome.
+Good luck to you all, and if there's anything further you need from me, just come to Bubu Pharmacy.
+Seagaze Sunset
+You hear about Sunset Vermillionite from Baizhu and decide to hit up Feiyun Commerce Guild for some information.
+Go to Feiyun Commerce Guild to look for Xingqiu
+Xu: Master Xingqiu! Thank goodness you're finally back!
+Xingqiu:
+Oh? Why do I detect an urgency in your voice?
+Xu: The Guild has had a whole string of strange orders in recently. Everyone's been completely caught off guard.
+Xu: Your father gave me specific instructions to ask you to stay and help out if I happened to see you.
+Xingqiu: I see.
+Have someone sort the orders by type for now. I'll deal with them myself shortly.
+Xu: Oh, how wonderful... Thank you, Master. With you on the job, I can breathe a sigh of relief.
+Paimon: Hey, Xingqiu!
+Glad you're here!
+Paimon: We want to ask you for some information.
+Xingqiu: Traveler, Paimon, please wait a moment.
+Xingqiu: Xu, I need to entertain some guests.
+Please continue with your work for the time being, and we'll discuss the matter of the Guild's orders in more detail later on.
+Xu:
+Understood, Master Xingqiu. Then I will leave you in peace.
+Xingqiu: I wasn't counting on finding you here today.
+What's going on?
+And how, pray tell, may I be of service?
+Paimon: Xingqiu, have you ever heard of "Sunset Vermillionite"?
+Xingqiu: Oh, I see. So you've entered Lady Ningguang's contest as well.
+Paimon: "As well"?
+Do you mean...
+Xingqiu: The truth is, the Feiyun Commerce Guild is in possession of some Sunset Vermillionite, but only one piece.
+Xingqiu: We are holding it on behalf of someone who has asked us to put it up for auction.
+And a lot of interested parties have already come to us inquiring about the price.
+Xingqiu: At the end of the day, it all comes down to supply and demand. In this case, I'm guessing the final transaction price may be in excess of 500 million Mora.
+Paimon: 500 million!?
+Traveler£ºThat's so expensive...
+Xingqiu: Honestly, I would recommend that you don't bother bidding on this one.
+The price is greatly inflated, and it's just not worth it.
+Paimon: But without any Sunset Vermillionite...
+Xingqiu: Don't panic.
+I don't suppose you've ever heard of Sea Gazer?
+Paimon: Who?
+Traveler£ºNever heard of them.
+Shenhe: Sea Gazer was once very close to Mountain Shaper.
+But if I am not mistaken, he has already passed away.
+Xingqiu: Yes, precisely... I didn't know anyone else knew about him.
+Xingqiu:
+According to "Records of Drifting Clouds," Sea Gazer once built an abode to store his rarest and most exquisite treasures - among which was some Sunset Vermillionite.
+Xingqiu: After Sea Gazer passed, the abode was abandoned, and its location was lost to time.
+Xingqiu: Luckily, I came into possession of a stack of folk history books just recently.
+They make some oblique references to this lost abode, and after cross-referencing them against each other, I'm now fairly certain that it is situated in the Lisha area.
+Paimon: That's great!
+But is it really okay for us to just go and take his treasure?
+Paimon: Wouldn't it be a little... y'know.¡­. disrespectful? With him being an adeptus?
+Shenhe: You needn't worry.
+As far as I understand, Sea Gazer was very open-minded. Even while he was alive, he wouldn't have let something like this bother him.
+Xingqiu: Open-minded.¡­.? I have not heard of Sea Gazer being described in this way before. May I ask where you read that?
+Shenhe: lust a rumor I heard out in the mountains.
+Alright then, let's go.
+Xingqiu: Hmm, there's something about this young lady that reminds me of a good friend of mine...
+Xingqiu:
+Oh, I almost forgot - adepti abodes tend to have very ingenious designs, especially when it comes to their defense mechanisms.
+Plus, it's likely to be crawling with monsters after being abandoned for so long. So please, be very careful.
+Paimon:
+Okay! We will be. Thanks, Xingqiu!
+Search for the abode around Lisha
+Paimon: Let's see... Xingqiu said it should be around here. But Paimon doesn't see anything..
+Shenhe: This place was hidden using a special adepti art.
+But now that I have removed it, we can inspect the area more closely.
+Paimon: Wow, that's amazing!
+Yep, let's take another look around..
+Paimon: Hey, look! Is that a new Seelie over there?
+Follow the Seelie
+Go to Sea Gazer's abode
+Talk to Shenhe
+Paimon: Wha... Weren't we at a waterfall just now?
+How did we suddenly end up here?
+Paimon: So many clouds... It feels like we're high up in the sky.
+Shenhe: I believe this is the abode of that adeptus.
+Shenhe: With any luck, the Sunset Vermillionite we're looking for should be in here.
+Paimon: Really?
+Let Paimon see... Huh? Isn't that the Seelie from before?
+Paimon: Look, it's gone and snuck beneath the clouds!
+Paimon: And now that Paimon takes a closer look, the rocks and trees here don't seem complete...
+Could there be something below the clouds?
+Traveler£ºWhat do you think, Shenhe?
+Shenhe: These are not real clouds. They are the product of an adepti art used for spatial partitioning.
+Shenhe: If we want to go down, we must first destroy the mechanism that is maintaining the adept art.
+Paimon: Alright! Then let's do it!
+Shenhe: I sense the presence of monsters in this place.
+I don't know where they are hiding, so we'd better be careful.
+Activate the seal on the ancient array core
+Destroy the abode's barrier
+Land safely on the next level of clouds
+Destroy the abode's barrier
+Land safely on the bottom level of the abode
+Continue onward to find the Sunset Vermillonite
+Destroy the abode's barrier
+Search for the Sunset Vermillionite
+Talk to Shenhe
+Paimon: Is this it? Is this the Sunset Vermillionite?
+Paimon: It's so huge.
+Traveler£ºSo is the Jade Chamber.
+Paimon: That's true. But then again.. why isn't it floating?
+Shenhe: Plaustrite doesn't float until it's activated. It may look different from most ordinary stones, but it weighs around the same amount.
+Shenhe: Only after being activated does Plaustrite reveal its true nature, breaking free from the shackles of the mortal realm and ascending up into the heavens.
+Paimon: Wow, Shenhe!
+You seem to know everything about this!
+Shenhe: Only because my master is fond of chatting about these things.
+The moment she has some time to spare, she'll come straight for me and start telling story after story.
+Shenhe: I don't care for her stories most of the time. I certainly didn't expect them to ever come in handy like this.
+Traveler£ºI wonder who this master is...
+Paimon:
+Hold on a sec! Paimon just realized something!
+Paimon: If we activate it here, there's no way we'll be able to get it back to the site, right?
+Heck, we'll be dragged up into the sky, too.
+Paimon: But if we don't activate it, how else are we gonna lift it? This rock must weigh well over a thousand pounds, surely?
+Shenhe: Don't worry. I can handle the weight quite easily.
+Paimon: Are you sure? Uhh, be careful!
+Shenhe: Please, don't worry. I'm well aware that a Plaustrite sample this large must be highly valuable. I will be gentle with it and make sure it does not get damaged.
+Traveler£ºPaimon meant you, Shenhe.
+Shenhe: ¡­My safety?
+Paimon: That's right!
+Paimon's sure you can handle it and everything, but if something this heavy lands on you, you're gonna get yourself hurt, no matter who you are.
+Paimon: You gotta be extra careful when lifting heavy objects. It's just common sense!
+Shenhe: Is it, now... Well then, thank you.
+Shenhe: I'll go on ahead with the Plaustrite.
+Let's meet at the building site later.
+Shenhe lifts up the Plaustrite and leaves.
+Return to the Jade Chamber worksite to look for Shenhe
+Changfeng: Oh my god! I can't believe my eyes!
+Anshun: How can she lift that massive rock all by herself? She's gotta be one of those adepti, surely?
+Leming: O, mighty adeptus, please give me your blessing, so that in the coming year, I may reap a more bountiful salary...
+Baiwen: This is top tier, in size and quality, and the condition it's in is quite simply immaculate... Congratulations, this item is approved for submission.
+Baiwen: I'm going to award you full marks for the "Sunset Vermillionite" item... May I take your name?
+Shenhe: My name isn't important. I'm not even here to compete.
+Shenhe: I was just delivering this for some other people. They should be here any minute now¡­
+Paimon: Shenhe! And Ningguang's little helper!
+Baiwen: Ah, so you're the ones behind this. No wonder. The rarest talent turns in the rarest Plaustrite specimen.
+Baiwen: But I have to correct you on one point. It's not "helper." It's "secretary."
+Paimon: Hehe... Okay then, Miss Secretary, what do you think of the rock we found?
+Pretty amazing, right?
+Baiwen: In truth, it is the finest piece of Plaustrite we have received so far.
+Baiwen: If everything goes according to plan, we will use this piece in the foundation of the Jade Chamber, which will enable us to proceed to the next stage of construction.
+Baiwen: As a side note, Lady Ningguang has rented some dwellings in the nearby area to serve as accommodations for the contestants. If you need a place to rest, you are welcome to stay there.
+Baiwen: Now, please excuse me. As you can see, there is still a lot of work to do on the building site.
+Paimon: Shenhe, Shenhe, just now on the way over, pretty much everyone was singing your praises!
+Shenhe: ..Oh really.
+Paimon: What kind of reaction is that!?
+So strange, aren't you happy about it?
+Paimon: Whenever Paimon gets praised, Paimon can't help but hold her head up high and break into a big, smug smile!
+Shenhe: I've had similar compliments before.
+Shenhe: They call me an adeptus, treat me with great deference and respect, as if I'm set apart from the common folk.
+Paimon: Yeah... 'cause that's how adepti are.
+At least, the ones we've met are pretty unique and reclusive, too. Way different than normal people.
+Shenhe: But I am not... Ugh.
+Paimon: Shenhe?
+Traveler£ºAre you alright?
+Shenhe: I'm fine. I've been exerting myself quite a lot ever since we set foot in that abode. I'm just a little fatigued.
+Paimon: Ummm... Well, Baiwen said that there are some makeshift hotels we can use, right? Let's go check in and take a rest!
+Shenhe: No need. I simply need to find myself a secluded place in the wilderness to sit and meditate in silence.
+Paimon: You can't do that! It's dangerous out in the wild on your own!
+Paimon: When you're hungry, you go eat something tasty, and when you're tired, you go lie down in a nice comfy bed, alright? Seriously, don't punish yourself like this.
+Traveler£ºPaimon is right!
+Shenhe: ¡­Okay.
+If you insist.
+Paimon: Great, now we're talking.
+Let's head to our hotel, Traveler!
+Bring Shenhe to a nearby makeshift hotel to take a break
+Talk to the hotel owner
+Ju'an: Hi there! Checking in, are we?
+You're just in time - we only have two rooms left.
+Ju'an: Since this was chosen as the building site for the new Jade Chamber, we've had a constant stream of people in this area. And not just workers, either - visitors, business people, tea sellers, all sorts.
+Ju'an: So business is booming for me today. Very few vacancies. You're lucky you got here when you did!
+Paimon: Great!
+Ju'an: One of your rooms is still being cleaned, I guess it should be ready within the hour. The other room is just through the door on the left.
+Ju'an: Here are your keys... Alright, hope you enjoy your stay. Please excuse me, I'll leave you to it.
+Paimon: Shenhe, you should go get some rest. We'll hang around outside until the other room's ready.
+Paimon: Paimon's gonna go see if there's anything good to eat around here... Hehe, Paimon couldn't help but notice one of the guests walk in with a huuuuge Grilled Chicken Drumstick before!
+Paimon: Let's buy one for Shenhe, too! She can have it as a midnight snack.. or save it for breakfast tomorrow!
+Shenhe: Alright. I will head to my room for now.
+Shenhe: If you need anything, don't hesitate to disturb me.
+I'm a light sleeper. I will hear if you knock on the door.
+Traveler£ºHave a good rest, Shenhe.
+Shenhe: Mm-hmm.
+See you tomorrow.
+Before you know it, Cloud Retainer has also arrived.
+Paimon: Hey, isn't that Cloud Retainer?
+What's she doing here?
+Paimon: Let's go and say hi!
+Talk to Cloud Retainer
+Cloud Retainer: One trusts you have met Shenhe.
+So, are you getting along quite well?
+Paimon: So far so good, yeah... So you know Shenhe, too, Cloud Retainer?
+Cloud Retainer: Naturally.
+Save for Ganyu, who spends the majority of her time in Liyue Harbor, all the adepti living today are acquainted with Shenhe to some degree.
+Paimon: Cool! So... what's her adeptus name, anyway?
+Paimon: Calling her "Shenhe" feels kinda friendly, but also kinda disrespectful.
+So Paimon's thinking, maybe it'd be better if we called her by her adeptus name instead?
+Cloud Retainer: Her adeptus name? Why, pray tell, would Shenhe have an adeptus name?
+Paimon: Uh... don't all adepti have a special title they go by?
+Cloud Retainer: On this latter point, you are correct. However... Shenhe is human.
+Paimon: Oh, oh, right... Wait, what!?
+Traveler£ºI thought so.
+Paimon: What? You knew already, Traveler?
+..Ugh, so is Paimon the only one who didn't know?
+Cloud Retainer: Do you mean to say that she presents differently from ordinary human beings?
+Paimon: Well... to start with, her problem-solving methods are... extremely direct.
+Cloud Retainer: Hah... Yes, she was like this all those years ago when one first met her. In this respect, she has not changed.
+Cloud Retainer: One first found Shenhe by chance in a cave.
+One was passing by and sensed the presence of a god's remains. Being of an ever-vigilant disposition, one entered immediately to inspect the scene.
+Cloud Retainer: Inside was Shenhe. then aged around six years old. In her hand, she held a dagger, with which she was confronting a monster that was the god's remains incarnate.
+Paimon: That sounds so dangerous..
+Cloud Retainer: When one arrived, she had already been locked in confrontation with this monster for several days.
+Most mortal children are fragile, both physically and mentally, and are highly reliant on their parents for survival.
+But not so her.
+Cloud Retainer: That she was able to endure such terrible danger was due not only to her strong willpower but also to the bloodlust and homicidal instinct with which she was born.
+Cloud Retainer: One dealt with the monster, yet she still refused to lower her guard. She even pointed her dagger in one's direction and remained ready to strike.
+Only after she was satisfied that one had no intention to cause her harm did she finally relent. She then passed out without uttering a single word.
+Paimon: In other words, if you hadn't passed by that day, Shenhe might have¡­.
+Cloud Retainer: Not necessarily.
+Upon one's arrival, one could sense that the god's wrath was gradually receding.
+Even had the stalemate continued, one suspects that Shenhe may have still emerged the victor of the confrontation.
+Paimon: That's still so dangerous though!
+Why was a tiny little kid battling against the wrath of a god in the first place!?
+Cloud Retainer: Alas, the mortal world is rife with suffering of every kind, and she had experienced her fair share of this even at a tender age.
+Seeing that she was homeless, one decided to adopt her.
+Traveler:So when Shenhe talks about her "master," she means¡­
+Cloud Retainer: Indeed, it is one to whom she refers.
+Shenhe has an extraordinary constitution, making her well adapted to practicing the adepti arts. All the adepti cherished her talents, and so we were willing to train her.
+Cloud Retainer: However, her homicidal urges did not subside with age. Rather, they grew stronger day by day...
+Cloud Retainer: Moon Carver once performed a divinationfor her. He declared that "Her fate is to bear the curse of calamity. Consumed by malevolent energy, she is prone to bring harm to those around her.
+Such is the magnitude of the danger this poses that her soul must be bound with red ropes to keep her homicidal instinct at bay."
+Cloud Retainer: The red ropes have indeed served to keep her calmer and more content, but also seem to have rendered her somewhat. inexpressive. Perhaps the red ropes are so powerful that they have suppressed some of her other emotions as well.
+Cloud Retainer: It is only by fate that people's paths may cross.
+Now that Shenhe's path has crossed with yours, please be sure to treasure the gift that fate has given you, and take good care of her.
+Paimon: Ohhhh, now Paimon gets it. You came out here to check up on Shenhe because you were worried about her, didn't you?
+Cloud Retainer: Hmph! You dare draw such a facile conclusion on the nature of one's present excursion?
+Incorrect. The truth is that while Liyue Harbor may seem peaceful today, danger is always lurking in the shadows.
+Cloud Retainer: Ningguang once made a bold assertion that this is to be the era of the contract between Liyue and the humans¡­¡­ Well. One is most curious to observe how she will respond to the coming storm.
+Cloud Retainer: If she handles it admirably, one is willing to be a witness to her achievements.
+But if she does not... the adepti shall not hesitate to seize control.
+Cloud Retainer: Let us conclude our conversation here for today. One has occupied enough of your time, and night is approaching.
+Be sure to get ample rest.
+Wait until the following day (08:00 - 12:00)
+Cloud Retainer: There seem to have been a growing number of tales told regarding Shenhe in recent years. Perhaps she was seen on the previous occasion when she secretly ventured out from the mountains.
+Cloud Retainer: One has heard that a playwright in Liyue Harbor wrote an opera based on the legends told about her. It is called "The Divine Damsel of Devastation."
+Cloud Retainer: The play portrays her as making a stand to protect her fellow villagers... Hehe, one can only surmise that every story needs a hero.
+Cloud Retainer: A human raised by the adepti is precisely what Liyue needs right now. It is also what the adepti wish to give to Liyue.
+Talk to Shenhe
+Paimon: Hey... So, Shenhe...
+Shenhe: ¡­..Master has relayed my situation to you, I take it.
+Paimon: Oh?
+How did you know?
+Shenhe: I'd intended to wait until you came back before going to sleep, but I didn't hear you come in.
+Shenhe: I was worried that something may have happened to you. So I went outside to check, and caught sight of my master.
+Shenhe: On top of this, you have been acting very strangely around me this morning, causing me to suspect that my master must have told you everything about me.
+Shenhe: After all, master is... very talkative.
+Paimon: Hehe... Sorry, Shenhe. Paimon had you down as an adeptus this whole time, but it turns out Paimon was wrong.
+Shenhe: It's okay. I don't mind.
+Shenhe: The fault is mine for not explaining everything to you sooner.
+Because in my experience, trying to explain is a futile pursuit.
+Shenhe: Still, though you mistook me for an adeptus, you never treated me as distant and unapproachable. Instead, you treated me as you would a friend...
+Shenhe: For this, I am very grateful indeed.
+Paimon: To be fair, we've met our fair share of real adepti, too.
+Paimon: Anyway, now it's settled! From now on, you're our friend!
+Whether you're an adeptus or a human isn't the important thing - first and foremost, we're just plain old friends!
+Shenhe: Got it.
+Although I don't know quite what it entails in terms of what I have to do, I must say I like the title "friend" very much indeed.
+Paimon: Great!
+Well, now that we're all rested up, we should start searching for the other two items on the list.
+Paimon: But before we do that, let's go to the building site and ask Ningguang's little helper how the progress is going.
+Paimon: After all, Sunset Vermillionite is so rare, Paimon doubts many competitors will really be able to find any. If it turns out some of them have given up already, we'll be able to take things a little more slowly.
+Bygones Times Like Dust Passing
+Only two materials left to find. Time to ask around at the worksite.
+Go to the worksite to ask around for news
+Paimon: Look, look, Traveler, The Jade Chamber is floating into the sky!
+Paimon: But it seems to be tied down by something...
+Baiwen: That's because it's not finished.
+Paimon: Hey, Baiwen!
+And hey Beidou!
+And hey, um... person Paimon doesn't know...
+Baiwen: Given the enormous scale of the Jade Chamber, we split the construction work into two phases to make sure the structure remains balanced.
+Baiwen: Before we find some suitable Plaustrite, we build the Jade Chamber's keel at ground level.
+Baiwen: Once the Plaustrite is ready, we place it into the keel and let the partially-constructed Jade Chamber rise up to the height of the surrounding mountain peaks.
+Baiwen: The remainder of the construction work is then carried out at that altitude.
+Once everything is ready, we release the iron tethers and allow the lade Chamber to rise to its target altitude.
+Changgui: Miss Baiwen, we've brought some new materials to submit-
+Baiwen: One moment. I'll be right there.
+Baiwen: The construction work has only been able to progress this rapidly thanks to the Plaustrite provided by you.
+Lady Ningguang is most grateful and looks forward to seeing more of your work.
+Beidou: Wow!
+Can't believe you sourced the Plaustrite so quickly - it's the key piece of the puzzle. Looks like you beat us to the punch.
+Paimon: Beidou... you're joining the Jade Chamber contest too?
+Beidou: Sure am.
+I happened to get my hands on a chunk of Sunset Vermillionite on a voyage a while back, so I figured I'd bring it over.
+Paimon: Huh, so even though it's rare, we're not the only ones who managed to get hold of it..
+Beidou: Oh, I've got some introductions to do:
+This is the renowned Ms. Yun, or Yun Jin, probably the most famous figure in the Liyue opera scene.
+Yun Jin: Greetings.
+Beidou: These two are Paimon and the Traveler, both good buddies of mine, and this is...
+Um, sorry, I'm not sure we've met...
+Shenhe: Shenhe.
+I am their... friend.
+Beidou: Hahaha... Good to meet ya!
+A friend of a friend is my friend too - or as I like to say, a mate of a crewmate is part of the crew!
+Beidou: Ms. Yun is also here for the contest. Turned out she needed to borrow a boat, so we came together.
+Yun Jin: It's an honor to finally meet you both.
+I've heard much about you.
+Ms. Shenhe, though we are only meeting for the first time, I have a feeling that we will get along very well indeed.
+Yun Jin: To be honest with you all, I am in great need of this opportunity to ask Lady Ningguang a question. That's why I joined the contest.
+Thanks to my father's connections, I was able to acquire a specimen of the Plaustrite required. Fortunately, it was approved for submission, despite being a little on the diminutive side.
+Paimon: Wow... So it looks like the three of us are competitors now!
+Yun Jin: Excuse me for prying, Ms. Shenhe, but... are you competing as well?
+Shenhe:
+No. I don't have any questions for Ningguang. I just wanted to help Traveler win.
+Yun Jin: In that case... I have a proposal to make.
+Yun Jin: Lady Ningguang said that the first three contestants to procure all three materials will be awarded the chance to ask a question.
+Well, there are three teams here. We can split the prize between us.
+Yun Jin: Instead of competing against each other, we could work together to secure the top three places between us.
+What do you think?
+Paimon: Sounds great!
+But how does that change things, exactly?
+Beidou: Haha... I think I see where you're going with this, Ms. Yun.
+Beidou: The Plaustrite was the most difficult item to source by a long shot.
+Luckily, all three of us managed to get our hands on it. The two remaining items aren't quite so rare, so as long as one of us finds a way to source it, the other two can hop on the bandwagon.
+Beidou: How'd I do? Is that what you had in mind?
+Yun Jin: Precisely.
+Shenhe: Huh. Interesting approach.
+Beidou: Okay then!
+Alright, I'll go first. I have some leads on these "Wonder Cores.'
+Beidou: From what I've heard, the core itself is really not that difficult to make. The hard part is getting hold of the ore used as raw materials.
+I'm gonna head back to the ship and ask Suling if he's heard of them, you guys-
+Yun Jin: We will head into town and seek advice from Master Zhang of Hanfeng's Ironmongers.
+Thoughts, Traveler£¿
+Traveler£ºSounds good. Let's go.
+Beidou: Wonderful.
+We'll split into teams then, and whoever makes progress first brings all of us a step closer to victory.
+Beidou: I'm gonna take off - see you later!
+Paimon: Okay. Let's go.
+Paimon: By the way, what question are you gonna ask Ningguang, Yun Jin?
+Yun Jin: I'm looking for a venue to host the performance of our new opera.
+Lady Ningguang has excellent judgment, so I would like to hear her opinion.
+Paimon: Whoa. What's the opera called?
+Paimon wants to go see it!
+Yun Jin: The opera is a labor of love by my father. He wrote it based on a popular urban legend about an evil spirit and an adeptus.
+Yun Jin: It's called "The Divine Damsel of Devastation.'
+Ask Master Zhang about Wonder Cores
+Master Zhang: Hmm?
+Ah, hello.
+Are you here for something off-the-shelf? Or do you need something forged?
+Yun Jin: Excuse me, Master Zhang, we were wondering if you'd heard of something called a "Wonder Core.
+Master Zhang: Of course I have.
+Sorry, um... who's asking?
+Yun Jin: My name is Yun Jin.
+Perhaps you don't know me, but I believe that you've forged some weaponry for my father in the past, for stage use.
+Master Zhang: Yun Jin?
+Stage use?
+..Oh! So... you must be Ms. Yun?
+Master Zhang: Ahem, sorry, my brain's finally caught up! It's not used to doing much beyond bashing a hammer all day...
+Everyone's heard of you, Ms. Yun! Even folks who don't make it to the opera all that often, like myself.
+Master Zhang: So. You're here to ask about Wonder Cores, huh?
+As it happens, I do know how to make them.
+Matter of fact, I made some for Lady Ningguang back when she was building the original Jade Chamber.
+Master Zhang: The types of ore needed to make Wonder Cores are a little hard to come by. Lady Ningguang supplied them herself last time - I don't suppose you've brought any yourselves?
+Paimon: No... We were gonna ask you what kinds of ore we need!
+Master Zhang: Sure. Well, you'll need two kinds: Starsplinter Iron and Subrosium.
+Master Zhang: If I remember correctly, Lady Ningguang sourced her Starsplinter Iron from the Mt. Tianheng area.
+They say it resonates with Visions.
+Master Zhang: It could take some work, but if you stick with it, you'll find some eventually.
+As for the Subrosium, though. that's trickier. It's all but unheard of on the market...
+Traveler£ºThen... where do we start?
+Master Zhang: Uh.. I'm really not sure, sorry.
+What I've heard is that the people around Mt. Tianheng have some sort of magic trick that can pinpoint the location of the stuff.
+Master Zhang: Of course, it's probably just hearsay.
+If you want my advice, start by looking for Starsplinter Iron around Mt. Tianheng, and if you run into any locals, ask them a few questions about Subrosium.
+Shenhe: Mt. Tianheng¡­..
+Yun Jin: Interestingly enough, the story of "The Divine Damsel of Devastation" also takes place on that mountain.
+Yun Jin: I hear the view there is quite spectacular. A favorite destination of the adepti, in fact.
+Yun Jin: Perhaps it can give me some inspiration.
+Let's not delay, we should head straight there.
+Go to the southwestern side of Mt. Tianheng
+Talk to Yun Jin
+Yun Jin: I came to Mt. Tianheng once with my father as a child.
+I remember it being such a long climb that I could barely feel my legs by the time we reached the top.
+Yun Jin: This is quite a trip down memory lane for me... Look at these majestic towering peaks and the gently flowing streams. It's like setting foot in paradise.
+Yun Jin: No wonder the legend of "The Divine Damsel of Devastation" is said to have taken place here.
+"Adepti wander oft where mortals seldom stride." Indeed, this looks like a place that one might expect to be frequented by adepti.
+Paimon: "The Divine Damsel of Devastation" is your upcoming opera, right?
+And the story takes place in Mt. Tianheng, huh... Seems like you have a real connection with this place!
+Paimon: What's the story about, though?
+Yun Jin: It's... the story of a girl becoming a hero.
+Paimon:
+Cool, a hero story! They're Paimon's favorite!
+Yun Jin: The legend first arose in this area.
+It is said that there used to be a prosperous village on the mountain.
+Yun Jin: In that village, there was a loving couple who were completely devoted to one another.
+One day, a terrifying monster appeared.
+Yun Jin: The wife was out collecting herbs and was captured by the monster.
+Her husband was so distraught at the news that it broke his spirit, and drove him to madness.
+Yun Jin:
+The vile and vicious monster told the villagers, "If you want to live, you must sacrifice a child to me!"
+Paimon: What a nasty piece of work! Ugh!
+Paimon sure hopes this monster gets put in its place!
+Yun Jin: But the monster was so terrible and so strong that all within the village were terrified of it. They had no choice but to give in to the monster's demand.
+Yun Jin: Just while they were discussing whose child would be given over to the monster, a little girl suddenly stood up and came forward.
+Paimon: No! Don't do it, little girl!
+Yun Jin: Unbeknownst to anybody else, she was concealing an exorcist's blade. She approached the monster's lair, feigning fear and trepidation... When she finally arrived, she courageously drew her sword and entered into a fierce struggle with the monster, from which she eventually emerged as the victor.
+Yun Jin: Her extraordinary abilities drew the attention of the adepti, and they took her as one of their own. Her story became the stuff of legends...
+But alas, the paths of mortals and adepti seldom cross, and she would never again re-enter the mortal world.
+Yun Jin: "And so, destined to grace the mortal realm for but a brief moment, she vanished like a wisp of smoke into thin air." That's how the opera ends.
+Traveler: (Look at Shenhe.)
+Shenhe: I really like this story.
+Shenhe:
+But I personally think that perhaps the little girl was... not as brave as the opera makes her out to be.
+Shenhe: I'm not sure she deserves all the praise she is given.
+Yun Jin: I've never considered that before.
+Yun Jin: Opera is always an interpretation of the events it purports to portray. A certain degree of deviation from the truth is always inevitable.
+Yun Jin: When my father wrote the script for this play, I suppose his intention was to inspire his audience with the character of the divine damsel.
+Shenhe: Mm.
+I think it's a great story. The ideal story.
+Paimon: Well... it sure inspired Paimon!
+Let's go get ourselves some Starsplinter Iron! Yeah!
+Use Visions to find the Starsplinter Iron
+Ask the old man for information about Subrosium
+Paimon: Hey, there really is someone here!
+Paimon: Yun Jin, looks like you were right.
+Excuse us, Sir! Can we ask you something?
+Villager: ...
+Paimon: Huh, he didn't seem to catch that, Traveler¡£
+Yun Jin: Hello, Sir. We were just passing by and wanted to ask if you happened to know anything about Subrosium.
+Villager:...
+Paimon: Is he tryna tell us to look for clues in the village...? Well, whatever. Guess we're on our own here.
+Paimon: Shenhe, Yun Jin, ?Traveler, let's have a look around!
+Shenhe:
+Sorry, you can go ahead without me. I'd like to have a word with this gentleman.
+Shenhe: If that's okay with you...
+Uncle Mingjun?
+Mingjun: It's... it's..!
+Shenhe: Shenhe.
+Mingjun: Shenhe... You're alive?
+The rumors were true?
+So, all these years.
+Mingjun: I'm sorry, I don't know how to find Subrosium.
+But I think you can find some information in the village...
+Mingjun: This place is deserted now. No one ever comes here. So you can rummage around all you want.
+Paimon: Huh? You know this guy, Shenhe?
+Shenhe:...
+Yun Jin: Thank you, kind sir. We'll go and take a look around.
+Yun Jin: Don't worry. Mingjun has no ill intention towards Ms. Shenhe. She'll be quite safe.
+Paimon: Okay. Then let's see what we can find in this village.
+Search for records left behind in the village
+You found a ragged notebook in the village.
+It records the sad story of a father who sought to revive his wife by sacrificing his daughter Shenhe.
+Yun Jin: What's this.?
+Traveler£ºMaybe this is the true story of "The Divine Damsel of Devastation."
+Yun Jin: So... Shenhe is the divine damsel?
+Yun Jin: Now that I think about it, she does behave rather like an adeptus, and she is about the right age.
+Yun Jin: So that's why I've been getting the strangest feeling whenever I chat with her. I should've noticed it earlier.
+Yun Jin: According to this text, the "divine damsel" from the opera was actually the daughter of the loving couple.
+Yun Jin: And... she didn't volunteer. She was... sacrificed to the monster. By her own father.
+Yun Jin:...
+Yun Jin: The truth is even more lamentable than the opera.
+Now I understand why Shenhe said the girl was not as brave as people think.. It wasn't her choice to enter that ghastly situation. She was forced into it.
+Yun Jin: It looks like my father may need to make a few revisions to his beloved opera...
+You found a migration record in the village, which records how a family was shattered and the village was forced to relocate.
+Yun Jin: So it seems that Shenhe's father thought he was summoning a benevolent deity using a magic incantation, but in fact he summoned an evil god's remains, which took the form of a monster.
+Yun Jin:
+His obsessive yearning for his deceased wife led to a terrible tragedy, the villagers moved away in fear without ever learning the truth. and now this place is deserted.
+Yun Jin: Still, I do wonder what the connection is between Shenhe and Mingjun.
+You found a text named "Mountainous Miscellany," which records the method to find Subrosium.
+Paimon: This is it!
+Paimon: So basically, we need to go to the middle of the lake south of Mt. Tianheng at dusk, and we'll find us some Subrosium.
+Paimon: Let's go back and tell Shenhe the news.
+Talk to Shenhe
+Mingjun: One year when I was back visiting, I heard a story about a white-haired adeptus from a merchant passing by. I never imagined it was you.
+Mingjun: I was a very close friend of your father's. I could have stopped him from performing the summoning ritual - I had plenty of chances, but... I couldn't bring myself to stand up to him. I just let things happen, let it all escalate, and.¡­ Well, we all know how that story ended.
+Mingjun: I bring flowers back here every year, and each time I wish I had a chance to apologize to you.
+Shenhe: Apologize for what?
+If you'd stopped him, he'd only have found another way.
+Shenhe: There is nothing he wouldn't have done for his true love. Nothing.
+Mingjun: Do you still... hate him?
+Shenhe: I don't know what I feel.
+I'm told my fate is to bear the curse of calamity, so my master bound my soul with red ropes to curb my aggression. But it also dampened my emotions, making me dispassionate like the adepti.
+Shenhe: So if you ask me how I feel about the past, if I hate my father or not... The truth is, I feel nothing at all.
+Mingjun: It must have been so tough for you all these years...
+Paimon: Shenhe. we're back!
+Mingjun: Oh, then I will leave you all in peace. Shenhe, it brings me some solace knowing that you are okay.
+Mingjun: I'll tell you more about the old times next time we meet.
+Paimon: Thanks, mister! We found some info in the end!
+Paimon: Shenhe, look! This tells us how to find Subrosium. All we gotta do is go to the middle of that lake!
+Shenhe:
+Hm? Let's go then.
+Yun Jin: ...
+Yun Jin: Ms. Shenhe, there's something I'd like to talk to you about.
+Yun Jin: Just now, in the village, we found your father's diary... It turns out that many of the details in "The Divine Damsel of Devastation" are not true to the facts. So I'd like to change them.
+Shenhe: Why?
+Yun Jin:
+I know I say that opera always deviates from the truth, but now that the main character is standing right here in front of me, I cannot simply dismiss your lived experience in favor of my father's fiction.
+Shenhe: It's okay. I like your version.
+Yun Jin: Huh?
+Shenhe: My master once said that the day I learn how to use my strength for the good of others is the day that I can truly become part of human society.
+Shenhe: So I hope that one day, I might be brave enough to stand up and protect others, just like the girl in the opera.
+Shenhe: But I've never thought this way before and I wonder whether I will continue to think in this way.
+Yun Jin: Don't worry. I believe you will.
+Yun Jin: In fact, I think maybe you've already started to become the person you aspire to be. You just haven't had become the person you aspire to be. You just haven't had the opportunity to see it for yourself yet.
+Paimon: Shenhe, Yun Jin, cut the chit-chat!
+Let's go!
+Paimon: We can't let someone else beat us to it!
+Look for Subrosium
+Give the two types of ore you found to Master Zhang
+Master Zhang: Goodness...
+Paimon: S--So, are they okay?
+Master Zhang: This is some top-quality ore you've found. I think I'll get a good end product out of these.
+Master Zhang: Guess now it's my time to shine...
+Beidou: Hey everyone. How's the A-Team doing?
+Beidou: I ran into a bit of a brick wall on my end.
+Suling's never seen a Wonder Core before, and says it'd take a lot of research for him to get up to speed...
+Master Zhang: Leave the Wonder Cores to me. I'll work on them while you go about your business.
+Master Zhang: Don't worry, it won't take me too long.
+Yun Jin: Much obliged, Master Zhang.
+We should look into the Adepti Sigils next, but where should we find items relating to the adepti?
+Shenhe: I'll sort that out.
+Beidou: Oh? You got this then?
+Shenhe: Yes. I have been training with the adepti for years. I know a thing or two about making sigils.
+Shenhe: When we first met, I told you I came for the Jade Chamber, not the contest.
+Shenhe: In fact, I came specifically to deliver Adepti Sigils.
+Master heard that Ningguang was planning to rebuild the Jade Chamber, so she sent me to deliver some Adepti Sigils to her.
+Shenhe: Master also said she hoped that I can take this opportunity to rejoin human society.
+But now that I'm here, I wonder if I've been removed from the world for too long. There's so much basic knowledge that I lack.
+Shenhe:
+Maybe it won't work for me to stay here after all.
+But either way, I'm very glad to have met you, and I'll take care of those Adepti Sigils.
+Beidou: Without knowing the ins and outs of your situation, I can't say whether you should stay or not.
+Beidou: But now that our paths have crossed, we'll always have a connection.
+So if you're ever feeling down, come find me on my ship. There'll be a drink waiting for ya.
+Shenhe: Thank you.
+Shenhe: So... Master Zhang, I'll need to use your facilities to make the sigils.
+Master Zhang: Fine by me, I'm actually curious to see how the adept arts work. Maybe I'll learn something.
+Master Zhang and Shenhe start making the Wonder Cores and the Adepti Sigils.
+Shenhe: Phew...
+Shenhe: The sigils are ready.
+Though they are in some respects inferior to my master's, I can assure you there will be no quality issues.
+Master Zhang: I've finished forging the things you asked for too.
+Paimon: Great!
+Let's go submit them before someone else gets there ahead of us!
+Where the Heart Finds Rest
+The time when the Jade Chamber takes to the skies again is drawing closer.
+Who knows what will happen when it finally does?
+Give the Wonder Cores and Adepti Sigils to the secretary.
+Paimon: Ningguang's little secretary! We've found all the materials!
+Baiwen: Oh?
+Already?
+Baiwen: All three of you found them together? Okay, I see.
+Baiwen: The Wonder Cores and Adepti Sigils look good.
+It seems that we've found our winners.
+Baiwen calls for the participants to gather...
+Baiwen: I hereby announce that the winners of this material procurement contest are it, Yun Jin, and Beidou!
+Hongfei: What? It's over already?
+I haven't even found the Plaustrite yet!
+Changgui: I can't believe it...
+Zhicheng: *sigh* So close, but so far.
+Baiwen: I'd like to invite our three winners to please proceed to the Jade Chamber, where Lady Ningguang is waiting for you.
+Paimon: Huh?
+Where's Beidou? She was right here.
+Baiwen: Captain Beidou has some business to attend to. She will join later.
+Please come with me for now.
+Paimon: Alright then, guess we'll head on up to the Jade Chamber first.
+Paimon: This has been a long time coming! The last time we went up to the Jade Chamber was aaaages ago!
+Talk to Ningguang at the Jade Chamber
+Ningguang: Combine the Adepti Sigils with the Wonder Cores and insert them into the lade Chamber's control compartment.
+Ningguang: The construction of the new Jade Chamber is now officially complete.
+Once the tethers are released, it will soar into the sky.
+Ningguang: Thank you all for your work.
+Now it is time for me to fulfill my promise.
+Paimon: Yeah!
+Ningguang: Ms. Yun, I've already heard something about the reason for your involvement.
+You are looking for a venue for your new opera, aren't you?
+Yun Jin: That's right.
+Lady Ningguang, I would like to hear your opinion.
+Ningguang: The unveiling of Ms. Yun's grand new opera surely requires a venue of equal grandeur. So what would you say if I proposed that we stage your first performance right here, in the newly built Jade Chamber?
+Ningguang: The Jade Chamber offers a splendid panoramic view of the mountains and the bustling city.
+It is fitting for the finest performance to be hosted in the heavens... I can think of no better stage for you than here, Ms. Yun.
+Yun Jin: Thank you, Lady Ningguang.
+Then I will prepare my props and other articles shortly. Please allow me to bring all these aboard the Jade Chamber.
+Ningguang: You're quite welcome.
+It's truly what a good opera deserves.
+Yun Jin: Traveler, Shenhe, Paimon, I'll be leaving now.
+Do come and see my play when the time comes.
+Ningguang:
+You're next, X*S. What is your question?
+Ningguang: I should clarify. I do not know your sister's whereabouts. So please, don't waste your question on this matter.
+Paimon: Wow... You're a mind-reader, Ningguang! Oh well, guess Paimon will ask a question then!
+Ningguang: ¡­Managing a successful business is not as simple as you might think.
+Capital, connections, sensitivity to the trends, an instinct for what is a good opportunity.. All of these traits are crucial.
+Ningguang: If you want to know how to make money, I will honor our agreement and give you an answer.
+But that is not to say that it will work for you.
+Paimon: Wow! Paimon hadn't even asked the question yet!
+Ningguang: Your question was written all over your face.
+Now look, you've helped me rebuild the Jade Chamber, and I intend to repay you handsomely for it.
+Ningguang: So I promise you that should you one day require financial assistance, you may seek employment here.
+I will pay you at the highest rate of remuneration.
+Paimon: Great!
+So next time we run out of Mora, we just need to come to Ningguang!
+Paimon: No more questions from us. Shenhe, you got a question?
+Shenhe: Me?
+Paimon: Yes!
+This was a group effort!
+Shenhe: Thank you... But I don't have anything to ask.
+Ningguang: Are you sure?
+This is a once-in-a-lifetime opportunity. I'd urge you not to squander it.
+Paimon: Yeah, just don't waste it!
+Hold on a second, Paimon can probably think of another one...
+Shenhe: Lady Ningguang¡­.. do you think I can ever fit in in Liyue Harbor?
+Ningguang: Now that is an interesting question.
+Ningguang: Liyue Harbor is very inclusive. As long as you respect the rules here, you will not be turned away.
+Ningguang: So the key is whether or not you yourself can develop a sense of belonging in Liyue Harbor.
+Shenhe: A sense of belonging?
+Ningguang: Yes.
+To become fond of a place, to feel part of it. it always requires a reason.
+Ningguang: Perhaps someone you've met or something you've experienced here. Or perhaps you enjoy the atmosphere of Liyue and you will become accustomed to it.
+Ningguang: In short, everyone needs a reason to stay. I hope you can find yours soon.
+Shenhe: ...I see.
+Beidou:
+Hey, what's going on?
+I just went to see the fleet, I'm a little later than expected.
+Paimon: Come on, Beidou, it's your turn!
+Do you have a question for Ningguang?
+Beidou: Me?
+Nah, I ain't got any questions.
+She forced me to help out, so I figured I may as well get involved with the contest.
+Beidou: Ningguang, don't forget what we talked about.
+Beidou: It's not gonna be easy to deal with. I don't think my fleet can take it on their own.
+Ningguang: Don't worry, I have made preparations.
+The wound dressings are ready and the Millelith have set up an ambush.
+Beidou: Glad to hear it.
+Watch your back. Stay alert!
+Paimon: Beidou, Ningguang, what are you talking about?
+Ningguang: You'll see when the Jade Chamber ascends.
+However... it's not the most pleasant topic of conversation. Maybe it's better that you don't know.
+Ningguang begins to prepare for lift-off...
+Ningguang: When I first set foot in the Jade Chamber, I stood at the edge of the platform and looked down upon Liyue Harbor far below.
+Ningguang: At that time, I dreamed that one day the Jade Chamber's shadow would be seen in all seven nations of Teyvat.
+Ningguang: My wish has not changed to this very day.
+However, it is not only out of consideration for myself that I have built the Jade Chamber anew at this time.
+Ningguang: I hope the Jade Chamber will always float in the skies above Liyue Harbor, bearing witness to the prosperity and peace of the human world...
+Ningguang: ¡­and I hope that you can all witness it with me.
+Ningguang: Let the ascension ceremony commence!
+The Jade Chamber rises slowly into the sky before your eyes.
+But it is also at that moment that you notice a raging storm forming above the ocean surface in the distance. From beneath it emerges a colossal monster.
+According to Ningguang, the monster is Osial's wife - Beisht, one who roams the oceans.
+Keqing and Beidou, who have been waiting, pounce on the opportunity and lead people to attack it. Wounded and thus angered, the monster summons a tsunami.
+Alarmed at the ominous turn of events, you draw your sword and charge toward Beisht-but are then knocked out by it.
+The looming danger reminds Shenhe of what happened to her in her childhood. To protect you and everyone else there, she charges resolutely toward Beisht.
+Defeat Beisht, "The Avenger of the Vortex"
+Speak to Ningguang
+Shenhe:...
+Traveler£ºAre you alright?
+Shenhe: I'm just a little exhausted. Otherwise, fine.
+Shenhe: I wanted to deal with it myself. I didn't expect you to follow me.
+Shenhe: Don't worry. She's not coming back any time soon.
+After an injury like that, she'll likely seek refuge somewhere else.
+Ningguang: How did things go underwater?
+Shenhe: It's been dealt with.
+She was injured before entering the water. It didn't take too much effort to finish the job.
+Ningguang: Good.
+So the crisis has been safely averted.
+When you visit the Jade Chamber in the future, you will be afforded generous treatment.
+Zhengmao: Lady Ningguang, the fleet reports that the sea monster has left Guyun Stone Forest and the surrounding waters have returned to normal!
+Ningguang: Thank you. How are the Millelith?
+Zhengmao: Thanks to the medical supplies you prepared and Lady Keqing's command, our losses were minimal.
+Zhengmao: Of course, we owe huge thanks to this young lady for her help.
+Zhengmao: On behalf of the entire Millelith, thank you for your service.
+Shenhe: I..
+Traveler£ºShenhe protected us.
+Shenhe: Great.
+Then next time I watch Ms. Yun's opera, I'll be able to take the compliments.
+Shenhe: I wasn't trying to be a hero, though. I just wanted to protect you.
+Ningguang: Let the soldiers recuperate.
+But don't let your guard down - if she returns with a vengeance, we must be prepared.
+Zhengmao: Yes, Ma'am!
+Ningguang: You've been monitoring us for some time now. I trust you've reached a conclusion.
+Cloud Retainer appears.
+Cloud Retainer: Hmph. You wish to hear one's opinion? Well.
+Things would have hardly gone so smoothly had it not been for Shenhe.
+Ningguang: That I do not deny.
+However, final victory was always going to be ours, even had things been a little more arduous.
+Ningguang: If it came to it, I could always destroy another Jade Chamber.
+Cloud Retainer: One has observed your adaptation of the Guizhong Ballista, and finds oneself compelled to admit that you have evidenced some degree of novel thinking.
+Cloud Retainer: You have learned from past failures and prepared for this crisis in advance. This is considerable progress compared to the last time.
+Cloud Retainer: Hence, on balance, one finds your performance during this trial satisfactory enough. But there will no doubt be further trials to come in the future. Do not suppose that one will not continue observing you hereafter.
+Ningguang: While the position of Tianquan remains mine, I will always ensure Liyue's safety.
+Cloud Retainer: Shenhe... One saw you secretly venture out from the mountains a few years ago, and noticed the air of dejection in which you returned.
+Cloud Retainer: Hopefully, this trip to Liyue Harbor has been a different experience?
+Shenhe: Yes.
+I can't explain it, but...
+Shenhe: I feel happier than I expected.
+Cloud Retainer: Good.
+Traveler, please take good care of Shenhe, she is a dear child.
+Cloud Retainer: In fact, one has many fond memories of Shenhe's childhood that you may be interested to hear about...
+Shenhe: There'll be no need for that.
+Cloud Retainer: Oh?
+Hmph. They are all like this.
+Cloud Retainer:
+Fine! Since you care not to listen, one shan't be telling you. One shall be going homeward now!
+Ningguang: Please have a good rest.
+Come to the Jade Chamber when you have recovered your energy.
+Ningguang: We must celebrate both the completion of the Jade Chamber and the fact that Liyue has weathered another crisis.
+This banquet must be the most spectacular ever.
+Head to the Jade Chamber to take part in the victory feast
+Enjoy the feast
+Paimon: Wow.. Everyone's already seated!
+Paimon: It's Paimon's first time attending a banquet in the Jade Chamber!
+The food here looks amazing!
+Ningguang: All of you here are my distinguished guests.
+I am determined that each of you thoroughly enjoys yourself.
+Ningguang: Those who don't drink alcohol, please help yourself to other beverages.
+Fine wine is a delight to the senses, but it is far from the only one.
+I trust you will find the marvelous view from the Jade Chamber to be an equally gratifying indulgence.
+Yongye: Have you heard?
+Ms. Yun's going to be performing today.
+Zhu Tao: Sure have, honestly, it's the main reason I'm here!
+I've never missed any of Ms. Yun's performances and I don't intend to start now.
+Zhu Tao: I hear she's going to perform "The Divine Damsel of Devastation" today, the one written by her father.
+I've been so excited that I've barely slept the last few nights.
+Shiyu: Hey, look, Ms. Yun is going on stage!
+Yun Jin takes the stage and sings a verse from "The Divine Damsel of Devastation."
+This time - in contrast to her past performances - she spontaneously adds a few new lines to the end:
+"From the world she seems apart, but there are those who know her heart."
+May the divine damsel in the opera never be lonely again, just as the lyrics say.
+Yun Jin: What did you think? Personally, I thought I sang rather well.
+Paimon: It was beautiful!
+Paimon wants to learn too!
+Shenhe: It was wonderful.
+Also... Thank you.
+Yun Jin: You're welcome. Thanks to you, The Divine Damsel of Devastation is a more nuanced tale than ever.
+Yun Jin: The play has an ending, but life goes on.
+I believe you will find a way to fit in in Liyue Harbor.
+Shenhe: Thank you.
+I think I've found the opportunity I needed to change.
+Zhu Tao: Ms. Yun... *hic*¡£.. Here you are. great to see ya.
+Zhu Tao: Huh?
+Hey, this young lady with the white hair looks like some kind of VIP.
+Yeah, that's it, like an adeptus.
+Zhu Tao: Wait, you're the girl from the opera, aren't you?
+The "divine damsel" herself!
+And look who else we have here, the illustrious Traveler Well I'll be... this was definitely worth showing up for.
+Zhu Tao: Lemme pull up a chair, alright? We'll all have a friendly chat, get better acquainted.
+Shenhe:..
+Shenhe: Alternatively, you could leave us alone. That is, if you'd prefer to finish your drink via the orifice of your own choice..
+Paimon: Uh-oh, this feels all too familiar... Shenhe's back to her old self again...
+Traveler£ºIt seems she still has a long way to go.
+Zhu Tao: Hey!
+What are you doing?
+Paimon: Calm down, Shenhe.
+Calm down...
