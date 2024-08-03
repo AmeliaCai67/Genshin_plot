@@ -1,0 +1,18 @@
+Unexpected Encounter
+Returning to Mondstadt, you encountered a clash between Jean and the Fatui. Afterward, you showed Jean the dragon tear that you found in the forest, and at her request, once again joined the investigation into Stormterror Dvalin.
+Leave the Knights of Favonius Headquarters
+Talk to Paimon
+Paimon: There's something you didn't tell them.
+Paimon: The dragon and the crystal weren't the only things we saw.
+旅行者: I'd like to investigate it on my own first.
+Paimon: So you do remember him, that green guy
+Paimon: He looked just like that guy down there!
+旅行者: The exact same shade of green, what a coincidence.
+Paimon: See? See?
+Paimon: Wait... Hold on a minute... That...
+Paimon: That's the same guy!
+Look for the suspicious person
+Talk to Paimon
+Paimon: That green guy disappeared!
+Paimon: Use Elemental Sight to track him down.
+Look for the suspicious person using Elemental Sight

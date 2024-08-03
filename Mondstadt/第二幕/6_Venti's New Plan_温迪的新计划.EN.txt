@@ -1,0 +1,37 @@
+Venti's New Plan
+Venti's plan to sweet talk his way into getting the Holy Lyre back backfires. He's come up with a new plan, but seems he'll need your help for it to work.
+Talk to Venti
+Venti: It didn't work... I knew it.
+Paimon: You "knew it"?
+Venti: I just wanted to know how influential 旅行者 - the hotshot of the Knights of the Favonius - is.
+Venti: You see, the best warrior should always be presented with the best sword, and yet here we are...
+Venti: Does the story not make for a fitting ballad?
+Paimon: So what are you trying to say? That we're not good enough?
+Venti: No, that's not it. More of a commentary regarding Mondstadt's inability to see the warrior standing right before its very eyes.
+Venti: Very well. Looks like borrowing it is not going to be possible. We're simply going to have to steal it.
+Venti: Today we stand for free will! Any suggestions on just how we steal it?
+旅行者: ...
+Venti: Come now, speak up. That's what free will is for.
+旅行者: I don't want to steal anything!
+Venti: Hahaha, look at you. Sidetracked from the start.
+Venti: But seriously, you're more suitable for the job than l.
+Venti: Aside from singing, I don't really have any other talents.
+Venti: Besides, if I was caught, I'd have no one to right the grave injustice of my arrest.
+Paimon: How can it be a "grave injustice" if you got caught stealing red-handed?
+Venti: But things are different for 旅行者. You are the superstar of the Knights of Favonius. You have made contributions to Mondstadt.
+Venti: Should you get caught, you would easily be able to talk your way out of it.
+Venti: The guards here, it seems they're off duty throughout the night.
+Venti: If we manage to seize this opportunity, it should be smooth sailing from here.
+Paimon: Stop mentioning us getting caught!
+Venti: 旅行者... What do you say?
+旅行者: I'm sorry- Wait... Did you just say... you're Barbatos?
+Venti: Ah, yes. Seems I did mention that...
+Venti: Your point being?
+旅行者: If you really are a god, then we can't simply abandon you.
+Venti: Why does your decision hinge upon whether or not I am a god?
+Paimon: Paimon'll fill you in on 旅行者's background story when we get the time...
+旅行者: And if you're not a god, then I'll help Dvalin anyway.
+Venti: Huh?
+旅行者: I will bring you the Holy Lyre der Himmel.
+Enter the Cathedral at night (18:00 - 06:00)
+Infiltrate the basement and obtain the Holy Lyre der Himmel

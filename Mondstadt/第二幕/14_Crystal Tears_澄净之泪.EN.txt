@@ -1,0 +1,39 @@
+Crystal Tears
+After completing the retrieval of the tears, you meet up with the rest of the group.
+Go to Dawn Winery
+Talk to Jean
+Paimon: Woohoo!
+Paimon: Dvalin Protection Squad! Assemble!
+Venti: Let's put our crystals together.
+Venti: Oh...
+Venti: The color of these crystals looks... muddy.
+Venti: Dvalin... You're going through so much pain.
+Venti: ...Let's start purifying these crystals first. Please, 旅行者.
+Jean: It is hard to believe such a thing is possible, until you've seen it with your own eyes.
+Diluc: Interesting. It's like filtering wine. The process is... refreshing.
+Venti: I think we should have enough tears now. So next we...
+Use Dvalin's Tear on the Holy Lyre
+Paimon: It worked!
+Jean: It seems completely different from before.
+Venti: The lyre's Anemo power seems fully restored. We should be able to use it now.
+Venti: It's all thanks to you, 旅行者.
+Jean: Now, where should we summon Stormterror?
+Jean: It must be away from the city, else there will be casualties should we fail.
+Jean: Perhaps here at the winery...
+Diluc: If the winery was destroyed, it's not something I couldn't eventually fix, but... I'd still rather not go through the hassle.
+Jean: ...
+Venti: The wind that blows at sea or in high places should be able to carry a bard's words far away.
+Venti: It's never going to work if the air is too dry or suffocating.
+Paimon: Paimon understands. Sea or high places, right?
+Paimon: Then the best location to play the lyre would be...
+旅行者: A cliff?
+Diluc: If you go east from Star fell Lake, there are mountains south of the beach.
+Paimon: Oh! You mean that beach you were snoring away on and Paimon had to wake you?
+Diluc: If you head to where the cliff juts out - that place is known as Star snatch Cliff.
+Diluc: What do you think, bard? Meets the requirements, no?
+Venti: Lemme think... Star snatch Cliff...
+Venti: ...Alright, let's do it there.
+Jean: Very well. Then let's meet at Star snatch Cliff when we are ready
+Jean: Please don't be late.
+Paimon: Hee-hee! Yes, Ma'am!
+Jean: Ah, sorry. I didn't mean to...

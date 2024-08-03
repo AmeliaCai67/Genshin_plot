@@ -1,0 +1,81 @@
+Shadow Over Mondstadt
+Thanks to your efforts, Mondstadt's elemental flow has returned to normal. It's time to report back to Jean.
+Return to Mondstadt
+Listen to Jean's conversation with the strange person
+Paimon: Isn't that Jean?
+Paimon: Seems she's talking to someone...
+Paimon: Let's let her finish, then go say hi?
+Anastasia: ...which is what has brought us to this point in the first place.
+Anastasia: If you are unable to promptly deal with the Stormterror threat, then leave the defense of Mondstadt to the Fatui.
+Anastasia: We can put an end to Mondstadt's dragon issues. All we need to do is bring that monster to the-
+Jean: "Monster"?
+Anastasia: Yes. What's your point?
+Jean: Ah...
+Jean: I'd expect a more professional attitude from your diplomats.
+Jean: Yet here you are saying you want to "put an end" to one of The Four Winds of Mondstadt?
+Jean: I won't have any of this nonsense in front of the Knights of Favonius.
+Anastasia: Heh... Hehehe... It's not as crazy as you make it sound.
+Anastasia: Fine. That's enough negotiation for today.
+Anastasia: At this stage it's simply... an amicable exchange of constructive opinions, no?
+Anastasia: I'll be sure to make... thorough notes...
+Jean: Oh, ������, you're back.
+Jean: Thanks for your help. The elemental flow is finally stable
+Jean: The aftermath of Stormterror's last attack is finally settled for the moment.
+Jean: However, the pressure from the delegation has become too big to be ignored...
+Paimon: Delegation?
+Paimon: From Liyue Harbor or Inazuma City?
+Jean: Snezhnaya. They choose to follow the God of Cryo.
+Jean: Their envoys go by a particular name: The Fatui. Heard of them?
+Paimon: Oh, them. They are super famous
+Paimon: Wait, infamous is more the word..
+Jean: I don't think killing Stormterror is the right course of action.
+Jean: The Cryo God's Fatui have always coveted the Anemo God's power.
+Jean: I don't believe they have Mondstadt's best interests at heart.
+������: Speaking of power...
+Jean: What is it, ������?
+������: There's something I need to show the Knights of Favonius.
+Jean: Oh? Let us head back to headquarters then.
+Jean: We shouldn't discuss important matters... out in the open.
+Return to the Knights of Favonius Headquarters with Jean
+Jean: Mondstadt and Snezhnaya are considered the same in status.
+Jean: Mondstadt is independent, and does not belong to any other nation.
+Jean: In fact, despite being referred to as a city, Mondstadt is a nation.
+Jean: Though, Snezhnaya's Fatui are known to be the most aggressive diplomats in Teyvat...
+Paimon: Makes sense, given the tone of that woman just now - so rude!
+Talk to Jean
+Jean: It's a crystal embedded with some kind of power... Lisa, are you able to analyze it?
+Lisa: Let me take a look...
+Lisa: Hmm... I can see impurities in the crystal, but upon further inspection...
+Lisa: No, I'm sorry, I can't make a proper analysis at the moment. Give mesome time. I'll take a look through the library's restricted section.
+Jean: Right. I'll leave the research to you then, Lisa.
+Lisa: Understood. I'll notify you all if I make any progress.
+Lisa: Though I wouldn't go getting your hopes up. They are incredibly ancient texts, not to mentio- Ouch!
+Lisa: Gosh, that hurt!
+Lisa: The impurities in the crystal... It hurts when I get close...
+Lisa: I see... It appears to react to Visions.
+Lisa: The impurities and the elemental energy we embody repel each other.
+Lisa: It's strange, though. ������ has elemental abilities as well, but doesn't seem to be affected in the same way.
+������: ...
+Lisa: Anyway, the crystal would be better left in the hands of my cutie. lt will just be a pain if left with us - both literally and metaphorically.
+������: Cutie?
+Jean: ...Fascinating
+Jean: Do you know anything about what makes you special?
+Jean: I do not know what to make of it either.
+Jean: Well, then, ������... The Knights of Favonius have another favor to ask of you.
+Jean: Please accept the title of Honorary Knight... and the gratitude of the Acting Grand Master.
+Paimon: Honorary Knight... of Favonius!?
+Jean: We ask for your continued assistance in finding some answers.
+Jean: Stormterror's rage... and strange crystals... I know Mondstadt's peace hangs in the balance.
+Jean: May the wind open your eyes to the truth.
+Jean: We'll meet back here if you find anything.
+
+
+
+
+
+
+
+
+
+
+

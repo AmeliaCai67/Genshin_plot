@@ -1,0 +1,76 @@
+Wild Escape
+Venti's plan to steal the Holy Lyre went off without a hitch. Well, almost – when the Lyre was almost in your hands, a stranger stole it from under your noses. Your movements alerted the guards, forcing you to flee the Cathedral.
+Escape the Cathedral
+Use the wind currents to get far away from the Cathedral
+Hide in the tavern
+Talk to Diluc
+Charles: Master Diluc, this is this week's accounts.
+Diluc: Hmm... The disaster has greatly affected business.
+Charles: Well, let's hope it all ends soon.
+Venti: Hi, we'd like a seat at your, uhh... least conspicuous table.
+Diluc: Umm... The second floor has fewer customers. You'd be less conspicuous up there...
+Diluc: But aren't you a bard? Why not sit front and center?
+Venti: Hahaha, let's save the paid performance for next time. We'll be heading up now, see you in a bit!
+Diluc: Hey, keep an eye on them. There's something strange about that bard. I'll go ask around.
+Charles: Ask who exactly?
+Diluc: The "protectors" of Mondstadt...
+Hide on the second floor of the tavern
+Otto: Ah, Master Diluc. Have you seen two thieves around?
+Diluc: What happened? Why have you mobilized so many guards?
+Miles: Haven't you heard, Master Diluc? Two thieves were trying to steal the Holy Lyre!
+Diluc: Oh? How odd.
+Miles: Isn't it? The Holy Lyre is a treasure that was played by the God of Anemo themselves. Such a precious piece of cultural heritage一
+Diluc: Why would one want to steal something they can't sell off? Would pay better to steal from my cellars...
+Otto: Huh?
+Diluc: Sorry, off topic. Believe they headed that way.
+Miles: Understood. Thank you, Master Diluc!
+Answer Diluc's questions
+Venti: Today I think I'll have a glass of...
+Diluc: You can put down that bottle you stole from behind the counter.
+Venti: ...something cold.
+Diluc: Right. I want answers.
+Venti: Lemme finish my drink first? I'll pay you - well, with a
+Diluc: It's not about money. You seem too young to be drinking
+Venti: No need to worry. When I started drinking, you were still-
+旅行者: How about answering my question first?
+Venti: Oh, you wanna ask "Who's this?" Am I right?
+Venti: He is Master Diluc, the boss of... ah, the owner of this tavern.
+Venti: He's very famous. By the way, his dandelion wine is one of my favorites
+Venti: Though most of the time I can only afford a bottle or two...
+Diluc: I just heard about some thieves from the guards.
+Diluc: For the record, I like your guts for trying to steal the Holy Lyre der Himmel.
+Diluc: Even if you are fools... but we don't often get to see people like you.
+Paimon: It wasn't us that stole it! The real thief is still out there!
+Venti: This is the hotshot of the Knights of Favonius. Why would someone so aspiring steal Mondstadt's sacred treasure?
+Diluc: Hotshot...? h, so it's you.
+Diluc: So, you and the bard are close friends?
+旅行者: We're not close, actually.
+Diluc: Well... Despite only being a passing traveler, you still offered yourhelp to Mondstadt in its time of need.
+Diluc: A shame you joined the Knights.
+Diluc: The Knights of Favonius... Inefficient right from beginning to end.
+Diluc: And towards the Fatui? Weak and conservative.
+Diluc: Forget it. I don't feel like talking about it.
+Venti: Seems you don't really like the Knights of Favonius.
+Diluc: Just differences in approach is all.
+Diluc: I have my own hopes for this city
+Diluc: Now, answers. Why did you steal the Holy Lyre?
+Venti: You sure you want to know? It could implicate you in the affairs of the Knights of Favonius.
+Diluc: That's fine. I somehow always end up implicated in their affairs.
+Venti: If I tell you the story with a performance, will you believe me?
+Diluc: It depends. I'll make my own judgment.
+Venti: Then will I get paid?
+Diluc: Your reward will range from anywhere between five Mora and the Holy Lyre. It all depends on your story.
+Venti: Very well. Let me put on a show...
+You listen to Venti sing the song about the dragon once more...
+Diluc: What did I just witness...
+Diluc: This is confidential information. Why did you let me know?
+Venti: Why? Hmm... Perhaps the winds are changing.
+Venti: What say you, Master Diluc?
+Diluc: Interesting.
+Diluc: Give me some time. I'll organize some contacts.
+Diluc: Outlander, as one of the Knights, it seems you're not a suspect.
+Diluc: Blonde is the only description on the wanted poster. You should be safe.
+Diluc: As for the bard however, it'd be better if you stayed in the tavern.
+Venti: Haha. No problem! I like taverns.
+Diluc: ...
+Diluc: Okay. Let's meet here tonight after the tavern closes.

@@ -1,0 +1,39 @@
+Chasing Shadows
+The person Diluc called in turned out to be Jean from the Knights of Favonius. After some discussions, it is discovered that it was the Fatui who stole the Holy Lyre der Himmel. You must retrieve it to rescue Dvalin.
+Enter the Fatui hideout
+Venti: Jean just said the Fatui are trying to take Dvalin's power for the Cryo God...
+Venti: I fear this might fall short of their true intentions.
+Venti: I think they intend to use Barbatos' connection to the wind to draw him out.
+Venti: Just like Lisa traced the source of the storm to the temples
+Diluc: The God of Anemo? ...Hasn't been seen for more than a thousand years. What makes you think that's their intention?
+Venti: Oh... ah...
+Diluc: ...
+Diluc: Forget it. I don't like having to pry. 旅行者, here. Take this.
+Paimon: What is it?
+Diluc: A disguise, to protect your identity. Put it on before you run into the Fatui.
+Diluc: Unfortunately, they are still one of Mondstadt's allies. At least that's the facade we're maintaining...
+Diluc: Our actions are going to get them stirred up. Better to not implicate yourself on a personal level.
+Interrogate the guard
+Fatui Guard: No, NO! Don't eat me! Ah? You're... You're human?
+Fatui Guard: The entire floor's defenses... have been broken. I thought it was the Abyss Order attacking...
+旅行者: We have come for the Holy Lyre der Himmel.
+Fatui Guard: H-How did you guys know the lyre's here?
+Fatui Guard: The place it's being kept is locked up tight. If you're after the key, keep going further into the ruins, but d-don't come after me!
+Fatui Guard: I don't know which one of the guards has it, but I'm sure you can find the guards and find out for yourselves.
+Paimon: This guy looks like he's about to wet himself.
+Fatui Guard: Y-You just worry about yourselves!
+Fatui Guard: One of the Harbingers is already in Mondstadt.
+Fatui Guard: Signora. When she gets her hands on you she's going to string you up and torture you. When that time comes, don't you dare say a word about me.
+Scour the Fatui hideout to find the key
+Paimon: Did he say Signora? What a strange name...
+Diluc: No. 8 of The Eleven Harbingers. Goes by the name Signora.
+Diluc: The fact the Fatui can run amok across the seven nations like they do is entirely because of The Eleven Harbingers.
+Diluc: We need to act quickly before she gets wind of what's going on.
+Open the sealed door.
+Enter the area where the lyre is stored
+Obtain the Holy Lyre der Himmel
+Talk to Paimon
+Paimon: Finally, the lyre is back in safe hands!
+Paimon: Where did that guy go, though? He was here a second ago...
+Agent: Signora is going to end you. The songs bards sing of your demise will be so terrifying - the people of Mondstadt will never sleep again for the nightmares they give them.
+Paimon: Big talk for a guy who still ran off in the end... Chicken.

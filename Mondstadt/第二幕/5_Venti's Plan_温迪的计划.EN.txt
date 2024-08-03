@@ -1,0 +1,60 @@
+Venti's Plan
+Stopped at last, Venti explained that he had tried and failed to cleanse Dvalin's curse during their previous meeting. Now, he has been forced to rely on the Holy Lyre der Himmel's power if he is to restore Dvalin.
+Go to the Cathedral with Venti
+Paimon: So this... "Holy Lyre der Himmel" is...
+Venti: One of the most treasured items in Mondstadt. It's the lyre that Barbatos used to play. 
+Venti: With it, perhaps I can help Dvalin draw his gentle nature back out of this nightmare he's going through.
+Paimon: Will it really stop Stormterror from causing more damage?
+Venti: Of course. I'm the best bard in the world.
+Venti: There's not a single song I do not know, no matter if it's from the past, present, or future.
+Venti: Look me in the eyes. Do you not find me trustworthy?
+旅行者: ...just what is that in your eyes!?
+Paimon: So how can we get the Holy Lyre?
+Venti: It's said that it's enshrined deep within the Cathedral, somewhere safe.
+Venti: I'll go take a look around. You can come if you want.
+Go to Venti
+See how Venti borrows the Holy Lyre
+Venti: Let me handle this...
+Venti: Hello there, Sister.
+Gotelinde: May the Anemo God bless you, young bard. How can I help you?
+Venti: Actually, I know a secret that can save Mondstadt from its current predicament.
+Gotelinde: Oh, what a blessing from the God of Anemo!
+Gotelinde: But you should report that to the Knights of Favonius. Why have you come to me?
+Venti: Hahaha, because you, dear sister, are able to help!
+Venti: I'd like to borrow... the Holy Lyre. With it, I'll be able to help Stormterror
+Gotelinde: Please see yourselves out.
+Venti: What?
+Gotelinde: It's a vicious dragon indeed, but once the Acting Grand Master makes up her mind, nothing can stand in the Knights' way.
+Venti: That's simply not acceptable. Wouldn't Stormterror end up getting killed that way?
+Gotelinde: That foolish beast betrayed the winds. Not even the God of Anemo themselves would forgive it!
+Venti: Wow...
+Venti: Please, I beg of you!
+Gotelinde: I'm afraid not, little bard
+Gotelinde: (Strange... Somehow I feel so bad rejecting this sweet child...)
+Venti: Then... I guess I'm left with no other choice
+Venti: I cannot hide anymore!
+Venti: My disciples, rejoice! Behold, the God of Anemo, Barbatos has descended!
+Venti: Shocked, aren't you? Don't you just want to cry out and rejoice? How does it feel to finally meet the god you've been serving?
+Gotelinde: If there's nothing else, I'll be going back to handle the Cathedral's paperwork now.
+Venti: Wait
+Talk to Venti
+Venti: Eh? She didn't even bat an eyelid.
+Venti: But, I have at least learned what I wanted to know.
+Venti: She didn't deny that the Cathedral is enshrining the Holy Lyre.
+Venti: Now, 旅行者, since you're the hot shot of the Knights of Favonius...
+Venti: Maybe you can give it a shot.
+Talk to the sister
+Gotelinde: Barbatos bless you.
+旅行者: Hello.
+Gotelinde: Ah, it's you! The newcomer of the Knights of Favonius, aren't you?
+Gotelinde: So what brings you here? Tasks from the Acting Grand Master?
+旅行者: Yes, actually. The Knights of Favonius would like to borrow the Holy Lyre...
+Gotelinde: Is that so?
+Gotelinde: Not that I don't trust you. It's just that a suspicious bard came looking to borrow the Holy Lyre as well.
+Gotelinde: He's full of nonsense and even called himself Barbatos. He must be up to something.
+Gotelinde: There are regulations in place for the use of the Holy Lyre. Currently, it's only used in Ludi Harpastum.
+Gotelinde: Signed documents from the Grand Master, Seneschal, and Community Representative are all required.
+Gotelinde: So, may I see the document from the Knights of Favonius?
+旅行者: The Grand. Master didn't mention it...
+Gotelinde: A signed document is required. Without it, there's not much I can do.
+Gotelinde: Now, if you'll excuse me. I really am quite busy as of late.

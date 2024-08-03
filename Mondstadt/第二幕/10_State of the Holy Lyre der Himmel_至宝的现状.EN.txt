@@ -1,0 +1,46 @@
+State of the Holy Lyre der Himmel
+After a fierce battle, you managed to seize the Holy Lyre der Himmel back from the hands of the Fatui. For some reason, Venti seems to express a great nostalgia for the Lyre...
+Bring the Holy Lyre back to the tavern
+Talk to Venti
+Venti: Welcome back!
+Venti: Ah, this is the Holy Lyre! You managed to retrieve it!
+Venti: The pattern of flowing wind carved on the rosewood... and the strings still feel cool to the touch too. Oh, the memories...
+Jean: What do you think, Venti? Can you summon Dvalin?
+Venti: Although this lyre is the real thing, I doubt that it's going to work.
+Venti: As you can see, the lyre has been through a thousand years of history. Its Anemo power has run dry.
+Venti: In this condition, you couldn't play music fit for even Diluc's tavern with it...
+Diluc: Bards fight to get on the stage of my tavern. Don't make assumptions!
+Paimon: Is that really important right now, Master Diluc!?
+Paimon: And you - did you just borrow the Holy Lyre to play music for drunkards to hear?
+Venti: Hehe.
+Paimon: What do you mean "hehe"!?
+Venti: Anyway, we won't be able to call Dvalin with it.
+Venti: The lyre itself is fine, but the strings...
+Venti: You're up, outlander!
+旅行者: Are you talking about me?
+Venti: Relax! It's not broken.
+Venti: It's just that the intensity of its Anemo power has greatly diminished.
+Venti: 旅行者, do you still have Dvalin's Teardrop Crystal with you? 
+Use Dvalin's Teardrop Crystal on the Holy Lyre
+Talk to Jean
+Venti: It worked, as expected
+Jean: This youthful glow...
+Paimon: Praising yourself? Really?
+Jean: ...I was talking about the Holy Lyre.
+Venti: Thanks to 旅行者 having purified the crystal, the Holy Lyre won't continue to lose power.
+Venti: That said, its power is far from replenished. It'd be great if we could get more tears.
+旅行者: We'll help.
+Paimon: How can we gather more?
+Venti: I can surmise that Dvalin will already be crying...
+Venti: Suffering alone in some deserted place...
+Jean: Dvalin...
+Paimon: Poor baby...
+Jean: This is not something that an Honorary Knight can accomplish alone. I will mobilize the rest of the knights to assist.
+Jean: When you get the Teardrop Crystal, please let 旅行者 perform the purification process.
+旅行者: Leave it to me.
+Venti: Heroes supporting each other and setting out on a journey together...How exciting!
+Venti: Lemme come up with a song for you...
+Paimon: Is that all you're going to do? Just sing?
+Venti: Wouldn't be much of a bard if I didn't now, would I?
+Paimon: Hmph. You're so cheeky... You deserve an ugly nickname.
+Paimon: Oh, Paimon knows! From now on, you'll be known as "Tone-Deaf Bard"!

@@ -1,0 +1,55 @@
+Behind the Scenes
+In your haste fleeing from the confusion, you found yourself in Diluc's tavern, where - to your surprise - he decided to help hide you. Diluc agrees to meet back at the tavern after nightfall with his "contacts" - who could they be?
+Leave Tavern
+Wait till the tavern is closed (00:00 - 6:00)
+Go back to the tavern
+Talk to Diluc
+Venti: You're here.
+Jean: Wait, you're... 旅行者?
+旅行者: ...Jean?
+Diluc: Well, first of all, I contacted more than one person.
+Diluc: Secondly, she came here as "Jean" herself, not as the Acting Grand Master.
+Diluc: A Jean you would never see, even as an Honorary Knight.
+Jean: What a surprise
+Jean: I heard about the Holy Lyre, but I never suspected it was you.
+Jean: So, the sound of the Holy Lyre can purify Stormterror and return it to normal... Is that true?
+Venti: That's right! 旅行者 is putting themselves on the front line to try and resolve this Stormterror issue.
+Venti: Now that's the hotshot of the Knights of Favonius I'm talking about.
+Paimon: Feels like we're breaking the law though...
+Diluc: I understand this kind of absurd explanation is hard to believe.
+Diluc: But, we can ask the bard to play the song again to try and persuade
+Jean: I believe you.
+Diluc: To persuade our stubborn comman- Wait, what?
+Jean: I can't think of any reason for Dvalin's betrayal, given it was once one of The Four Winds.
+Jean: However, if it was poisoned in the battle over Mondstadt all those years ago...
+Jean: And then corrupted by the Abyss Mage after it woke up - we can't really blame it.
+Jean: But as Acting Grand Master I obviously cannot make such a statement publicly.
+Jean: Diplomatic pressure from the Fatui makes it hard for us to seek a peaceful resolution to the Stormterror issue.
+Jean: People would think I've lost grip on the gravity of the situation. That's why I can only do this in private.
+Diluc: Hmph.
+Diluc: That's one of the reasons I don't like the Knights of Favonius
+Diluc: What surprises me is that you would believe an outlander so easily...
+Jean: My cautious and meticulous superior, even you trust her. Don't you. sir?
+Diluc: I already told you not to call me sir... Never mind. We don't often get to work together after all.
+旅行者: Sir?
+Jean: ...
+Diluc: ...
+Paimon: Wow! Um...This is really awkward...
+Jean: I have a rough idea of where the Holy Lyre der Himmel is.
+Venti: (Nice recovery! She's really talented at changing the subject...)
+Jean: The conflict between Mondstadt and Snezhnaya stems from the conflict between the seven nations and their respective gods.
+Jean: The Cryo God's Fatui seem to be after the Anemo God's power.
+Venti: ...
+旅行者: So are they going to take over the defense of Mondstadt?
+Jean: Right.
+Jean: If the Knights of Favonius publicly prevented an attempt on Dvalin's head, then...
+Jean: The only other way to affect the Anemo God's power is to take the Holy Lyre.
+Diluc: The number of Fatui that have come to Mondstadt is far from limited.
+Diluc: I've already managed to... coerce a few reports out of them.
+Jean: Diluc has determined that the Holy Lyre is not being held in the Goth Grand Hotel.
+Jean: I imagine they don't want to leave something stolen in a place where it could be so easily found.
+Paimon: Paimon gets it, If too much of a scene gets made then it becomes a big diplomatic issue.
+Diluc: Hmph, such is the diplomacy between the seven nations.
+Talk to Diluc
+Diluc: Outlander, ready to go?
+旅行者: Let's go!

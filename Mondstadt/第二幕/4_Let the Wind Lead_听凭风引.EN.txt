@@ -1,0 +1,49 @@
+Let the Wind Lead
+The mysterious fellow claimed to be a bard named Venti, but left on his own accord before you could get him to explain his relationship with the dragon. You follow him to the giant tree at Windrise.
+Go to Windrise
+Talk to Venti
+Venti: Oh? What are you doing here?
+Venti: Though I was just wondering if you would happen to follow me...
+旅行者: I want to know more about the Anemo God.
+Venti: You speak of the God of Anemo, Barbatos? He already disappeared from Mondstadt a long time ago.
+Venti: Liyue and Inazuma's respective gods of Geo and Electro are still present, but Mondstadt has seen many a moon since they last saw their own god.
+Venti: Why do you wish to know about the God of Anemo? Does it have something to do with Dvalin?
+Paimon: Oh... ahhh... it's because gods...
+旅行者: Yes, someone told me about Dvalin's past.
+Venti: Just how is it that everyone sees Stormterror? I'm quite curious.
+Venti: That said, there's no need to rush...
+Venti: I have not been back in a while, it seems there are a few who are unhappy with my arrival. 
+Defeat the creature
+Paimon: The wind... I can't... open my eyes...
+Paimon: What is a creature like that doing out here in such a calm place?
+Paimon: You think it was going after that green guy?
+Paimon: 旅行者... His relationship with the wind seems even deeper than yours...
+Talk to Venti
+Venti: Seems the dragon wasn't the only thing affected by this change in the wind...
+Venti: Now then, you were saying someone had told you about the dragon?
+You tell Venti what Lisa explained to you...
+Venti: ls that so? Quite the scholar I must say, that Lisa.
+Venti: She's not wrong. The conflict has reached this point, only because both sides have resorted to the use of force.
+Venti: His hate, however, did not arise from the people not making tribute to The Four Winds.
+Venti: Nor was it born from his own nature, but instead came about as a product of his degradation.
+Paimon: Degra... dation?
+Venti: The black blood flowing through his heart has been torturing him for years.
+Venti: That's what has allowed him to be led astray by the lies of the Abyss Mage.
+旅行者: Abyss Mage? Never heard such a name.
+Venti: They are from the Abyss Order, an organization comprised of non-human beings. They despise mankind.
+Venti: I don't know where they come from. All I know is that they hold deep hatred towards the human world.
+Venti: Many hilichurls out in the wild take orders from them and act as their weapons.
+Venti: Before arriving here, I too was like Dvalin, cursed and left to waste.
+Venti: But now, before us stands the Symbol of Mondstadt's Hero, the place from which Mondstadt rose.
+Venti: The wind amongst the branches is good, I love the way it smells...
+Venti: Being here with you beneath this great tree feels like when the tear was purified earlier. Like the poison is leaving my body...
+Venti: Mmmmmmm... Feels much better.
+Paimon: So... how exactly did you get poisoned?
+Venti: Ahh... that would be because I tried to communicate with Dvalin earlier, but was... interrupted...
+Venti: As a result, not only did I not manage to help Dvalin break his curse, but instead, was also infected myself!
+旅行者: Oh, ah... that...
+Venti: Yes, it was you!
+Venti: So, to make up for it, 旅行者, you're coming with me to the Cathedral!
+Paimon: The Mondstadt Cathedral? To do what exactly?
+Venti: To claim a certain "Holy Lyre der Himmel".
+
